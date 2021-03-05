@@ -1,5 +1,12 @@
 # Introduction_to_research_methods
 
+This readme is about the amount_of_de.sh shells script file, what it does (when all things that are below here are properly installed)
+is it counts all occurrences of the article "de" in the Dutch Wikipedia page of the Rijksuniveristeit Groningen (link to wikipedia page):
+
+(https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen)
+
+What part of the code does what, is commented in the code itself. Before running the code read this readme carefully.
+
 In the amount_of_de.sh file you are going to come across this line:
 WIKIPEDIA_PAGE=`wiki-cli -Pl nl Rijksuniversiteit Groningen`
 
