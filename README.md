@@ -61,7 +61,7 @@ Something with the same text as google should show up. (afterwards you can just 
 
 If both wikipedia2text and (a working version of) a text-browser are installed, you can now download the file:
 
-type the following line in your terminal to download the file:
+Type the following line in your terminal to download the file:
 
 wget https://raw.githubusercontent.com/hacxpiont/Introduction_to_research_methods/main/amount_of_de.sh
 
