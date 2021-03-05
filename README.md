@@ -7,6 +7,20 @@ is it counts all occurrences of the article "de" in the Dutch Wikipedia page of 
 
 What part of the code does what, is commented in the code itself. Before running the code read this readme carefully.
 
+The code can be found on this page:
+
+https://raw.githubusercontent.com/hacxpiont/Introduction_to_research_methods/main/amount_of_de.sh/
+
+It is stated down below how to download the code from your terminal.
+
+The code gets the data for you and stores it very shortly for you, when it is finished with the data is removes the file automatically.
+
+If you want to keep the stored file, remove the very last line of the code:
+
+rm de_in_rug_nl.txt
+
+the file de_in_rug_nl.txt should still be in the current working directory if you decide to remove the last line from the code.
+
 In the amount_of_de.sh file you are going to come across this line:
 WIKIPEDIA_PAGE=`wiki-cli -Pl nl Rijksuniversiteit Groningen`
 
