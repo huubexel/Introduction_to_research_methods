@@ -16,7 +16,7 @@ rm -Rf wikipedia2text
 
 (after every line press enter)
 
-wikipedia2text uses a text-browser, you have to download or already have one for it to be able to work.
+wikipedia2text uses a text-browser, you have to download one or already have one for it to be able to work.
 There are a few text-browser where it is certain that the program will work, these are the following:
 - Links
 - Links2
