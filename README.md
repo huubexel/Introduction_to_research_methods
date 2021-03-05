@@ -52,7 +52,7 @@ $ sudo pacman -S links
 
 urpmi links
 
-If you are on Ubuntu(linux) what I used as well use the sudo apt-get install links
+If you are on Ubuntu(linux),thats what I used as well, use the sudo apt-get install links
 
 To try and see of it works type in your terminal
 links www.google.com
