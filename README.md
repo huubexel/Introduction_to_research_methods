@@ -67,7 +67,7 @@ wget https://raw.githubusercontent.com/hacxpiont/Introduction_to_research_method
 
 Or you could go to the github of hacxpiont and download it from there.
 
-You now have to file
+You now have the file.
 
 Now you have to make it working, you can do this by typing this line once and pressing enter:
 chmod ugo+x amount_of_de.sh
