@@ -9,7 +9,9 @@ You have to download wikipedia2text for this shell script to be able to work (if
 You can do this by typing the following lines in your terminal:
 
 git clone https://github.com/chrisbra/wikipedia2text 
+
 sudo mv wikipedia2text/wikipedia2text /bin/wiki-cli
+
 rm -Rf wikipedia2text
 
 (after every line press enter)
