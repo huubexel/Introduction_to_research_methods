@@ -70,6 +70,7 @@ Or you could go to the github of hacxpiont and download it from there.
 You now have the file.
 
 Now you have to make it working, you can do this by typing this line once and pressing enter:
+
 chmod ugo+x amount_of_de.sh
 
 Everything is now set for it to be able to work:
