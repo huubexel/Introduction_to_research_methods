@@ -1,6 +1,9 @@
 #!/bin/bash
 
-# puts the wikipedia page in a variable
+# Before you randomly run this code, first read the readme (link here:)
+# https://github.com/hacxpiont/Introduction_to_research_methods/blob/main/README.md
+
+# gets the wikipedia page and puts the wikipedia page in a variable
 WIKIPEDIA_PAGE=`wiki-cli -Pl nl Rijksuniversiteit Groningen`
 
 # this line creates an empty file named de_in_rug_nl.txt
