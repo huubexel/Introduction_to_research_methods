@@ -52,9 +52,9 @@ $ sudo pacman -S links
 
 urpmi links
 
-If you are on Ubuntu(linux),thats what I used as well, use the sudo apt-get install links
+If you are on Ubuntu(linux), thats what I used as well, use the sudo apt-get install links
 
-To try and see of it works type in your terminal
+To try and see if it works type in your terminal
 links www.google.com
 
 Something with the same text as google should show up.
@@ -65,7 +65,7 @@ type the following line in your terminal to download the file:
 
 wget https://raw.githubusercontent.com/hacxpiont/Introduction_to_research_methods/main/amount_of_de.sh
 
-or you could go to the github of hacxpiont and download it from there.
+Or you could go to the github of hacxpiont and download it from there.
 
 You now have to file
 
