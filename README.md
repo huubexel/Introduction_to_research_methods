@@ -75,6 +75,7 @@ chmod ugo+x amount_of_de.sh
 
 Everything is now set for it to be able to work:
 Type this line in your terminal and press enter:
+
 ./amount_of_de.sh
 
 
