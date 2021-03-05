@@ -27,6 +27,7 @@ There are a few text-browser where it is certain that the program will work, the
 
 I personally used Links.
 You can download Links by using 1 of the following lines (depends on what kind of system you are using)
+
 [Debian, Mint & Ubuntu]
 
 $ sudo apt-get install links
