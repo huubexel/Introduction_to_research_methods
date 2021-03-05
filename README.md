@@ -57,7 +57,7 @@ If you are on Ubuntu(linux), thats what I used as well, use the sudo apt-get ins
 To try and see if it works type in your terminal
 links www.google.com
 
-Something with the same text as google should show up.
+Something with the same text as google should show up. (afterwards you can just exit and restart the terminal again)
 
 If both wikipedia2text and (a working version of) a text-browser are installed, you can now download the file:
 
