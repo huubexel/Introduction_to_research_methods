@@ -28,15 +28,15 @@ You can download Links by using 1 of the following lines (depends on what kind o
 [Debian, Mint & Ubuntu]
 $ sudo apt-get install links
 [RHEL, CentOS & Fedora 21 & Older]
-# yum install links
+yum install links
 [Fedora 22 & Later]
-# dnf install links
+dnf install links
 [suse & openSUSE]
-# zypper install links
+zypper install links
 [ArchLinux & Manjaro]
 $ sudo pacman -S links
 [Mageia]
-# urpmi links
+urpmi links
 
 If you are on Ubuntu(linux) what I used as well use the sudo apt-get install links
 
@@ -47,6 +47,19 @@ Something with the same text as google should show up.
 
 If both wikipedia2text and (a working version of) a text-browser are installed, you can now download the file:
 type the following line in your terminal to download the file:
+wget https://raw.githubusercontent.com/hacxpiont/Introduction_to_research_methods/main/amount_of_de.sh
+
+or you could go to the github of hacxpiont and download it from there.
+
+You now have to file
+
+Now you have to make it working, you can do this by typing this line once and pressing enter:
+chmod ugo+x amount_of_de.sh
+
+Everything is now set for it to be able to work:
+Type this line in your terminal and press enter:
+./amount_of_de.sh
+
 
 
 
