@@ -5,7 +5,7 @@ WIKIPEDIA_PAGE=`wiki-cli -Pl nl Rijksuniversiteit Groningen`
 
 This line loads the wikipediapage in a more usable variable
 It uses wikipedia2text.
-You have to download wikipedia2text for this shell script to be able to work (if you did not download it before).
+You have to download wikipedia2text for this shell script to be able to work (if you did not download it already).
 You can do this by typing the following lines in your terminal:
 
 git clone https://github.com/chrisbra/wikipedia2text 
