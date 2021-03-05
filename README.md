@@ -26,16 +26,27 @@ There are a few text-browser where it is certain that the program will work, the
 I personally used Links.
 You can download Links by using 1 of the following lines (depends on what kind of system you are using)
 [Debian, Mint & Ubuntu]
+
 $ sudo apt-get install links
+
 [RHEL, CentOS & Fedora 21 & Older]
+
 yum install links
+
 [Fedora 22 & Later]
+
 dnf install links
+
 [suse & openSUSE]
+
 zypper install links
+
 [ArchLinux & Manjaro]
+
 $ sudo pacman -S links
+
 [Mageia]
+
 urpmi links
 
 If you are on Ubuntu(linux) what I used as well use the sudo apt-get install links
