@@ -73,7 +73,7 @@ $ sudo pacman -S links
 
 urpmi links
 
-If you are on Ubuntu(linux), thats what I used as well, use the sudo apt-get install links
+If you are on Ubuntu(linux), thats what I used as well (distribution of linux I used = Ubuntu 20.04.2.0 LTS), use the sudo apt-get install links
 
 To try and see if it works type in your terminal
 links www.google.com
