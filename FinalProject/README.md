@@ -21,3 +21,10 @@ Toen geverifieerd dat de installatie succesvol is geweest met het proberen van d
 git lfs install
 en als het goed is staat er dan nog een keer 
 git lfs initialized.
+
+What is the south of the Netherlands: the provinces of Zeeland, Limburg and North-Brabant.
+What is the North of the Netherlands: the provinces of Drenthe, Friesland and Groningen.
+
+What Do I need besides the data that I already uploaded, A list of places in these provinces and a list of happy and negative words. Than I have to make a python code that searches out the tweets that are happy and those that are sad. And last but not least write a report about this.
+
+This is where i found the list: https://www.metatopos.eu/almanak.html
