@@ -28,3 +28,12 @@ What is the North of the Netherlands: the provinces of Drenthe, Friesland and Gr
 What Do I need besides the data that I already uploaded, A list of places in these provinces and a list of happy and negative words. Than I have to make a python code that searches out the tweets that are happy and those that are sad. And last but not least write a report about this.
 
 This is where i found the list: https://www.metatopos.eu/almanak.html
+
+I now have a list with the places of the north of the netherlands and a list with the places of the south of the Netherlands.
+
+Now I need a good words and bad words list.
+
+Bad words list: https://gist.github.com/FrankHouweling/7fce4b89da4357744054
+Good words list: finding a good good words list was harder, the only thing I found was this https://www.theschoolofplay.nl/positief-verwoorden/#:~:text=Begrijpen%2C%20Begripsvol%2C%20Behulpzaam%2C%20Bejubelen,%2C%20Bloemrijk%2C%20Boeien%2C%20Briljant%2C so I copy pasted the words from the site and put them in a textfile.
+
+alles behalve en niet
