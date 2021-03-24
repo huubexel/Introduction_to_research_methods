@@ -34,6 +34,6 @@ I now have a list with the places of the north of the netherlands and a list wit
 Now I need a good words and bad words list.
 
 Bad words list: https://gist.github.com/FrankHouweling/7fce4b89da4357744054
-Good words list: finding a good good words list was harder, the only thing I found was this https://www.theschoolofplay.nl/positief-verwoorden/#:~:text=Begrijpen%2C%20Begripsvol%2C%20Behulpzaam%2C%20Bejubelen,%2C%20Bloemrijk%2C%20Boeien%2C%20Briljant%2C so I copy pasted the words from the site and put them in a textfile.
+Good words list: finding a good good words list was harder, the only thing I found was this https://www.theschoolofplay.nl/positief-verwoorden/#:~:text=Begrijpen%2C%20Begripsvol%2C%20Behulpzaam%2C%20Bejubelen,%2C%20Bloemrijk%2C%20Boeien%2C%20Briljant%2C so I copy pasted the words from the site and put them in a textfile. I put every word on a different line and deleted the capitals in between.
 
 alles behalve en niet
