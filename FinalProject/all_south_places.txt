@@ -1,0 +1,2277 @@
+2800	's Gravenmoer	5109–5109	Dongen	Noord-Brabant
+'s-Gravenmoerse Vaart	5109–5109	Dongen	Noord-Brabant
+1263	's-Gravenpolder	4431–4431	Borsele	Zeeland
+1264	's-Heer Abtskerke	4444–4444	Borsele	Zeeland
+1822	's-Heer Arendskerke	4458–4458	Goes	Zeeland
+1823	's-Heer Hendrikskinderen	4472–4472	Goes	Zeeland
+1265	's-Heerenhoek	4453–4453	Borsele	Zeeland
+1595	's-Hertogenbosch	5201–5237	's-Hertogenbosch	Noord-Brabant
+'t Coll	5641–5641	Eindhoven	Noord-Brabant
+'t Eind	5076–5076	Oisterwijk	Noord-Brabant
+'t Haantje	4756–4756	Steenbergen	Noord-Brabant
+'t Heeske	5993–5993	Peel en Maas	Limburg
+'t Herselt	5826–5826	Boxmeer	Noord-Brabant
+'t Hoekje	4566–4566	Hulst	Zeeland
+'t Hoekske	5056–5056	Tilburg	Noord-Brabant
+'t Hof	5737–5737	Laarbeek	Noord-Brabant
+'t Jagertje	4561–4561	Hulst	Zeeland
+'t Leuken	5854–5854	Bergen	Limburg
+'t Marktje	4634–4634	Woensdrecht	Noord-Brabant
+'t Rooth	6269–6269	Eijsden-Margraten	Limburg
+'t Ven (?)	5461–5461	Meierijstad	Noord-Brabant
+'t Vlaandertje	4451–4451	Borsele	Zeeland
+'t Winkel	5074–5074	Tilburg	Noord-Brabant
+'t Zand	5131–5131	Alphen-Chaam	Noord-Brabant
+'t Zand	5831–5831	Boxmeer	Noord-Brabant
+'t Zand	4254–4254	Altena	Noord-Brabant
+2774	Aagtekerke	4363–4363	Veere	Zeeland
+Aalbeek	6336–6336	Beekdaelen	Limburg
+Aaldonk	6595–6595	Gennep	Limburg
+Aalst	5582–5583	Waalre	Noord-Brabant
+Aan de Berg	6105–6105	Echt-Susteren	Limburg
+Aan de Berg	6065–6065	Roerdalen	Limburg
+Aan de Bergen	6093–6093	Leudal	Limburg
+Geulle aan de Maas	6243–6243	Meerssen	Limburg
+Aan de Popelaar	6104–6104	Echt-Susteren	Limburg
+Aan de Rijksweg	6049–6049	Roermond	Limburg
+Aan de School	6104–6104	Echt-Susteren	Limburg
+Aan Reijans	6104–6104	Echt-Susteren	Limburg
+Aanschot	5629–5629	Eindhoven	Noord-Brabant
+2961	Aardenburg	4527–4527	Sluis	Zeeland
+Aarle	5684–5684	Best	Noord-Brabant
+1445	Aarle-Rixtel	5735–5735	Laarbeek	Noord-Brabant
+Aasterberg	6101–6101	Echt-Susteren	Limburg
+Abbekinderen	4482–4482	Goes	Zeeland
+Abcoven	5051–5051	Goirle	Noord-Brabant
+Absdale	4561–4561	Hulst	Zeeland
+Abshoven	6151–6151	Sittard-Geleen	Limburg
+Acht	5626–5626	Eindhoven	Noord-Brabant
+Achter het Klooster	6093–6093	Leudal	Limburg
+Achterbosch	5721–5721	Asten	Noord-Brabant
+Achterbosch	5737–5737	Laarbeek	Noord-Brabant
+Achterbroek	5715–5715	Someren	Noord-Brabant
+Achterdijk	4761–4761	Moerdijk	Noord-Brabant
+Achtereind	5583–5583	Waalre	Noord-Brabant
+Achterste Brug	5556–5556	Valkenswaard	Noord-Brabant
+Achterste Diesdonk	5724–5724	Asten	Noord-Brabant
+Achterste Heide	5351–5351	Oss	Noord-Brabant
+Achterste Heikant	5541–5541	Reusel-De Mierden	Noord-Brabant
+Achterste Hermalen	5481–5481	Meierijstad	Noord-Brabant
+Achterste Rith	4838–4838	Breda	Noord-Brabant
+3493	Achtmaal	4885–4885	Zundert	Noord-Brabant
+Afferden	5851–5851	Bergen	Limburg
+1122	“Afferden L.”	5851–5851	Bergen	Limburg
+Aijen	5854–5854	Bergen	Limburg
+Akker	4724–4724	Roosendaal	Noord-Brabant
+Akkerput	4505–4505	Sluis	Zeeland
+3300	Almkerk	4286–4286	Altena	Noord-Brabant
+3432	Alphen	5131–5131	Alphen-Chaam	Noord-Brabant
+Alphen-Oosterwijk	5131–5131	Alphen-Chaam	Noord-Brabant
+Altweert	6006–6006	Weert	Limburg
+Altweerterheide	6006–6006	Weert	Limburg
+Alvershool	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+1026	America	5966–5966	Horst aan de Maas	Limburg
+2099	Amstenrade	6436–6436	Beekdaelen	Limburg
+3301	Andel	4281–4281	Altena	Noord-Brabant
+Anna Jacobapolder	4675–4675	Tholen	Zeeland
+Annendaal	6061–6061	Roerdalen	Limburg
+Anneville	4858–4858	Alphen-Chaam	Noord-Brabant
+3140	Arcen	5944–5944	Venlo	Limburg
+Arendnest	5427–5427	Boekel	Noord-Brabant
+Arensgenhout	6336–6336	Beekdaelen	Limburg
+1008	Arnemuiden	4341–4341	Middelburg	Zeeland
+Asbroek	6089–6089	Leudal	Limburg
+Asenray	6042–6042	Roermond	Limburg
+Asselt	6071–6071	Roermond	Limburg
+2928	Asten	5721–5721	Asten	Noord-Brabant
+1128	Axel	4571–4571	Terneuzen	Zeeland
+Baakhoven	6114–6114	Echt-Susteren	Limburg
+Baaks	6369–6369	Simpelveld	Limburg
+Baalhoek	4587–4587	Hulst	Zeeland
+1251	Baarland	4435–4435	Borsele	Zeeland
+2883	Baarle-Nassau	5111–5111	Baarle-Nassau	Noord-Brabant
+2602	Baarlo	5991–5991	Peel en Maas	Limburg
+Baarschot	5756–5756	Deurne	Noord-Brabant
+Baarschot	5087–5087	Hilvarenbeek	Noord-Brabant
+Baarschot	4849–4849	Oosterhout	Noord-Brabant
+Baarsdorp	4444–4444	Borsele	Zeeland
+Baarstraat	6017–6017	Maasgouw	Limburg
+1951	Babyloniënbroek	4269–4269	Altena	Noord-Brabant
+2940	Baexem	6095–6095	Leudal	Limburg
+2090	Bakel	5761–5761	Gemert-Bakel	Noord-Brabant
+Bakelsebrug	5761–5761	Gemert-Bakel	Noord-Brabant
+Bakendorp	4435–4435	Borsele	Zeeland
+Bakertand	5026–5026	Tilburg	Noord-Brabant
+Bakkersdam	4501–4501	Sluis	Zeeland
+Balhofstede	4515–4515	Sluis	Zeeland
+Balleman	4855–4855	Alphen-Chaam	Noord-Brabant
+3067	Baneheide	6353–6353	Simpelveld	Limburg
+1690	Banholt	6262–6262	Eijsden-Margraten	Limburg
+Bankert	5763–5763	Gemert-Bakel	Noord-Brabant
+Barlaque	4793–4793	Moerdijk	Noord-Brabant
+Barrier	6343–6343	Voerendaal	Limburg
+Bath	4411–4411	Reimerswaal	Zeeland
+3624	Bavel	4854–4854	Breda	Noord-Brabant
+3437	Bavel AC	4859–4859	Alphen-Chaam	Noord-Brabant
+Bedaf	5406–5406	Uden	Noord-Brabant
+1918	Beegden	6099–6099	Maasgouw	Limburg
+1670	Beek	6191–6191	Beek	Limburg
+Beek	5815–5815	Venray	Limburg
+1446	Beek en Donk	5741–5741	Laarbeek	Noord-Brabant
+Beekheuvel	5853–5853	Bergen	Limburg
+Beekkant	6095–6095	Leudal	Limburg
+Beemdkant	5737–5737	Laarbeek	Noord-Brabant
+Beers	5437–5437	Cuijk	Noord-Brabant
+1449	“Beers NB”	5437–5437	Cuijk	Noord-Brabant
+Beertsenhoven	6321–6321	Gulpen-Wittem	Limburg
+1950	Beesel	5954–5954	Beesel	Limburg
+Behelp	5725–5725	Asten	Noord-Brabant
+Bekelaar	5731–5731	Geldrop-Mierlo	Noord-Brabant
+Beldert	4315–4315	Schouwen-Duiveland	Zeeland
+1476	Belfeld	5951–5951	Venlo	Limburg
+Belgenhoek	5985–5985	Peel en Maas	Limburg
+Belgeren	5756–5756	Deurne	Noord-Brabant
+Belvert	5076–5076	Oisterwijk	Noord-Brabant
+1691	Bemelen	6268–6268	Eijsden-Margraten	Limburg
+Bemmer	5741–5741	Laarbeek	Noord-Brabant
+Benedeneind	5394–5394	Oss	Noord-Brabant
+Benthem	5761–5761	Gemert-Bakel	Noord-Brabant
+Benzenrade	6419–6419	Heerlen	Limburg
+Berenbroek	5707–5707	Helmond	Noord-Brabant
+Berg	6028–6028	Cranendonck	Noord-Brabant
+Berg	6267–6267	Eijsden-Margraten	Limburg
+Berg	5768–5768	Peel en Maas	Limburg
+Berg	6129–6129	Stein	Limburg
+Berg (?)	6325–6325	Valkenburg aan de Geul	Limburg
+1716	Berg en Terblijt	6325–6325	Valkenburg aan de Geul	Limburg
+1457	Bergeijk	5571–5571	Bergeijk	Noord-Brabant
+Bergen	5854–5854	Bergen	Limburg
+1121	“Bergen L”	5854–5854	Bergen	Limburg
+1937	Bergen op Zoom	4601–4625	Bergen op Zoom	Noord-Brabant
+Bergenhuizen	6255–6255	Eijsden-Margraten	Limburg
+Bergenshuizen	5262–5262	Vught	Noord-Brabant
+Berghem	6271–6271	Gulpen-Wittem	Limburg
+3250	Berghem	5351–5351	Oss	Noord-Brabant
+Bergsche Heide	5854–5854	Bergen	Limburg
+Berik	6082–6082	Leudal	Limburg
+3438	Beringe	5986–5986	Peel en Maas	Limburg
+Berkeind	5032–5032	Tilburg	Noord-Brabant
+Berkeindje	5715–5715	Someren	Noord-Brabant
+Berkelaar	6101–6101	Echt-Susteren	Limburg
+1044	Berkel-Enschot	5056–5057	Tilburg	Noord-Brabant
+Berkhoek	5427–5427	Boekel	Noord-Brabant
+Berkhoek	5071–5071	Tilburg	Noord-Brabant
+Berkt	5384–5384	Bernheze	Noord-Brabant
+Berkt	5508–5508	Veldhoven	Noord-Brabant
+2057	Berlicum	5258–5258	Sint-Michielsgestel	Noord-Brabant
+Besselaar	5294–5294	Sint-Michielsgestel	Noord-Brabant
+1456	Best	5681–5684	Best	Noord-Brabant
+1214	Beugen	5835–5835	Boxmeer	Noord-Brabant
+Beugt	5473–5473	Bernheze	Noord-Brabant
+Beukelaar	5463–5463	Meierijstad	Noord-Brabant
+1230	Beutenaken	6278–6278	Gulpen-Wittem	Limburg
+2975	Biervliet	4522–4522	Sluis	Zeeland
+1129	Biervliet	4521–4521	Terneuzen	Zeeland
+Biesstraat	6093–6093	Leudal	Limburg
+Biesthoek	5408–5408	Uden	Noord-Brabant
+1309	Biest-Houthakker	5084–5084	Hilvarenbeek	Noord-Brabant
+Biestraat	5126–5126	Gilze en Rijen	Noord-Brabant
+Biezelinge	4421–4421	Kapelle	Zeeland
+Biezen	4529–4529	Sluis	Zeeland
+Biezenheuvel	5528–5528	Bladel	Noord-Brabant
+1425	Biezenmortel	5074–5074	Tilburg	Noord-Brabant
+2775	Biggekerke	4373–4373	Veere	Zeeland
+Bijsterveld	5513–5513	Eersel	Noord-Brabant
+Billinghuizen	6271–6271	Gulpen-Wittem	Limburg
+Bilt	6107–6107	Maasgouw	Limburg
+2845	Bingelrade	6456–6456	Beekdaelen	Limburg
+Binnen-Moerdijk	4766–4766	Drimmelen	Noord-Brabant
+Bisselt	6585–6585	Mook en Middelaar	Limburg
+Bissen	6281–6281	Gulpen-Wittem	Limburg
+1064	Bladel	5531–5531	Bladel	Noord-Brabant
+Blauwe Sluis	4766–4766	Drimmelen	Noord-Brabant
+Blauwe Sluis	4651–4651	Steenbergen	Noord-Brabant
+Blauwenhoek	5841–5841	Sint Anthonis	Noord-Brabant
+Blauwewijk	4471–4471	Goes	Zeeland
+Bleijenbeek	5851–5851	Bergen	Limburg
+Bleijs	5752–5752	Deurne	Noord-Brabant
+Blenkert	6088–6088	Leudal	Limburg
+Blerick	5921–5925	Venlo	Limburg
+1856	Blitterswijck	5863–5863	Venray	Limburg
+3066	Bocholtz	6351–6351	Simpelveld	Limburg
+Bocholtzerheide	6351–6351	Simpelveld	Limburg
+Boddenbroek	5808–5808	Venray	Limburg
+Boeiink	4703–4703	Roosendaal	Noord-Brabant
+3138	Boekel	5427–5427	Boekel	Noord-Brabant
+Boekend	5927–5927	Venlo	Limburg
+Boerdonk	5469–5469	Meierijstad	Noord-Brabant
+Boerengat	4542–4542	Terneuzen	Zeeland
+Boerenhol	4503–4503	Sluis	Zeeland
+Bokhoven	5221–5221	's-Hertogenbosch	Noord-Brabant
+Boksheide	5521–5521	Eersel	Noord-Brabant
+Bokt	5633–5633	Eindhoven	Noord-Brabant
+Bolberg	4854–4854	Breda	Noord-Brabant
+Bolberg	5126–5126	Gilze en Rijen	Noord-Brabant
+Bolenberg	5951–5951	Venlo	Limburg
+Bolst	5469–5469	Meierijstad	Noord-Brabant
+Bommerig	6281–6281	Gulpen-Wittem	Limburg
+Bong	5991–5991	Peel en Maas	Limburg
+Bong	5941–5941	Venlo	Limburg
+Boomen	5715–5715	Someren	Noord-Brabant
+Boompjesdijk	4671–4671	Steenbergen	Noord-Brabant
+Boord	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Borgharen	6223–6223	Maastricht	Limburg
+Borkel	5556–5556	Valkenswaard	Noord-Brabant
+2808	Born	6121–6121	Sittard-Geleen	Limburg
+Borne	5481–5481	Meierijstad	Noord-Brabant
+Borneo	5451–5451	Mill en Sint Hubert	Noord-Brabant
+1252	Borssele	4454–4454	Borsele	Zeeland
+Borteldonk	4707–4707	Roosendaal	Noord-Brabant
+Op den Bosch	5823–5823	Boxmeer	Noord-Brabant
+Bosch	6021–6021	Cranendonck	Noord-Brabant
+Boscheind	5575–5575	Bergeijk	Noord-Brabant
+Boschhoven	5111–5111	Baarle-Nassau	Noord-Brabant
+Boschhoven	5595–5595	Heeze-Leende	Noord-Brabant
+Boschkens	5051–5051	Goirle	Noord-Brabant
+Boshoven	5131–5131	Alphen-Chaam	Noord-Brabant
+Boshoven	5561–5561	Bergeijk	Noord-Brabant
+Boshoven	6002–6002	Weert	Limburg
+Boshuizen	5807–5807	Venray	Limburg
+Boskant	5492–5492	Meierijstad	Noord-Brabant
+Boslust	5131–5131	Alphen-Chaam	Noord-Brabant
+1249	Bosschenhoofd	4744–4744	Halderberge	Noord-Brabant
+Bosschenhuizen	6369–6369	Simpelveld	Limburg
+Bosscherheide	5855–5855	Bergen	Limburg
+Bosserstraat	6031–6031	Nederweert	Limburg
+Bosven	6039–6039	Weert	Limburg
+Boterwijk	5688–5688	Oirschot	Noord-Brabant
+Botshoofd	4698–4698	Tholen	Zeeland
+Bouchauterhaven	4553–4553	Terneuzen	Zeeland
+Boudewijnskerke	4374–4374	Veere	Zeeland
+Boukoul	6071–6071	Roermond	Limburg
+Boveneind	5394–5394	Oss	Noord-Brabant
+Bovensluis	4797–4797	Moerdijk	Noord-Brabant
+Bovenste Huis (?)	5427–5427	Boekel	Noord-Brabant
+1215	Boxmeer	5831–5831	Boxmeer	Noord-Brabant
+2439	Boxtel	5281–5283	Boxtel	Noord-Brabant
+Braakhoek	5094–5094	Reusel-De Mierden	Noord-Brabant
+Braambos(ch) (?)	5563–5563	Bergeijk	Noord-Brabant
+Brabander	5801–5801	Venray	Limburg
+Brakel	5133–5133	Goirle	Noord-Brabant
+Brand	5411–5411	Landerd	Noord-Brabant
+Brandemolen	5944–5944	Venlo	Limburg
+Brandt	6107–6107	Maasgouw	Limburg
+3622	Breda	4801–4839	Breda	Noord-Brabant
+Breedschot	4891–4891	Zundert	Noord-Brabant
+Breehees	5051–5051	Goirle	Noord-Brabant
+Breemortel	5753–5753	Deurne	Noord-Brabant
+Brem	5056–5056	Tilburg	Noord-Brabant
+Brembosch	4708–4708	Roosendaal	Noord-Brabant
+2965	Breskens	4511–4511	Sluis	Zeeland
+Breugel	5694–5694	Son en Breugel	Noord-Brabant
+Breyvin	6039–6039	Weert	Limburg
+Brigdamme	4333–4333	Middelburg	Zeeland
+Brijdorpe	4322–4322	Schouwen-Duiveland	Zeeland
+Broek	6281–6281	Gulpen-Wittem	Limburg
+Broek	5961–5961	Horst aan de Maas	Limburg
+Broek	5738–5738	Laarbeek	Noord-Brabant
+Broek	5995–5995	Peel en Maas	Limburg
+Broek	6351–6351	Simpelveld	Limburg
+(Den) Broek (?)	5975–5975	Horst aan de Maas	Limburg
+Broekeind	5971–5971	Horst aan de Maas	Limburg
+Broekenseind	5528–5528	Bladel	Noord-Brabant
+Broekhoven	5561–5561	Bergeijk	Noord-Brabant
+Broekhoven	6243–6243	Meerssen	Limburg
+1027	Broekhuizen	5872–5872	Horst aan de Maas	Limburg
+1028	Broekhuizenvorst	5871–5871	Horst aan de Maas	Limburg
+Broekkant	6021–6021	Cranendonck	Noord-Brabant
+Broekkant	5741–5741	Laarbeek	Noord-Brabant
+Broekkant	5446–5446	Sint Anthonis	Noord-Brabant
+Broekkant	5715–5715	Someren	Noord-Brabant
+Broekzijde	5066–5066	Oisterwijk	Noord-Brabant
+Brommelen	6243–6243	Meerssen	Limburg
+Brommelen	6363–6363	Beekdaelen	Limburg
+2674	Brouwershaven	4318–4318	Schouwen-Duiveland	Zeeland
+Bruggen	5451–5451	Mill en Sint Hubert	Noord-Brabant
+Bruggerhuizen	5595–5595	Heeze-Leende	Noord-Brabant
+2675	Bruinisse	4311–4311	Schouwen-Duiveland	Zeeland
+Bruisterbosch	6265–6265	Eijsden-Margraten	Limburg
+Brumhold	6086–6086	Leudal	Limburg
+2849	Brunssum	6441–6446	Brunssum	Limburg
+2809	Buchten	6122–6122	Sittard-Geleen	Limburg
+1571	Budel	6021–6021	Cranendonck	Noord-Brabant
+1573	Budel-Dorplein	6024–6024	Cranendonck	Noord-Brabant
+1572	Budel-Schoot	6023–6023	Cranendonck	Noord-Brabant
+2941	Buggenum	6082–6082	Leudal	Limburg
+Bulkemsbroek	6369–6369	Simpelveld	Limburg
+Bulkenaar	4708–4708	Roosendaal	Noord-Brabant
+1461	Bunde	6241–6241	Meerssen	Limburg
+Burgh	4328–4328	Schouwen-Duiveland	Zeeland
+2676	Burgh-Haamstede	4328–4328	Schouwen-Duiveland	Zeeland
+Burghsluis	4328–4328	Schouwen-Duiveland	Zeeland
+Burgt	5427–5427	Boekel	Noord-Brabant
+Bus	5388–5388	Bernheze	Noord-Brabant
+Bus	5466–5466	Meierijstad	Noord-Brabant
+Bussel	5721–5721	Asten	Noord-Brabant
+Bussereind	5954–5954	Beesel	Limburg
+Buttinge	4364–4364	Veere	Zeeland
+Buurtje	4254–4254	Altena	Noord-Brabant
+1692	Cadier en Keer	6267–6267	Eijsden-Margraten	Limburg
+2964	Cadzand	4506–4506	Sluis	Zeeland
+Cadzand-Bad	4506–4506	Sluis	Zeeland
+Calfven	4641–4641	Woensdrecht	Noord-Brabant
+Californië	5971–5971	Horst aan de Maas	Limburg
+Caluna	6093–6093	Leudal	Limburg
+Camerig	6294–6294	Vaals	Limburg
+Capelle	5161–5161	Waalwijk	Noord-Brabant
+Cartils	6286–6286	Gulpen-Wittem	Limburg
+2885	Castelre	5114–5114	Baarle-Nassau	Noord-Brabant
+Castelré	5114–5114	Baarle-Nassau	Noord-Brabant
+2328	Castenray	5811–5811	Venray	Limburg
+1067	Casteren	5529–5529	Bladel	Noord-Brabant
+Castert	6005–6005	Weert	Limburg
+Catsop	6181–6181	Stein	Limburg
+3433	Chaam	4861–4861	Alphen-Chaam	Noord-Brabant
+Chaamdijk	4861–4861	Alphen-Chaam	Noord-Brabant
+3092	Clinge	4567–4567	Hulst	Zeeland
+3190	Colijnsplaat	4486–4486	Noord-Beveland	Zeeland
+Colmont	6367–6367	Voerendaal	Limburg
+Cottessen	6294–6294	Vaals	Limburg
+Cauwelaer (?)	4858–4858	Alphen-Chaam	Noord-Brabant
+Cranendonck	6027–6027	Cranendonck	Noord-Brabant
+Crapoel	6271–6271	Gulpen-Wittem	Limburg
+Craubeek	6343–6343	Voerendaal	Limburg
+Crèvecoeur	5221–5221	's-Hertogenbosch	Noord-Brabant
+Crixhoek	6039–6039	Weert	Limburg
+1620	Cromvoirt	5266–5266	Vught	Noord-Brabant
+Croy	5708–5735	Helmond	Noord-Brabant
+1450	Cuijk	5431–5432	Cuijk	Noord-Brabant
+Dal	6281–6281	Gulpen-Wittem	Limburg
+Daland	5815–5815	Venray	Limburg
+Dalem	5527–5527	Bladel	Noord-Brabant
+Dam	6595–6595	Gennep	Limburg
+Daniken	6174–6174	Beekdaelen	Limburg
+Dassemus	4861–4861	Alphen-Chaam	Noord-Brabant
+De Aa	5575–5575	Bergeijk	Noord-Brabant
+De Baan	4271–4271	Altena	Noord-Brabant
+De Beek	5721–5721	Asten	Noord-Brabant
+De Berg	5454–5454	Mill en Sint Hubert	Noord-Brabant
+De Berg	6039–6039	Weert	Limburg
+De Berk	4714–4714	Rucphen	Noord-Brabant
+De Berken	5724–5724	Asten	Noord-Brabant
+De Biezen	5735–5735	Laarbeek	Noord-Brabant
+De Boberden	6039–6039	Weert	Limburg
+De Bocht	4651–4651	Steenbergen	Noord-Brabant
+De Boer	5454–5454	Mill en Sint Hubert	Noord-Brabant
+De Bolt	5364–5364	Grave	Noord-Brabant
+De Buis	4882–4882	Zundert	Noord-Brabant
+De Bus	5482–5482	Meierijstad	Noord-Brabant
+De Bus	5492–5492	Meierijstad	Noord-Brabant
+De Dellen	5453–5453	Mill en Sint Hubert	Noord-Brabant
+De Dood	4715–4715	Rucphen	Noord-Brabant
+De Druif	4791–4791	Moerdijk	Noord-Brabant
+De Elft	5363–5363	Grave	Noord-Brabant
+De Gagel	5451–5451	Mill en Sint Hubert	Noord-Brabant
+De Groe	4481–4481	Goes	Zeeland
+1401	De Heen	4655–4655	Steenbergen	Noord-Brabant
+De Hees	5521–5521	Eersel	Noord-Brabant
+De Hees	5975–5975	Horst aan de Maas	Limburg
+De Heiberg	4721–4721	Rucphen	Noord-Brabant
+De Heide	5871–5871	Horst aan de Maas	Limburg
+De Heuvel	5581–5581	Waalre	Noord-Brabant
+De Hoef	5525–5525	Eersel	Noord-Brabant
+De Hoef	5454–5454	Mill en Sint Hubert	Noord-Brabant
+De Hoef	5096–5096	Reusel-De Mierden	Noord-Brabant
+De Hoef	5712–5712	Someren	Noord-Brabant
+De Hoef	4254–4254	Altena	Noord-Brabant
+De Hoek	5541–5541	Reusel-De Mierden	Noord-Brabant
+De Hoeven	5254–5254	Heusden	Noord-Brabant
+De Hogert	5293–5293	Sint-Michielsgestel	Noord-Brabant
+De Horck	6095–6095	Leudal	Limburg
+De Horst	6039–6039	Weert	Limburg
+De Hut	6271–6271	Gulpen-Wittem	Limburg
+De Hutten	5712–5712	Someren	Noord-Brabant
+De Kapel	5556–5556	Valkenswaard	Noord-Brabant
+De Kempkens	5465–5465	Meierijstad	Noord-Brabant
+De Kievit	5985–5986	Peel en Maas	Limburg
+De Knol	4542–4542	Terneuzen	Zeeland
+De Kraan	5056–5056	Tilburg	Noord-Brabant
+Krosselt (?)	5941–5941	Venlo	Limburg
+De Laan	4944–4944	Geertruidenberg	Noord-Brabant
+(De) Laren (?)	5469–5469	Meierijstad	Noord-Brabant
+De Lent	4884–4884	Zundert	Noord-Brabant
+De Logt	5062–5062	Oisterwijk	Noord-Brabant
+De Loo	5731–5731	Geldrop-Mierlo	Noord-Brabant
+De Loofaert	5258–5258	Sint-Michielsgestel	Noord-Brabant
+De Looi	6595–6595	Gennep	Limburg
+3054	De Moer	5176–5176	Loon op Zand	Noord-Brabant
+2093	De Mortel	5425–5425	Gemert-Bakel	Noord-Brabant
+De Muis	4574–4574	Terneuzen	Zeeland
+De Munte	4501–4501	Sluis	Zeeland
+De Nachtegaal	5812–5815	Venray	Limburg
+De Nieuwe Hoeven	6035–6035	Nederweert	Limburg
+De Overval	4651–4651	Steenbergen	Noord-Brabant
+De Pan	5527–5527	Bladel	Noord-Brabant
+De Plaats	5437–5437	Cuijk	Noord-Brabant
+De Posthoorn	4715–4715	Rucphen	Noord-Brabant
+De Rand	4693–4693	Tholen	Zeeland
+De Ratte	4574–4574	Terneuzen	Zeeland
+De Rijtjes	5441–5441	Boxmeer	Noord-Brabant
+2094	De Rips	5764–5764	Gemert-Bakel	Noord-Brabant
+De Rotting	4726–4726	Roosendaal	Noord-Brabant
+De Rund	5571–5571	Bergeijk	Noord-Brabant
+De Schietbaan	4715–4715	Rucphen	Noord-Brabant
+De Sluis	4543–4543	Terneuzen	Zeeland
+De Steegh	5973–5973	Horst aan de Maas	Limburg
+De Sterre	4574–4574	Terneuzen	Zeeland
+(De) Val (?)	4543–4543	Terneuzen	Zeeland
+(De ?) Vleut	5681–5681	Best	Noord-Brabant
+De Voorstad	5757–5757	Deurne	Noord-Brabant
+De Voort	5521–5521	Eersel	Noord-Brabant
+Voort (?)	5943–5943	Venlo	Limburg
+De Vorst	5281–5281	Boxtel	Noord-Brabant
+De Vorst	5975–5975	Horst aan de Maas	Limburg
+De Weerd	6041–6041	Roermond	Limburg
+De Weijer	5704–5704	Helmond	Noord-Brabant
+De Wielse Hoeven	5293–5293	Sint-Michielsgestel	Noord-Brabant
+De Wolfsputten	5735–5735	Laarbeek	Noord-Brabant
+De Zak	4441–4441	Borsele	Zeeland
+De Zandput	4374–4374	Veere	Zeeland
+Deelse Kampen	5421–5421	Gemert-Bakel	Noord-Brabant
+Deelshurk	5556–5556	Valkenswaard	Noord-Brabant
+Deense Hoek	5737–5737	Laarbeek	Noord-Brabant
+Dekeshorst	5988–5988	Peel en Maas	Limburg
+3260	Demen	5354–5354	Oss	Noord-Brabant
+Den Berg	5298–5298	Boxtel	Noord-Brabant
+(Den) Broek (?)	5975–5975	Horst aan de Maas	Limburg
+2058	Den Dungen	5275–5275	Sint-Michielsgestel	Noord-Brabant
+Den Hoek	5845–5845	Sint Anthonis	Noord-Brabant
+3595	Den Hout	4911–4911	Oosterhout	Noord-Brabant
+Den Opslag	5087–5087	Hilvarenbeek	Noord-Brabant
+1774	Deurne	5751–5754	Deurne	Noord-Brabant
+3256	Deursen-Dennenburg	5352–5352	Oss	Noord-Brabant
+Deuteren	5223–5223	's-Hertogenbosch	Noord-Brabant
+3259	Dieden	5353–5353	Oss	Noord-Brabant
+Diekendaal	6598–6598	Gennep	Limburg
+Diepenbroek	5707–5707	Helmond	Noord-Brabant
+Diependal	6285–6285	Gulpen-Wittem	Limburg
+Dieskant	5221–5221	's-Hertogenbosch	Noord-Brabant
+1308	Diessen	5087–5087	Hilvarenbeek	Noord-Brabant
+Dieteren	6114–6114	Echt-Susteren	Limburg
+Dijk	5721–5721	Asten	Noord-Brabant
+Dijk	6281–6281	Gulpen-Wittem	Limburg
+Dijk	5995–5995	Peel en Maas	Limburg
+Dijk	5469–5469	Meierijstad	Noord-Brabant
+Dijkerstraat	6006–6006	Weert	Limburg
+Dijkhuisjes	4316–4316	Schouwen-Duiveland	Zeeland
+Dijkwel	4421–4421	Kapelle	Zeeland
+1402	Dinteloord	4671–4671	Steenbergen	Noord-Brabant
+Dintelsas	4671–4671	Steenbergen	Noord-Brabant
+Dinther	5473–5473	Bernheze	Noord-Brabant
+Dintherse Hoek	5473–5473	Bernheze	Noord-Brabant
+Dishoek	4371–4371	Veere	Zeeland
+Distelberg	5268–5268	Vught	Noord-Brabant
+Diunt	4836–4836	Breda	Noord-Brabant
+2100	Doenrade	6439–6439	Beekdaelen	Limburg
+3514	Doeveren	5157–5157	Heusden	Noord-Brabant
+Dolberg	6343–6343	Voerendaal	Limburg
+2776	Domburg	4357–4357	Veere	Zeeland
+Dommelen	5551–5551	Valkenswaard	Noord-Brabant
+Dommelsvoort	5437–5437	Cuijk	Noord-Brabant
+2799	Dongen	5101–5107	Dongen	Noord-Brabant
+Donk	5512–5512	Eersel	Noord-Brabant
+Donk	5995–5995	Peel en Maas	Limburg
+Donk	5768–5768	Peel en Maas	Limburg
+Donkersvoort	5741–5741	Laarbeek	Noord-Brabant
+Donzel	5388–5388	Bernheze	Noord-Brabant
+Doonheide	5421–5421	Gemert-Bakel	Noord-Brabant
+Doornhoek	5258–5258	Sint-Michielsgestel	Noord-Brabant
+Doornhoek	5465–5465	Meierijstad	Noord-Brabant
+Dorshout	5462–5462	Meierijstad	Noord-Brabant
+2959	Dorst	4849–4849	Oosterhout	Noord-Brabant
+Douvergenhout	6447–6447	Beekdaelen	Limburg
+Draaibrug	4527–4527	Sluis	Zeeland
+2677	Dreischor	4315–4315	Schouwen-Duiveland	Zeeland
+Drie Hoefijzers	4566–4566	Hulst	Zeeland
+Drie Hoefijzers	4675–4675	Moerdijk	Noord-Brabant
+Driehoek	5684–5684	Best	Noord-Brabant
+Driehoek	4793–4793	Moerdijk	Noord-Brabant
+Driehoek	5841–5841	Sint Anthonis	Noord-Brabant
+Driehoek	5691–5691	Son en Breugel	Noord-Brabant
+Driehoek	4881–4881	Zundert	Noord-Brabant
+Driehuis	5511–5511	Eersel	Noord-Brabant
+Driehuizen	5111–5111	Baarle-Nassau	Noord-Brabant
+Driehuizen	5512–5512	Eersel	Noord-Brabant
+Driehuizen	5081–5081	Hilvarenbeek	Noord-Brabant
+Driehuizen	5464–5464	Meierijstad	Noord-Brabant
+Dries	6086–6086	Leudal	Limburg
+Drieschouwen	4571–4571	Terneuzen	Zeeland
+1253	Driewegen	4438–4438	Borsele	Zeeland
+Driewegen	4521–4521	Terneuzen	Zeeland
+2574	Drimmelen	4924–4924	Drimmelen	Noord-Brabant
+1952	Drongelen	4267–4267	Altena	Noord-Brabant
+Druisdijk	5131–5131	Alphen-Chaam	Noord-Brabant
+3589	Drunen	5151–5152	Heusden	Noord-Brabant
+Dubbroek	5993–5993	Peel en Maas	Limburg
+Duifhuis	5411–5411	Landerd	Noord-Brabant
+Duifhuis	5406–5406	Uden	Noord-Brabant
+Duiksehoef	5175–5175	Loon op Zand	Noord-Brabant
+Duivenhoek	4587–4587	Hulst	Zeeland
+2992	Duizel	5525–5525	Eersel	Noord-Brabant
+Duizend Morgen	4284–4284	Altena	Noord-Brabant
+Dun	5085–5085	Hilvarenbeek	Noord-Brabant
+2214	Dussen	4271–4271	Altena	Noord-Brabant
+Duurendseind	5351–5351	Oss	Noord-Brabant
+2041	Echt	6101–6102	Echt-Susteren	Limburg
+Echterbosch	6105–6105	Echt-Susteren	Limburg
+1693	Eckelrade	6251–6252	Eijsden-Margraten	Limburg
+2966	Eede	4529–4529	Sluis	Zeeland
+Eeneind	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Eerde	5466–5466	Meierijstad	Noord-Brabant
+2993	Eersel	5521–5521	Eersel	Noord-Brabant
+1953	Eethen	4266–4266	Altena	Noord-Brabant
+Effen	4838–4838	Breda	Noord-Brabant
+3439	Egchel	5987–5987	Peel en Maas	Limburg
+Egchelheide	5987–5987	Peel en Maas	Limburg
+Egypte	5531–5531	Bladel	Noord-Brabant
+1700	Eijsden	6245–6245	Eijsden-Margraten	Limburg
+Eikberg	4854–4854	Breda	Noord-Brabant
+Eikelenbosch	5111–5111	Baarle-Nassau	Noord-Brabant
+Eikelenbosch	5962–5962	Horst aan de Maas	Limburg
+Eikenheuvel	5406–5406	Uden	Noord-Brabant
+Eiland	6086–6086	Leudal	Limburg
+Eiland	6107–6107	Maasgouw	Limburg
+Eiland	4635–4635	Woensdrecht	Noord-Brabant
+Eind	5561–5561	Bergeijk	Noord-Brabant
+Eind	6088–6088	Leudal	Limburg
+Eind	6034–6034	Nederweert	Limburg
+Eind	5694–5694	Son en Breugel	Noord-Brabant
+Eind van Den Hout	4911–4911	Oosterhout	Noord-Brabant
+Einde	6071–6071	Roermond	Limburg
+Eindewege	4458–4458	Goes	Zeeland
+1101	Eindhoven	5601–5657	Eindhoven	Noord-Brabant
+Eindje	5715–5715	Someren	Noord-Brabant
+2810	Einighausen	6142–6142	Sittard-Geleen	Limburg
+Elde	5481–5481	Meierijstad	Noord-Brabant
+1235	Elkenrade	6289–6289	Gulpen-Wittem	Limburg
+Elkerzee	4322–4322	Schouwen-Duiveland	Zeeland
+2942	Ell	6011–6011	Leudal	Limburg
+2678	Ellemeet	4323–4323	Schouwen-Duiveland	Zeeland
+Ellerhei	6011–6011	Leudal	Limburg
+1254	Ellewoutsdijk	4437–4437	Borsele	Zeeland
+2095	Elsendorp	5424–5424	Gemert-Bakel	Noord-Brabant
+3590	Elshout	5154–5154	Heusden	Noord-Brabant
+Elshout	5864–5864	Horst aan de Maas	Limburg
+1914	Elsloo	6181–6181	Stein	Limburg
+Elst	5386–5386	Oss	Noord-Brabant
+Elsteren	5855–5855	Bergen	Limburg
+Elzet	6281–6281	Gulpen-Wittem	Limburg
+Emmaberg	6301–6301	Valkenburg aan de Geul	Limburg
+Emmadorp	4568–4568	Hulst	Zeeland
+Empel	5236–5236	's-Hertogenbosch	Noord-Brabant
+Endepoel	5815–5815	Venray	Limburg
+Eng	4288–4288	Altena	Noord-Brabant
+Engelen	5221–5221	's-Hertogenbosch	Noord-Brabant
+Engwegen	6305–6305	Valkenburg aan de Geul	Limburg
+1232	Epen	6285–6285	Gulpen-Wittem	Limburg
+Eperheide	6285–6285	Gulpen-Wittem	Limburg
+2826	Erp	5469–5469	Meierijstad	Noord-Brabant
+1311	Esbeek	5085–5085	Hilvarenbeek	Noord-Brabant
+1426	Esch	5296–5296	Boxtel	Noord-Brabant
+3195	Escharen	5364–5364	Grave	Noord-Brabant
+Esdonk	5421–5421	Gemert-Bakel	Noord-Brabant
+Esp	5761–5761	Gemert-Bakel	Noord-Brabant
+Etenaken	6321–6321	Gulpen-Wittem	Limburg
+Etsberg	6063–6063	Roerdalen	Limburg
+1010	Etten-Leur	4871–4879	Etten-Leur	Noord-Brabant
+Etzenrade	6454–6454	Beekdaelen	Limburg
+Euvelwegen	6029–6029	Heeze-Leende	Noord-Brabant
+Euverem	6271–6271	Gulpen-Wittem	Limburg
+Evenheuvel	5688–5688	Oirschot	Noord-Brabant
+Everland	4707–4707	Roosendaal	Noord-Brabant
+Everlo	5981–5981	Peel en Maas	Limburg
+Eversdijk	4421–4421	Kapelle	Zeeland
+Everse	5491–5491	Meierijstad	Noord-Brabant
+1517	Evertsoord	5977–5977	Horst aan de Maas	Limburg
+Ewinkel	5432–5432	Cuijk	Noord-Brabant
+2650	Eygelshoven	6471–6471	Kerkrade	Limburg
+1234	Eys	6287–6287	Gulpen-Wittem	Limburg
+Eyserheide	6287–6287	Gulpen-Wittem	Limburg
+1321	Fijnaart	4793–4793	Moerdijk	Noord-Brabant
+Fokkershoek	5473–5473	Bernheze	Noord-Brabant
+Franse Hoef (?)	5531–5531	Bladel	Noord-Brabant
+Fromberg	6367–6367	Voerendaal	Limburg
+Gaete	4926–4926	Drimmelen	Noord-Brabant
+3434	Galder	4855–4855	Alphen-Chaam	Noord-Brabant
+2777	Gapinge	4352–4352	Veere	Zeeland
+3196	Gassel	5438–5438	Grave	Noord-Brabant
+1570	Gastel	6028–6028	Cranendonck	Noord-Brabant
+Gastelsveer	4751–4751	Halderberge	Noord-Brabant
+Gasthuis	6268–6268	Eijsden-Margraten	Limburg
+Gawege	4414–4414	Reimerswaal	Zeeland
+Gebergte	5715–5715	Someren	Noord-Brabant
+Gebroek	6101–6101	Echt-Susteren	Limburg
+Gebroek	6121–6121	Sittard-Geleen	Limburg
+Geeneind	5708–5735	Helmond	Noord-Brabant
+Geersbroek	4858–4858	Alphen-Chaam	Noord-Brabant
+3193	Geersdijk	4494–4494	Noord-Beveland	Zeeland
+1751	Geertruidenberg	4931–4931	Geertruidenberg	Noord-Brabant
+3610	Geffen	5386–5386	Oss	Noord-Brabant
+1857	Geijsteren	5862–5862	Venray	Limburg
+1126	Geldrop	5661–5667	Geldrop-Mierlo	Noord-Brabant
+Geldtienden	4353–4353	Veere	Zeeland
+3513	Geleen	6161–6167	Sittard-Geleen	Limburg
+Geloo	5951–5951	Venlo	Limburg
+Gement	5351–5351	Oss	Noord-Brabant
+2089	Gemert	5421–5422	Gemert-Bakel	Noord-Brabant
+2059	Gemonde	5291–5294	Sint-Michielsgestel	Noord-Brabant
+1954	Genderen	4265–4265	Altena	Noord-Brabant
+Gendijk	6086–6086	Leudal	Limburg
+Geneijgen	6096–6096	Leudal	Limburg
+Geneneind	5761–5761	Gemert-Bakel	Noord-Brabant
+Gening	5851–5851	Bergen	Limburg
+2482	Gennep	6591–6591	Gennep	Limburg
+Genoenhuis	5661–5661	Geldrop-Mierlo	Noord-Brabant
+Genooi	5914–5914	Venlo	Limburg
+Gerheggen	6086–6086	Leudal	Limburg
+Gerwen	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Geulhem	6325–6325	Valkenburg aan de Geul	Limburg
+1462	Geulle	6243–6243	Meerssen	Limburg
+Gever	5076–5076	Oisterwijk	Noord-Brabant
+Geverik	6191–6191	Beek	Limburg
+Gewande	5236–5236	's-Hertogenbosch	Noord-Brabant
+Giersbergen	5151–5151	Heusden	Noord-Brabant
+3302	Giessen	4283–4283	Altena	Noord-Brabant
+Gijzel	5268–5268	Vught	Noord-Brabant
+Gijzenrooi	5661–5661	Geldrop-Mierlo	Noord-Brabant
+2067	Gilze	5126–5126	Gilze en Rijen	Noord-Brabant
+Ginderdoor	4861–4861	Alphen-Chaam	Noord-Brabant
+Ginderdoor	5738–5738	Laarbeek	Noord-Brabant
+1824	Goes	4461–4465	Goes	Zeeland
+2880	Goirle	5051–5053	Goirle	Noord-Brabant
+Goor	5731–5731	Geldrop-Mierlo	Noord-Brabant
+Gorpeind	5111–5111	Baarle-Nassau	Noord-Brabant
+3094	Graauw	4569–4569	Hulst	Zeeland
+Gracht	6281–6281	Gulpen-Wittem	Limburg
+Gracht Burggraaf	6271–6271	Gulpen-Wittem	Limburg
+Graetheide	6121–6121	Sittard-Geleen	Limburg
+3440	Grashoek	5985–5985	Peel en Maas	Limburg
+Graspeel	5411–5411	Landerd	Noord-Brabant
+Graszode	4456–4456	Borsele	Zeeland
+2943	Grathem	6096–6096	Leudal	Limburg
+3197	Grave	5361–5361	Grave	Noord-Brabant
+Grazen	4861–4861	Alphen-Chaam	Noord-Brabant
+2812	Grevenbicht	6127–6127	Sittard-Geleen	Limburg
+1029	Griendtsveen	5766–5766	Horst aan de Maas	Limburg
+Griete	4543–4543	Terneuzen	Zeeland
+2778	Grijpskerke	4364–4364	Veere	Zeeland
+Grijzegrubben	6361–6361	Beekdaelen	Limburg
+2967	Groede	4503–4503	Sluis	Zeeland
+Groenendijk	4587–4587	Hulst	Zeeland
+Groenendijk	4909–4909	Oosterhout	Noord-Brabant
+Groenewoud	5735–5735	Laarbeek	Noord-Brabant
+1216	Groeningen	5826–5826	Boxmeer	Noord-Brabant
+Groenstraat	5085–5085	Hilvarenbeek	Noord-Brabant
+Groeze	5986–5986	Peel en Maas	Limburg
+1701	Gronsveld	6247–6247	Eijsden-Margraten	Limburg
+Groot Bruggen	5752–5752	Deurne	Noord-Brabant
+Groot Genhout	6191–6191	Beek	Limburg
+Groot Haasdal (?)	6333–6333	Beekdaelen	Limburg
+Groot Loo	5081–5081	Hilvarenbeek	Noord-Brabant
+Groot-Abeele	4388–4388	Vlissingen	Zeeland
+Groot-Bedaf	5111–5111	Baarle-Nassau	Noord-Brabant
+Groote Bottel	5753–5753	Deurne	Noord-Brabant
+Groote Hoeven	5712–5712	Someren	Noord-Brabant
+Groote Horst	5853–5853	Bergen	Limburg
+Groot-Valkenisse	4373–4373	Veere	Zeeland
+Groot-Welsden	6269–6269	Eijsden-Margraten	Limburg
+Grote Voort	5081–5081	Hilvarenbeek	Noord-Brabant
+Grotel	5761–5761	Gemert-Bakel	Noord-Brabant
+1030	Grubbenvorst	5971–5971	Horst aan de Maas	Limburg
+1225	Gulpen	6271–6271	Gulpen-Wittem	Limburg
+Gun	5866–5866	Horst aan de Maas	Limburg
+2813	Guttecoven	6143–6143	Sittard-Geleen	Limburg
+Haag	5815–5815	Venray	Limburg
+Haamstede	4328–4328	Schouwen-Duiveland	Zeeland
+Haanwijk	5271–5271	Sint-Michielsgestel	Noord-Brabant
+1427	Haaren	5076–5076	Oisterwijk	Noord-Brabant
+3500	Haarsteeg	5254–5254	Heusden	Noord-Brabant
+Haart	5835–5835	Boxmeer	Noord-Brabant
+Haasdal (?)	6333–6333	Beekdaelen	Limburg
+2944	Haelen	6081–6081	Leudal	Limburg
+Haelensche Broek	6081–6081	Leudal	Limburg
+1310	Haghorst	5089–5089	Hilvarenbeek	Noord-Brabant
+Haiink	4708–4708	Roosendaal	Noord-Brabant
+Hal	5296–5296	Boxtel	Noord-Brabant
+Halder	5271–5271	Sint-Michielsgestel	Noord-Brabant
+2945	Haler	6012–6012	Leudal	Limburg
+Halfeind	4567–4567	Hulst	Zeeland
+Halfmijl	5507–5507	Eersel	Noord-Brabant
+1938	Halsteren	4661–4661	Bergen op Zoom	Noord-Brabant
+Halte	5753–5753	Deurne	Noord-Brabant
+Ham	5446–5446	Sint Anthonis	Noord-Brabant
+Ham	5469–5469	Meierijstad	Noord-Brabant
+2092	Handel	5423–5423	Gemert-Bakel	Noord-Brabant
+Hanenberg	5753–5753	Deurne	Noord-Brabant
+Hank	5446–5446	Sint Anthonis	Noord-Brabant
+2215	Hank	4273–4273	Altena	Noord-Brabant
+3461	Hansweert	4417–4417	Reimerswaal	Zeeland
+1065	Hapert	5527–5527	Bladel	Noord-Brabant
+1451	Haps	5443–5443	Cuijk	Noord-Brabant
+3253	Haren	5368–5368	Oss	Noord-Brabant
+Haring	5443–5443	Cuijk	Noord-Brabant
+Harles	6294–6294	Vaals	Limburg
+Hasjesstraat	4542–4542	Terneuzen	Zeeland
+Hasselt	5941–5941	Venlo	Limburg
+Hasselterheide	5941–5941	Venlo	Limburg
+Havelt	5463–5463	Meierijstad	Noord-Brabant
+Hazelaar	4726–4726	Roosendaal	Noord-Brabant
+Hazelberg	5473–5473	Bernheze	Noord-Brabant
+Hazeldonk	4891–4891	Zundert	Noord-Brabant
+Hazenhurk	5591–5591	Heeze-Leende	Noord-Brabant
+Hazennest	5012–5012	Tilburg	Noord-Brabant
+Hedel	5688–5688	Oirschot	Noord-Brabant
+3515	Hedikhuizen	5257–5257	Heusden	Noord-Brabant
+Heek	6301–6301	Valkenburg aan de Geul	Limburg
+1917	Heel	6097–6097	Maasgouw	Limburg
+Heensche Molen	4655–4681	Steenbergen	Noord-Brabant
+Heereind	5741–5741	Laarbeek	Noord-Brabant
+Heerendonk	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+1590	Heerle	4726–4726	Roosendaal	Noord-Brabant
+1312	Heerlen	6401–6422	Heerlen	Limburg
+Heers	5504–5504	Veldhoven	Noord-Brabant
+Heerstaaien	4856–4856	Alphen-Chaam	Noord-Brabant
+Heerstraat	6307–6307	Eijsden-Margraten	Limburg
+Heesakker	5076–5076	Oisterwijk	Noord-Brabant
+3516	Heesbeen	5158–5158	Heusden	Noord-Brabant
+Heesboom	5111–5111	Baarle-Nassau	Noord-Brabant
+3059	Heesch	5384–5384	Bernheze	Noord-Brabant
+Heeseind	5392–5392	's-Hertogenbosch	Noord-Brabant
+Heeswijk	5473–5473	Bernheze	Noord-Brabant
+3060	Heeswijk-Dinther	5473–5473	Bernheze	Noord-Brabant
+1314	Heeze	5591–5591	Heeze-Leende	Noord-Brabant
+Heezerenbosch	5591–5591	Heeze-Leende	Noord-Brabant
+1031	Hegelsom	5963–5963	Horst aan de Maas	Limburg
+Hegge	6365–6365	Beekdaelen	Limburg
+Hei	5995–5995	Peel en Maas	Limburg
+Hei	5991–5991	Peel en Maas	Limburg
+Hei	6039–6039	Weert	Limburg
+Heiakker	6096–6096	Leudal	Limburg
+2946	Heibloem	6089–6089	Leudal	Limburg
+Heide	6114–6114	Echt-Susteren	Limburg
+Heide	6085–6085	Leudal	Limburg
+Heide	6093–6093	Leudal	Limburg
+Heide	6088–6088	Leudal	Limburg
+Heide	6071–6071	Roermond	Limburg
+2329	Heide	5812–5812	Venray	Limburg
+Heiderschoor	5731–5731	Geldrop-Mierlo	Noord-Brabant
+Heidveld	5761–5761	Gemert-Bakel	Noord-Brabant
+Heieind	5528–5528	Bladel	Noord-Brabant
+Heieind	5753–5753	Deurne	Noord-Brabant
+Heieind	5715–5715	Someren	Noord-Brabant
+Heiereind	5561–5561	Bergeijk	Noord-Brabant
+Heierhoeve	5928–5928	Venlo	Limburg
+Heihoefke	4625–4625	Bergen op Zoom	Noord-Brabant
+Heihoek	5438–5438	Grave	Noord-Brabant
+Heijbeek	4709–4709	Roosendaal	Noord-Brabant
+2483	Heijen	6598–6598	Gennep	Limburg
+1228	Heijenrath	6276–6276	Gulpen-Wittem	Limburg
+1318	Heijningen	4794–4794	Moerdijk	Noord-Brabant
+Heikant	4861–4861	Alphen-Chaam	Noord-Brabant
+Heikant	5111–5111	Baarle-Nassau	Noord-Brabant
+Heikant	5113–5113	Baarle-Nassau	Noord-Brabant
+Heikant	5528–5528	Bladel	Noord-Brabant
+Heikant	5836–5836	Boxmeer	Noord-Brabant
+Heikant	5836–5836	Boxmeer	Noord-Brabant
+Heikant	5825–5825	Boxmeer	Noord-Brabant
+Heikant	6021–6021	Cranendonck	Noord-Brabant
+Heikant	5087–5087	Hilvarenbeek	Noord-Brabant
+3091	Heikant	4566–4566	Hulst	Zeeland
+Heikant	5735–5735	Laarbeek	Noord-Brabant
+Heikant	6587–6587	Mook en Middelaar	Limburg
+Heikant	5066–5066	Oisterwijk	Noord-Brabant
+Heikant	4909–4909	Oosterhout	Noord-Brabant
+Heikant	5096–5096	Reusel-De Mierden	Noord-Brabant
+Heikant	5841–5841	Sint Anthonis	Noord-Brabant
+Heikant	5712–5712	Someren	Noord-Brabant
+Heikant	5032–5032	Tilburg	Noord-Brabant
+Heikant	5056–5056	Tilburg	Noord-Brabant
+Heikant	5408–5408	Uden	Noord-Brabant
+Heikant	5581–5581	Waalre	Noord-Brabant
+Heikantse Hoeve	5258–5258	Sint-Michielsgestel	Noord-Brabant
+Heiligeboom	5066–5066	Oisterwijk	Noord-Brabant
+Heille	4524–4524	Sluis	Zeeland
+Heimolen	4625–4625	Bergen op Zoom	Noord-Brabant
+Heimolen	5753–5753	Deurne	Noord-Brabant
+1255	Heinkenszand	4451–4451	Borsele	Zeeland
+Heioord	6015–6015	Leudal	Limburg
+Hei-Oostenrijk	5961–5961	Horst aan de Maas	Limburg
+Heische Wal	5473–5473	Bernheze	Noord-Brabant
+Heisterbrug	6155–6155	Beekdaelen	Limburg
+Heistraat	5657–5657	Eindhoven	Noord-Brabant
+Heistraat	4909–4909	Oosterhout	Noord-Brabant
+Heitrak	5758–5758	Deurne	Noord-Brabant
+Helbroek	5835–5835	Boxmeer	Noord-Brabant
+3441	Helden	5988–5988	Peel en Maas	Limburg
+Heldensedijk	5768–5768	Peel en Maas	Limburg
+1778	Helenaveen	5759–5759	Deurne	Noord-Brabant
+Helkant	4927–4927	Drimmelen	Noord-Brabant
+Helle	6281–6281	Gulpen-Wittem	Limburg
+Helle	6361–6361	Beekdaelen	Limburg
+Hellebroek	6363–6363	Beekdaelen	Limburg
+Hellegat	4891–4891	Zundert	Noord-Brabant
+Helleneind	5531–5531	Bladel	Noord-Brabant
+Helling	5861–5861	Venray	Limburg
+1146	Helmond	5701–5709	Helmond	Noord-Brabant
+1428	Helvoirt	5268–5268	Vught	Noord-Brabant
+Helwijk	4797–4797	Moerdijk	Noord-Brabant
+Hengeland	5851–5851	Bergen	Limburg
+3098	Hengstdijk	4585–4585	Hulst	Zeeland
+Hengstheuvel	5406–5406	Uden	Noord-Brabant
+2590	Herkenbosch	6075–6075	Roerdalen	Limburg
+Herkenrade	6265–6265	Eijsden-Margraten	Limburg
+Hermalen	5481–5481	Meierijstad	Noord-Brabant
+3255	Herpen	5373–5373	Oss	Noord-Brabant
+3517	Herpt	5255–5255	Heusden	Noord-Brabant
+Hersel	5715–5715	Someren	Noord-Brabant
+Hersend	5258–5258	Sint-Michielsgestel	Noord-Brabant
+Hert	5991–5991	Peel en Maas	Limburg
+2282	Herten	6049–6049	Roermond	Limburg
+Hespelaar	4911–4911	Oosterhout	Noord-Brabant
+Het Bosch	5531–5531	Bladel	Noord-Brabant
+Het Broek	5731–5731	Geldrop-Mierlo	Noord-Brabant
+Het Goordonk	5111–5111	Baarle-Nassau	Noord-Brabant
+Het Heike	5512–5512	Eersel	Noord-Brabant
+Het Hoekske	4715–4715	Rucphen	Noord-Brabant
+Het Kustlicht	4374–4374	Veere	Zeeland
+Het Laar	5735–5735	Laarbeek	Noord-Brabant
+Het Oosteind	4714–4714	Rucphen	Noord-Brabant
+Het Oudeland	4451–4451	Borsele	Zeeland
+Het Oudeland	4691–4691	Tholen	Zeeland
+Het Sas	5131–5131	Alphen-Chaam	Noord-Brabant
+'t Ven (?)	5461–5461	Meierijstad	Noord-Brabant
+Het Vonderen	6051–6051	Maasgouw	Limburg
+Vorst	5941–5941	Venlo	Limburg
+Het Wild	5398–5398	Oss	Noord-Brabant
+Heugde	6085–6085	Leudal	Limburg
+Heukelom	5851–5851	Bergen	Limburg
+2648	Heukelom	5059–5059	Oisterwijk	Noord-Brabant
+Heult	5283–5283	Boxtel	Noord-Brabant
+2929	Heusden	5725–5725	Asten	Noord-Brabant
+3518	Heusden	5256–5256	Heusden	Noord-Brabant
+Heuvel	5528–5528	Bladel	Noord-Brabant
+Heuvel	5556–5556	Valkenswaard	Noord-Brabant
+Heuvel	5463–5463	Meierijstad	Noord-Brabant
+Heuvelberg	5469–5469	Meierijstad	Noord-Brabant
+Heuvelstraat	5066–5066	Oisterwijk	Noord-Brabant
+Heuveltje	5056–5056	Tilburg	Noord-Brabant
+2947	Heythuysen	6093–6093	Leudal	Limburg
+Hezelaar	5298–5298	Boxtel	Noord-Brabant
+Hezelaar	5271–5271	Sint-Michielsgestel	Noord-Brabant
+Hilakker	5761–5761	Gemert-Bakel	Noord-Brabant
+Hild	5066–5066	Oisterwijk	Noord-Brabant
+Hill	4269–4269	Altena	Noord-Brabant
+Hilleshagen	6281–6281	Gulpen-Wittem	Limburg
+1307	Hilvarenbeek	5081–5081	Hilvarenbeek	Noord-Brabant
+Hingen	6101–6101	Echt-Susteren	Limburg
+Hintham	5246–5246	's-Hertogenbosch	Noord-Brabant
+Ho(o)gebiezen (?)	5465–5465	Meierijstad	Noord-Brabant
+Hobbelrade	6176–6176	Beek	Limburg
+1256	Hoedekenskerke	4433–4433	Borsele	Zeeland
+Hoefkens	5411–5411	Landerd	Noord-Brabant
+Hoek	6088–6088	Leudal	Limburg
+Hoek	5275–5275	Sint-Michielsgestel	Noord-Brabant
+1130	Hoek	4542–4542	Terneuzen	Zeeland
+Hoek	5556–5556	Valkenswaard	Noord-Brabant
+Hoek	5469–5469	Meierijstad	Noord-Brabant
+Hoek van de Dijk	4543–4543	Terneuzen	Zeeland
+Hoekdries	5511–5511	Eersel	Noord-Brabant
+Hoekeinde	4254–4254	Altena	Noord-Brabant
+Hoekske	4782–4782	Moerdijk	Noord-Brabant
+1313	Hoensbroek	6431–6433	Heerlen	Limburg
+Hoeve	6176–6176	Beek	Limburg
+Hoeve	5556–5556	Valkenswaard	Noord-Brabant
+Hoeven	5763–5763	Gemert-Bakel	Noord-Brabant
+1250	Hoeven	4741–4741	Halderberge	Noord-Brabant
+Hoeven	6035–6035	Nederweert	Limburg
+Hoeven	5446–5446	Sint Anthonis	Noord-Brabant
+Hoeves	5482–5482	Meierijstad	Noord-Brabant
+Hoevestein	4725–4725	Roosendaal	Noord-Brabant
+Hof	5768–5768	Peel en Maas	Limburg
+Höfke	6281–6281	Gulpen-Wittem	Limburg
+Hollander	6093–6093	Leudal	Limburg
+Hollandsdiep	4709–4709	Roosendaal	Noord-Brabant
+Holset	6295–6295	Vaals	Limburg
+Holst	6061–6061	Roerdalen	Limburg
+1217	Holthees	5824–5824	Boxmeer	Noord-Brabant
+2814	Holtum	6123–6123	Sittard-Geleen	Limburg
+Homberg	5973–5973	Horst aan de Maas	Limburg
+Hommelse Hoeven	5473–5473	Bernheze	Noord-Brabant
+Hommert	6361–6361	Beekdaelen	Limburg
+Hommert	6436–6436	Beekdaelen	Limburg
+Hondseind	5131–5131	Alphen-Chaam	Noord-Brabant
+Hondsrug	6422–6422	Heerlen	Limburg
+Honthem	6269–6269	Eijsden-Margraten	Limburg
+2968	Hoofdplaat	4513–4513	Sluis	Zeeland
+Hoog Spul	5081–5081	Hilvarenbeek	Noord-Brabant
+Hoog-Caestert	6245–6245	Eijsden-Margraten	Limburg
+Hoogcasteren	5528–5528	Bladel	Noord-Brabant
+Hoogcruts	6255–6255	Eijsden-Margraten	Limburg
+Hooge Aard	5126–5126	Gilze en Rijen	Noord-Brabant
+Hooge Berkt	5571–5571	Bergeijk	Noord-Brabant
+Hooge Heide	5374–5374	Landerd	Noord-Brabant
+1874	Hooge Mierde	5095–5095	Reusel-De Mierden	Noord-Brabant
+Hooge Wijst	5384–5384	Bernheze	Noord-Brabant
+2575	Hooge Zwaluwe	4927–4927	Drimmelen	Noord-Brabant
+Hoogedijk	4542–4542	Terneuzen	Zeeland
+Hoogeind	5111–5111	Baarle-Nassau	Noord-Brabant
+Hoogeind	5447–5447	Boxmeer	Noord-Brabant
+Hoogeind	5441–5441	Boxmeer	Noord-Brabant
+Hoogeind	5085–5085	Hilvarenbeek	Noord-Brabant
+Hoogeind	5091–5091	Oirschot	Noord-Brabant
+Hoogelande	4364–4364	Veere	Zeeland
+1066	Hoogeloon	5528–5528	Bladel	Noord-Brabant
+Hoogen-Aarle	5425–5425	Gemert-Bakel	Noord-Brabant
+1000	Hoogerheide	4631–4631	Woensdrecht	Noord-Brabant
+Hoogeweg	4513–4513	Sluis	Zeeland
+Hooghout	5074–5074	Tilburg	Noord-Brabant
+Hoogriebroek	5809–5809	Venray	Limburg
+Hoogstraat	5521–5521	Eersel	Noord-Brabant
+Hoogstraat	6011–6011	Leudal	Limburg
+Hoogveld	5408–5408	Uden	Noord-Brabant
+Hooidonk	5694–5694	Son en Breugel	Noord-Brabant
+Hool	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Horick	6035–6035	Nederweert	Limburg
+2948	Horn	6085–6085	Leudal	Limburg
+Horst	5126–5126	Gilze en Rijen	Noord-Brabant
+1032	Horst	5961–5961	Horst aan de Maas	Limburg
+Horzik	5271–5271	Sint-Michielsgestel	Noord-Brabant
+Hout	5664–5664	Geldrop-Mierlo	Noord-Brabant
+Hout	5995–5995	Peel en Maas	Limburg
+Hout-Blerick	5926–5926	Venlo	Limburg
+Houtbroek	6039–6039	Weert	Limburg
+Houterd	5482–5482	Meierijstad	Noord-Brabant
+Houtgoor	4861–4861	Alphen-Chaam	Noord-Brabant
+Houthei	5993–5993	Peel en Maas	Limburg
+Houthem	6301–6301	Valkenburg aan de Geul	Limburg
+Houthuizen	5973–5973	Horst aan de Maas	Limburg
+Houtsestraat	5071–5071	Tilburg	Noord-Brabant
+Hub	5981–5981	Peel en Maas	Limburg
+Hugten	6026–6026	Cranendonck	Noord-Brabant
+Huij	5435–5435	Cuijk	Noord-Brabant
+1001	Huijbergen	4635–4635	Woensdrecht	Noord-Brabant
+3257	Huisseling	5358–5358	Oss	Noord-Brabant
+Huisvennen	5111–5111	Baarle-Nassau	Noord-Brabant
+Huize Padua	5427–5427	Boekel	Noord-Brabant
+Huls	6369–6369	Simpelveld	Limburg
+Hulsbeek	5446–5446	Sint Anthonis	Noord-Brabant
+2359	Hulsberg	6336–6336	Beekdaelen	Limburg
+Hulsdonk	4882–4882	Zundert	Noord-Brabant
+1875	Hulsel	5096–5096	Reusel-De Mierden	Noord-Brabant
+Hulsen	6243–6243	Meerssen	Limburg
+Hulsen	6034–6034	Nederweert	Limburg
+3088	Hulst	4561–4562	Hulst	Zeeland
+2068	Hulten	5125–5125	Gilze en Rijen	Noord-Brabant
+Hultje	5406–5406	Uden	Noord-Brabant
+Humcoven	6235–6235	Meerssen	Limburg
+Hunnecum	6363–6363	Beekdaelen	Limburg
+2949	Hunsel	6013–6013	Leudal	Limburg
+Hurkske	5469–5469	Meierijstad	Noord-Brabant
+Hurpesch	6281–6281	Gulpen-Wittem	Limburg
+Hushoven	6003–6003	Weert	Limburg
+Hussenberg	6243–6243	Meerssen	Limburg
+Huygevoort	5091–5091	Oirschot	Noord-Brabant
+IJpelaar	4834–4834	Breda	Noord-Brabant
+2974	IJzendijke	4515–4515	Sluis	Zeeland
+IJzeren	6301–6301	Valkenburg aan de Geul	Limburg
+Illikhoven	6116–6116	Echt-Susteren	Limburg
+Imstenrade	6419–6419	Heerlen	Limburg
+In de Hoeven	5985–5985	Peel en Maas	Limburg
+1226	Ingber	6273–6273	Gulpen-Wittem	Limburg
+Isabellahaven	4553–4553	Terneuzen	Zeeland
+Itteren	6223–6223	Maastricht	Limburg
+2950	Ittervoort	6014–6014	Leudal	Limburg
+2846	Jabeek	6454–6454	Beekdaelen	Limburg
+Joossesweg	4361–4361	Veere	Zeeland
+Kaarschot	4891–4891	Zundert	Noord-Brabant
+Kaathoven	5382–5382	's-Hertogenbosch	Noord-Brabant
+3052	Kaatsheuvel	5171–5172	Loon op Zand	Noord-Brabant
+Kade	4793–4793	Moerdijk	Noord-Brabant
+Kalishoek	4861–4861	Alphen-Chaam	Noord-Brabant
+Kameren	5258–5258	Bernheze	Noord-Brabant
+Kamp	5854–5854	Bergen	Limburg
+Kamp	6361–6361	Beekdaelen	Limburg
+Kampen	4581–4581	Hulst	Zeeland
+Kamperhoek	4581–4581	Hulst	Zeeland
+3188	Kamperland	4493–4493	Noord-Beveland	Zeeland
+Kampersche Hoek	4543–4543	Terneuzen	Zeeland
+Kampershoek	6031–6031	Nederweert	Limburg
+Kantje	5388–5388	Bernheze	Noord-Brabant
+Kapeleind	5482–5483	Meierijstad	Noord-Brabant
+1467	Kapelle	4421–4421	Kapelle	Zeeland
+Kapelle	4306–4306	Schouwen-Duiveland	Zeeland
+3090	Kapellebrug	4565–4565	Hulst	Zeeland
+Kapolder	6321–6321	Gulpen-Wittem	Limburg
+Kappert	6086–6086	Leudal	Limburg
+Karreveld	6089–6089	Leudal	Limburg
+Karstraat	5741–5741	Laarbeek	Noord-Brabant
+Kasen	6241–6241	Meerssen	Limburg
+Kasteren	5298–5298	Boxtel	Noord-Brabant
+Katerbosch	6587–6587	Mook en Middelaar	Limburg
+Kathagen	6361–6361	Beekdaelen	Limburg
+3192	Kats	4485–4485	Noord-Beveland	Zeeland
+Katsberg	5768–5768	Peel en Maas	Limburg
+Kattenberg	5688–5688	Oirschot	Noord-Brabant
+1825	Kattendijke	4474–4474	Goes	Zeeland
+Katwijk	5433–5433	Cuijk	Noord-Brabant
+1452	“Katwijk NB”	5433–5433	Cuijk	Noord-Brabant
+Kaumeshoek	5986–5986	Peel en Maas	Limburg
+Kaweide	5763–5763	Gemert-Bakel	Noord-Brabant
+3264	Keent	5359–5359	Oss	Noord-Brabant
+Keent	6006–6006	Weert	Limburg
+Keersop	5551–5551	Valkenswaard	Noord-Brabant
+Keizerrijk	4581–4581	Hulst	Zeeland
+Keizershoek	5111–5111	Baarle-Nassau	Noord-Brabant
+Keizersveer	4941–4941	Geertruidenberg	Noord-Brabant
+Keizersveer	4273–4273	Altena	Noord-Brabant
+Keldonk	5469–5469	Meierijstad	Noord-Brabant
+Kelmond	6191–6191	Beek	Limburg
+Kelpen	6037–6037	Leudal	Limburg
+2951	Kelpen-Oler	6037–6037	Leudal	Limburg
+Kerkeind	5751–5751	Deurne	Noord-Brabant
+Kerkeind	5076–5076	Oisterwijk	Noord-Brabant
+Kerkeind	5293–5293	Sint-Michielsgestel	Noord-Brabant
+Kerkeinde	4254–4254	Altena	Noord-Brabant
+Kerkhof	5591–5591	Heeze-Leende	Noord-Brabant
+2649	Kerkrade	6461–6469	Kerkrade	Limburg
+2679	Kerkwerve	4321–4321	Schouwen-Duiveland	Zeeland
+Keske	5694–5694	Son en Breugel	Noord-Brabant
+Kessel	5398–5398	Oss	Noord-Brabant
+1699	Kessel	5995–5995	Peel en Maas	Limburg
+Kesseleik	5995–5995	Peel en Maas	Limburg
+Keunenhoek	6021–6021	Cranendonck	Noord-Brabant
+Keup	5988–5988	Peel en Maas	Limburg
+Keutenberg	6305–6305	Valkenburg aan de Geul	Limburg
+Keuter	5864–5864	Horst aan de Maas	Limburg
+Kievitswaard	4251–4251	Altena	Noord-Brabant
+Kijkuit	4664–4664	Bergen op Zoom	Noord-Brabant
+Kijkuit	4571–4571	Terneuzen	Zeeland
+Kille	4255–4255	Altena	Noord-Brabant
+Kinderbos	5281–5281	Boxtel	Noord-Brabant
+Kinkhoven	6086–6086	Leudal	Limburg
+Kippereind	5541–5541	Reusel-De Mierden	Noord-Brabant
+Kivitsbraak	5425–5425	Gemert-Bakel	Noord-Brabant
+Klaarstraat	6035–6035	Nederweert	Limburg
+Kladde	4664–4664	Bergen op Zoom	Noord-Brabant
+Kleeberg	6281–6281	Gulpen-Wittem	Limburg
+Klef	5763–5763	Gemert-Bakel	Noord-Brabant
+Klein Bruggen	5752–5752	Deurne	Noord-Brabant
+Klein Genhout	6191–6191	Beek	Limburg
+Klein Haasdal (?)	6333–6333	Beekdaelen	Limburg
+Klein Hanssum	6086–6086	Leudal	Limburg
+Klein Loo	5081–5081	Hilvarenbeek	Noord-Brabant
+Klein Mariekerke	4365–4365	Veere	Zeeland
+Klein-Bedaf	5111–5111	Baarle-Nassau	Noord-Brabant
+Kleinder-Liempde	5281–5281	Boxtel	Noord-Brabant
+Klein-Doenrade	6438–6438	Beekdaelen	Limburg
+Klein-Dongen	5106–5106	Dongen	Noord-Brabant
+Kleindorp	5815–5815	Venray	Limburg
+Kleine Bottel	5751–5751	Deurne	Noord-Brabant
+Kleine Horst	5853–5853	Bergen	Limburg
+Kleine Koolwijk	5373–5373	Oss	Noord-Brabant
+Kleine Meers	6171–6171	Stein	Limburg
+Kleine Voort	5081–5081	Hilvarenbeek	Noord-Brabant
+Kleingenhout	6336–6336	Beekdaelen	Limburg
+Klein-Oekel	4891–4891	Zundert	Noord-Brabant
+Klein-Oirlo	5808–5808	Venray	Limburg
+Klein-Schoot	6023–6023	Cranendonck	Noord-Brabant
+Klein-Valkenisse	4373–4373	Veere	Zeeland
+Klein-Vortum	5827–5827	Boxmeer	Noord-Brabant
+Klein-Welsden	6269–6269	Eijsden-Margraten	Limburg
+3492	Klein Zundert	4882–4882	Zundert	Noord-Brabant
+Kleverskerke	4341–4341	Middelburg	Zeeland
+1853	Klimmen	6343–6343	Voerendaal	Limburg
+1826	Kloetinge	4481–4481	Goes	Zeeland
+1468	Kloetinge	4482–4482	Kapelle	Zeeland
+Klooster	4861–4861	Alphen-Chaam	Noord-Brabant
+Kloostereind	5704–5704	Helmond	Noord-Brabant
+3100	Kloosterzande	4587–4587	Hulst	Zeeland
+1319	Klundert	4791–4791	Moerdijk	Noord-Brabant
+Klutsdorp	4664–4664	Bergen op Zoom	Noord-Brabant
+Knaphof	4455–4455	Borsele	Zeeland
+2994	Knegsel	5511–5511	Eersel	Noord-Brabant
+Knikkerdorp	5855–5855	Bergen	Limburg
+Knuitershoek	4589–4589	Hulst	Zeeland
+Koekoek	5853–5853	Bergen	Limburg
+Koekoek	4437–4437	Borsele	Zeeland
+Koevering	5491–5491	Meierijstad	Noord-Brabant
+Koevering	4651–4651	Steenbergen	Noord-Brabant
+1131	Koewacht	4576–4576	Terneuzen	Zeeland
+Kokkelert	6116–6116	Echt-Susteren	Limburg
+Koninginnehaven	4522–4522	Terneuzen	Zeeland
+2042	Koningsbosch	6104–6104	Echt-Susteren	Limburg
+3442	Koningslust	5984–5984	Peel en Maas	Limburg
+Kooldert	5406–5406	Uden	Noord-Brabant
+Koolwijk	5373–5373	Oss	Noord-Brabant
+Korn	4271–4271	Altena	Noord-Brabant
+Korte Heide	5993–5993	Peel en Maas	Limburg
+Korteven	4631–4631	Woensdrecht	Noord-Brabant
+3189	Kortgene	4484–4484	Noord-Beveland	Zeeland
+Kosberg	6281–6281	Gulpen-Wittem	Limburg
+2779	Koudekerke	4371–4371	Veere	Zeeland
+Koulen	6343–6343	Voerendaal	Limburg
+Kouwenberg	5011–5011	Tilburg	Noord-Brabant
+Kraan	6031–6031	Nederweert	Limburg
+Kraanmeer	5464–5464	Meierijstad	Noord-Brabant
+Kraanven	5175–5175	Loon op Zand	Noord-Brabant
+3462	Krabbendijke	4413–4413	Reimerswaal	Zeeland
+Krabbenhoek	4561–4561	Hulst	Zeeland
+Kranenbroek	5707–5707	Helmond	Noord-Brabant
+Kreek	4758–4758	Moerdijk	Noord-Brabant
+Kreielt	5513–5513	Eersel	Noord-Brabant
+Kreijel	6035–6035	Nederweert	Limburg
+Kreijl	5591–5591	Heeze-Leende	Noord-Brabant
+Kreitsberg	5411–5411	Landerd	Noord-Brabant
+Kremsel (?)	5492–5492	Meierijstad	Noord-Brabant
+Kreverhille	4588–4588	Hulst	Zeeland
+Krolhoek	5441–5441	Boxmeer	Noord-Brabant
+Krommenhoeke	4373–4373	Veere	Zeeland
+1516	Kronenberg	5976–5976	Horst aan de Maas	Limburg
+3463	Kruiningen	4416–4416	Reimerswaal	Zeeland
+Kruisberg	5995–5995	Peel en Maas	Limburg
+Kruisdijk	4503–4503	Sluis	Zeeland
+Kruisdorp	4587–4587	Hulst	Zeeland
+1403	Kruisland	4756–4756	Steenbergen	Noord-Brabant
+Kruispolderhaven	4587–4587	Hulst	Zeeland
+Kruispunt	5441–5441	Boxmeer	Noord-Brabant
+Kruisstraat	4741–4741	Halderberge	Noord-Brabant
+Kruisstraat	4707–4707	Roosendaal	Noord-Brabant
+Kruisstraat	5247–5243	's-Hertogenbosch	Noord-Brabant
+Kruisstraat	5392–5249	's-Hertogenbosch	Noord-Brabant
+Kuiksche Heide	5253–5253	Heusden	Noord-Brabant
+Kuikseind	5091–5091	Oirschot	Noord-Brabant
+Kuilenrode	5095–5095	Reusel-De Mierden	Noord-Brabant
+3097	Kuitaart	4584–4584	Hulst	Zeeland
+Kuivezand	4751–4751	Halderberge	Noord-Brabant
+Kulert	5754–5754	Deurne	Noord-Brabant
+Kunrade	6367–6367	Voerendaal	Limburg
+Kuttingen	6285–6285	Gulpen-Wittem	Limburg
+Kuundert	5761–5761	Gemert-Bakel	Noord-Brabant
+Kwaalburg	5131–5131	Alphen-Chaam	Noord-Brabant
+1257	Kwadendamme	4434–4434	Borsele	Zeeland
+Kwakkel	4543–4543	Terneuzen	Zeeland
+Kwartier	4793–4793	Moerdijk	Noord-Brabant
+Laag Spul	5081–5081	Hilvarenbeek	Noord-Brabant
+Laag-Caestert	6245–6245	Eijsden-Margraten	Limburg
+Laageind	5447–5447	Boxmeer	Noord-Brabant
+Laagheide	5981–5981	Peel en Maas	Limburg
+Laag-Heukelom	5059–5059	Oisterwijk	Noord-Brabant
+Laagriebroek	5809–5809	Venray	Limburg
+Laagstraat	5102–5102	Dongen	Noord-Brabant
+Laagstraat	4909–4909	Oosterhout	Noord-Brabant
+Laar	6026–6026	Cranendonck	Noord-Brabant
+Laar	5268–5268	Vught	Noord-Brabant
+Laar	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Laar	6363–6363	Beekdaelen	Limburg
+Laar	5993–5993	Peel en Maas	Limburg
+Laar	5258–5258	Sint-Michielsgestel	Noord-Brabant
+Laar	6003–6003	Weert	Limburg
+Laarbroek	5721–5721	Asten	Noord-Brabant
+Lage Aard	4854–4854	Breda	Noord-Brabant
+Lage Berkt	5571–5571	Bergeijk	Noord-Brabant
+1876	Lage Mierde	5094–5094	Reusel-De Mierden	Noord-Brabant
+Lage Wijst	5384–5384	Bernheze	Noord-Brabant
+2576	Lage Zwaluwe	4926–4926	Drimmelen	Noord-Brabant
+Lagebiezen	5465–5465	Meierijstad	Noord-Brabant
+Lagekant	5391–5391	Oss	Noord-Brabant
+Lagenheuvel	5408–5408	Uden	Noord-Brabant
+l'Air Pur	5111–5111	Baarle-Nassau	Noord-Brabant
+Lakei	5851–5851	Bergen	Limburg
+Lamperen	5446–5446	Sint Anthonis	Noord-Brabant
+3099	Lamswaarde	4586–4586	Hulst	Zeeland
+Land van Kleef	5175–5175	Loon op Zand	Noord-Brabant
+3055	Ubach over Worms	6371–6374	Landgraaf	Limburg
+2080	Landhorst	5445–5445	Sint Anthonis	Noord-Brabant
+Landorp	5528–5528	Bladel	Noord-Brabant
+Landsrade	6271–6271	Gulpen-Wittem	Limburg
+Lang Hout	5993–5993	Peel en Maas	Limburg
+Lange Heide	5993–5993	Peel en Maas	Limburg
+Langenberg	5283–5283	Boxtel	Noord-Brabant
+1978	Langenboom	5453–5453	Mill en Sint Hubert	Noord-Brabant
+Langendijk	4715–4715	Rucphen	Noord-Brabant
+Langendijk	4715–4715	Rucphen	Noord-Brabant
+Langereit	5126–5126	Gilze en Rijen	Noord-Brabant
+Langeschouw	4721–4721	Rucphen	Noord-Brabant
+Langeweegje	4434–4434	Borsele	Zeeland
+1326	Langeweg	4771–4772	Moerdijk	Noord-Brabant
+Langlaar	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Langstraat	5768–5768	Peel en Maas	Limburg
+Lankes	5408–5408	Uden	Noord-Brabant
+(De) Laren (?)	5469–5469	Meierijstad	Noord-Brabant
+2081	Ledeacker	5846–5846	Sint Anthonis	Noord-Brabant
+Leemberg	4641–4641	Woensdrecht	Noord-Brabant
+Leemhorst	5951–5951	Venlo	Limburg
+1315	Leende	5595–5595	Heeze-Leende	Noord-Brabant
+Leenderstrijp	5595–5595	Heeze-Leende	Noord-Brabant
+Leensel	5757–5757	Deurne	Noord-Brabant
+Leeuw	6361–6361	Beekdaelen	Limburg
+Leeuwerik	5993–5993	Peel en Maas	Limburg
+Leg	4861–4861	Alphen-Chaam	Noord-Brabant
+Legert	5866–5866	Horst aan de Maas	Limburg
+Lemel	5527–5527	Bladel	Noord-Brabant
+1430	Lemiers	6295–6295	Vaals	Limburg
+Lennisheuvel	5281–5281	Boxtel	Noord-Brabant
+1939	Lepelstraat	4664–4664	Bergen op Zoom	Noord-Brabant
+Lerop	6077–6077	Roerdalen	Limburg
+2330	Leunen	5809–5809	Venray	Limburg
+Leveroijse Bergen	6093–6093	Leudal	Limburg
+2040	Leveroy	6091–6092	Nederweert	Limburg
+1258	Lewedorp	4456–4456	Borsele	Zeeland
+Libeek	6265–6265	Eijsden-Margraten	Limburg
+Liefkenshoek	5111–5111	Baarle-Nassau	Noord-Brabant
+2440	Liempde	5298–5298	Boxtel	Noord-Brabant
+2746	Lierop	5715–5715	Someren	Noord-Brabant
+Lies	4838–4838	Breda	Noord-Brabant
+Lieseind	5482–5482	Meierijstad	Noord-Brabant
+1447	Lieshout	5737–5737	Laarbeek	Noord-Brabant
+1776	Liessel	5757–5757	Deurne	Noord-Brabant
+Lieveld	5688–5688	Oirschot	Noord-Brabant
+Lijndonk	4854–4854	Breda	Noord-Brabant
+2815	Limbricht	6141–6141	Sittard-Geleen	Limburg
+1453	Linden	5439–5439	Cuijk	Noord-Brabant
+Lingsfort	5944–5944	Venlo	Limburg
+1921	Linne	6067–6067	Maasgouw	Limburg
+3468	Lith	5397–5397	Oss	Noord-Brabant
+3469	Lithoijen	5396–5396	Oss	Noord-Brabant
+Locht	6024–6024	Cranendonck	Noord-Brabant
+Loeswijk	5731–5731	Geldrop-Mierlo	Noord-Brabant
+3141	Lomm	5943–5943	Venlo	Limburg
+Loo	5571–5571	Bergeijk	Noord-Brabant
+Loo	5388–5388	Bernheze	Noord-Brabant
+Loo	5981–5981	Peel en Maas	Limburg
+Loo	5406–5406	Uden	Noord-Brabant
+Loobeek	5817–5817	Venray	Limburg
+Looieind	5469–5469	Meierijstad	Noord-Brabant
+Looienhoek	5133–5133	Goirle	Noord-Brabant
+Looiwinkel	6176–6176	Beek	Limburg
+Loon	5581–5581	Waalre	Noord-Brabant
+3053	Loon op Zand	5175–5175	Loon op Zand	Noord-Brabant
+Looneind	5131–5131	Alphen-Chaam	Noord-Brabant
+Loons Hoekje	5171–5171	Loon op Zand	Noord-Brabant
+Loonse Hoek	5071–5071	Tilburg	Noord-Brabant
+Looperskapelle	4322–4322	Schouwen-Duiveland	Zeeland
+3061	Loosbroek	5471–5472	Bernheze	Noord-Brabant
+1033	Lottum	5973–5973	Horst aan de Maas	Limburg
+Lovendaal	5971–5971	Horst aan de Maas	Limburg
+Loveren	5111–5111	Baarle-Nassau	Noord-Brabant
+Loveren	5563–5563	Bergeijk	Noord-Brabant
+Loveren	5266–5266	Vught	Noord-Brabant
+Luchen	5731–5731	Geldrop-Mierlo	Noord-Brabant
+Luissel	5282–5282	Boxtel	Noord-Brabant
+Luitert	4882–4882	Zundert	Noord-Brabant
+Luntershoek	4561–4561	Hulst	Zeeland
+Luttelherpt	5255–5255	Heusden	Noord-Brabant
+1458	Luyksgestel	5575–5575	Bergeijk	Noord-Brabant
+Maagd van Gent	4515–4515	Sluis	Zeeland
+Maaidijk	4501–4501	Sluis	Zeeland
+Maaijkant	5113–5113	Baarle-Nassau	Noord-Brabant
+Maalbergen	4884–4884	Zundert	Noord-Brabant
+Maalbroek	6042–6042	Roermond	Limburg
+Maalstede	4421–4421	Kapelle	Zeeland
+1568	Maarheeze	6026–6026	Cranendonck	Noord-Brabant
+Maasband	6171–6171	Stein	Limburg
+1920	Maasbracht	6051–6051	Maasgouw	Limburg
+2601	Maasbree	5993–5993	Peel en Maas	Limburg
+1218	Maashees	5823–5823	Boxmeer	Noord-Brabant
+Maaskant	5512–5512	Eersel	Noord-Brabant
+Maaskantje	5271–5271	Sint-Michielsgestel	Noord-Brabant
+1406	Maastricht	6201–6229	Maastricht	Limburg
+1672	Maastricht Airport	6199–6199	Beek	Limburg
+Maatsehei	5408–5408	Uden	Noord-Brabant
+3252	Macharen	5367–5367	Oss	Noord-Brabant
+2577	Made	4921–4921	Drimmelen	Noord-Brabant
+Magrette	4571–4571	Terneuzen	Zeeland
+Malland	4693–4693	Tholen	Zeeland
+Mamelis	6295–6295	Vaals	Limburg
+Maren	5398–5398	Oss	Noord-Brabant
+3471	Maren-Kessel	5398–5398	Oss	Noord-Brabant
+1694	Margraten	6269–6269	Eijsden-Margraten	Limburg
+2043	Maria Hoop	6105–6105	Echt-Susteren	Limburg
+Mariadorp	6245–6245	Eijsden-Margraten	Limburg
+Mariaheide (?)	5464–5464	Meierijstad	Noord-Brabant
+1448	Mariahout	5738–5738	Laarbeek	Noord-Brabant
+Maris	5985–5985	Peel en Maas	Limburg
+Marolleput	4504–4504	Sluis	Zeeland
+Mathijseind	5761–5761	Gemert-Bakel	Noord-Brabant
+Mauritsfort	4542–4542	Terneuzen	Zeeland
+Maxet	6093–6093	Leudal	Limburg
+1231	Mechelen	6281–6281	Gulpen-Wittem	Limburg
+Medevoort	5707–5707	Helmond	Noord-Brabant
+Meemortel	6021–6021	Cranendonck	Noord-Brabant
+Meer	5525–5525	Eersel	Noord-Brabant
+Meeren	5453–5453	Mill en Sint Hubert	Noord-Brabant
+1858	Meerlo	5864–5864	Horst aan de Maas	Limburg
+Meers	6181–6181	Stein	Limburg
+1463	Meerssen	6231–6231	Meerssen	Limburg
+Meerven	5512–5512	Eersel	Noord-Brabant
+1955	Meeuwen	4268–4268	Altena	Noord-Brabant
+Megelsum	5864–5864	Horst aan de Maas	Limburg
+3251	Megen	5366–5366	Oss	Noord-Brabant
+2140	Meijel	5768–5768	Peel en Maas	Limburg
+Meijldoorn	5482–5482	Meierijstad	Noord-Brabant
+Meijsberg	4861–4861	Alphen-Chaam	Noord-Brabant
+1034	Melderslo	5962–5962	Horst aan de Maas	Limburg
+2591	Melick	6074–6074	Roerdalen	Limburg
+2780	Meliskerke	4365–4365	Veere	Zeeland
+Melleschet	6294–6294	Vaals	Limburg
+Menzel	5388–5388	Bernheze	Noord-Brabant
+2847	Merkelbeek	6447–6447	Beekdaelen	Limburg
+Merlenberg	5754–5754	Deurne	Noord-Brabant
+2331	Merselo	5815–5815	Venray	Limburg
+Merum	6049–6049	Roermond	Limburg
+Mesch	6245–6245	Eijsden-Margraten	Limburg
+1035	Meterik	5964–5964	Horst aan de Maas	Limburg
+1695	Mheer	6261–6261	Eijsden-Margraten	Limburg
+Midbuul	6023–6023	Cranendonck	Noord-Brabant
+2801	Middelaar	6587–6587	Mook en Middelaar	Limburg
+Middelbeers	5091–5091	Oirschot	Noord-Brabant
+1007	Middelburg	4331–4338	Middelburg	Zeeland
+Middelijk	5961–5961	Horst aan de Maas	Limburg
+Middelrode	5258–5258	Sint-Michielsgestel	Noord-Brabant
+Middenhof	4411–4411	Reimerswaal	Zeeland
+1127	Mierlo	5731–5731	Geldrop-Mierlo	Noord-Brabant
+Mildert	6031–6031	Nederweert	Limburg
+2091	Milheeze	5763–5763	Gemert-Bakel	Noord-Brabant
+1976	Mill	5451–5451	Mill en Sint Hubert	Noord-Brabant
+2479	Milsbeek	6596–6596	Gennep	Limburg
+Milschot	5425–5425	Gemert-Bakel	Noord-Brabant
+Mingersberg	6287–6287	Gulpen-Wittem	Limburg
+Mingersberg	6367–6367	Voerendaal	Limburg
+Mispeleind	5094–5094	Reusel-De Mierden	Noord-Brabant
+1322	Moerdijk	4781–4782	Moerdijk	Noord-Brabant
+Moeren	4882–4882	Zundert	Noord-Brabant
+Moerenburg	5018–5018	Tilburg	Noord-Brabant
+2647	Moergestel	5066–5066	Oisterwijk	Noord-Brabant
+Moerslag	6265–6265	Eijsden-Margraten	Limburg
+1593	Moerstraten	4727–4727	Roosendaal	Noord-Brabant
+Moesdijk	6005–6005	Weert	Limburg
+Molembaix	4364–4364	Veere	Zeeland
+Molenbaan	5768–5768	Peel en Maas	Limburg
+Moleneind	4264–4264	Altena	Noord-Brabant
+Moleneind	5864–5864	Horst aan de Maas	Limburg
+Moleneind	5175–5175	Loon op Zand	Noord-Brabant
+Moleneind	5406–5406	Uden	Noord-Brabant
+Molengat	5451–5451	Mill en Sint Hubert	Noord-Brabant
+Molenhoek	4583–4583	Hulst	Zeeland
+2802	Molenhoek	6584–6584	Mook en Middelaar	Limburg
+Molenhoek	5808–5808	Venray	Limburg
+Molenhof	5752–5752	Deurne	Noord-Brabant
+Molenhuizen	5993–5993	Peel en Maas	Limburg
+Molenperk	4353–4353	Veere	Zeeland
+2069	Molenschot	5124–5124	Gilze en Rijen	Noord-Brabant
+Molenstraat	5268–5268	Vught	Noord-Brabant
+Molenstraat	5175–5175	Loon op Zand	Noord-Brabant
+Molenveld	5521–5521	Eersel	Noord-Brabant
+Molenvliet	4691–4691	Tholen	Zeeland
+Molenwijk	5427–5427	Boekel	Noord-Brabant
+Molsberg	6369–6369	Simpelveld	Limburg
+Monnikendijk	4474–4474	Goes	Zeeland
+2592	Montfort	6065–6065	Roerdalen	Limburg
+2803	Mook	6585–6585	Mook en Middelaar	Limburg
+Moorsel	5715–5715	Someren	Noord-Brabant
+1464	Moorveld	6237–6237	Meerssen	Limburg
+Moriaanshoofd	4321–4321	Schouwen-Duiveland	Zeeland
+Morsche Hoef	5469–5469	Meierijstad	Noord-Brabant
+Mortel	6088–6088	Leudal	Limburg
+Mosbulten	5491–5491	Meierijstad	Noord-Brabant
+Mosik	5525–5525	Eersel	Noord-Brabant
+Mosselaar	5684–5684	Best	Noord-Brabant
+Mosselhoek	4691–4691	Tholen	Zeeland
+Most	5975–5975	Horst aan de Maas	Limburg
+Mostheuvel	5513–5513	Eersel	Noord-Brabant
+Muggenberg	5591–5591	Heeze-Leende	Noord-Brabant
+Muggenhol	5509–5509	Veldhoven	Noord-Brabant
+Muggenhool	5571–5571	Bergeijk	Noord-Brabant
+Muizenhol	5761–5761	Gemert-Bakel	Noord-Brabant
+Mun	5374–5374	Landerd	Noord-Brabant
+Munnekens-Vinkel	5384–5384	Bernheze	Noord-Brabant
+Munnekens-Vinkel	5383–5383	's-Hertogenbosch	Noord-Brabant
+Munnikenheide	4714–4714	Rucphen	Noord-Brabant
+2816	Munstergeleen	6151–6151	Sittard-Geleen	Limburg
+Nabbegat	5411–5411	Landerd	Noord-Brabant
+Nachtegaal	5871–5871	Horst aan de Maas	Limburg
+Nagelbeek	6365–6365	Beekdaelen	Limburg
+Nattenhoven	6129–6129	Stein	Limburg
+Nederheide	4721–4721	Rucphen	Noord-Brabant
+2037	Nederweert	6031–6031	Nederweert	Limburg
+2039	Nederweert-Eind	6034–6034	Nederweert	Limburg
+Nederweerterdijk	5768–5768	Peel en Maas	Limburg
+Nederwetten	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+2952	Neer	6086–6086	Leudal	Limburg
+Neerbeek	6191–6191	Beek	Limburg
+Neerbroek	5427–5427	Boekel	Noord-Brabant
+Neereind	5091–5091	Oirschot	Noord-Brabant
+2953	Neeritter	6015–6015	Leudal	Limburg
+1777	Neerkant	5758–5758	Deurne	Noord-Brabant
+3261	Neerlangel	5355–5355	Oss	Noord-Brabant
+3262	Neerloon	5356–5356	Oss	Noord-Brabant
+Neerstraat	5761–5761	Gemert-Bakel	Noord-Brabant
+Nergena	5282–5282	Boxtel	Noord-Brabant
+Nerhoven	5126–5126	Gilze en Rijen	Noord-Brabant
+1068	Netersel	5534–5534	Bladel	Noord-Brabant
+Niemeskant	5408–5408	Uden	Noord-Brabant
+Nierhoven	6361–6361	Beekdaelen	Limburg
+Nieuw Acht	5651–5651	Eindhoven	Noord-Brabant
+1009	Nieuw- en Sint Joosland	4339–4339	Middelburg	Zeeland
+Nieuw- en Winnerstraat	6035–6035	Nederweert	Limburg
+Nieuw(-)Bergen (?)	5854–5854	Bergen	Limburg
+Nieuw-Abeele	4335–4335	Middelburg	Zeeland
+1259	Nieuwdorp	4455–4455	Borsele	Zeeland
+Nieuwe Dijk	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Nieuwe Molen	4661–4661	Bergen op Zoom	Noord-Brabant
+Nieuwe Strumpt	5113–5113	Baarle-Nassau	Noord-Brabant
+Nieuwemolen	4793–4793	Moerdijk	Noord-Brabant
+Nieuwemolen	4576–4576	Terneuzen	Zeeland
+Nieuwenberg	4704–4704	Roosendaal	Noord-Brabant
+2216	Nieuwendijk	4255–4255	Altena	Noord-Brabant
+Nieuwenhagen	6373–6373	Landgraaf	Limburg
+2680	Nieuwerkerk	4306–4306	Schouwen-Duiveland	Zeeland
+Nieuwerkerke (Schutje)	4321–4321	Schouwen-Duiveland	Zeeland
+Nieuwe-Vaart	5161–5161	Waalwijk	Noord-Brabant
+Nieuw-Gassel	5438–5438	Grave	Noord-Brabant
+Nieuw-Haamstede	4328–4328	Schouwen-Duiveland	Zeeland
+Nieuwkerk	5051–5051	Goirle	Noord-Brabant
+3502	Nieuwkuijk	5253–5253	Heusden	Noord-Brabant
+Nieuwland	4521–4521	Terneuzen	Zeeland
+Nieuwlandse Molen	4521–4521	Terneuzen	Zeeland
+Nieuw-Namen	4568–4568	Hulst	Zeeland
+3093	“Nieuw Namen”	4568–4568	Hulst	Zeeland
+2047	Nieuwstadt	6118–6118	Echt-Susteren	Limburg
+2969	Nieuwvliet	4504–4504	Sluis	Zeeland
+Nieuwvliet-Bad	4504–4504	Sluis	Zeeland
+1404	Nieuw-Vossemeer	4681–4681	Steenbergen	Noord-Brabant
+Nijhoven	5111–5111	Baarle-Nassau	Noord-Brabant
+Nijken	6088–6088	Leudal	Limburg
+Nijnsel	5491–5491	Meierijstad	Noord-Brabant
+Nijswiller	6286–6286	Gulpen-Wittem	Limburg
+Nijvelaar	5275–5275	Sint-Michielsgestel	Noord-Brabant
+1591	Nispen	4709–4709	Roosendaal	Noord-Brabant
+Nispense Achterhoek	4721–4721	Rucphen	Noord-Brabant
+1260	Nisse	4443–4443	Borsele	Zeeland
+3062	Nistelrode	5388–5388	Bernheze	Noord-Brabant
+Noenes	5076–5076	Oisterwijk	Noord-Brabant
+1696	Noorbeek	6255–6255	Eijsden-Margraten	Limburg
+Noord	5446–5446	Sint Anthonis	Noord-Brabant
+Noordeinde	4481–4481	Goes	Zeeland
+2681	Noordgouwe	4317–4317	Schouwen-Duiveland	Zeeland
+1325	Noordhoek	4759–4759	Moerdijk	Noord-Brabant
+Noordhoek	4735–4735	Rucphen	Noord-Brabant
+Noordkant	5845–5845	Sint Anthonis	Noord-Brabant
+Noordschans	4791–4791	Moerdijk	Noord-Brabant
+Noordstraat	4588–4588	Hulst	Zeeland
+2682	Noordwelle	4326–4326	Schouwen-Duiveland	Zeeland
+Notendaal	4655–4655	Steenbergen	Noord-Brabant
+Notsel	4858–4858	Alphen-Chaam	Noord-Brabant
+2136	Nuenen	5671–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Nuijeneind	5761–5761	Gemert-Bakel	Noord-Brabant
+3611	Nuland	5391–5392	's-Hertogenbosch	Noord-Brabant
+Nummer Eén	4513–4513	Sluis	Zeeland
+2954	Nunhem	6083–6083	Leudal	Limburg
+2358	Nuth	6361–6361	Beekdaelen	Limburg
+2817	Obbicht	6125–6125	Sittard-Geleen	Limburg
+1849	Odiliapeel	5409–5409	Uden	Noord-Brabant
+1219	Oeffelt	5441–5441	Boxmeer	Noord-Brabant
+Oeijenbraak	5715–5715	Someren	Noord-Brabant
+Oekel	4891–4891	Zundert	Noord-Brabant
+Oensel	6333–6333	Beekdaelen	Limburg
+Oerle	5507–5507	Veldhoven	Noord-Brabant
+Oetelaar	5481–5481	Meierijstad	Noord-Brabant
+Oevereind	6116–6116	Echt-Susteren	Limburg
+1923	Ohé en Laak	6109–6109	Maasgouw	Limburg
+3470	Oijen	5394–5394	Oss	Noord-Brabant
+Oijen	5995–5995	Peel en Maas	Limburg
+3604	Oirlo	5808–5808	Venray	Limburg
+2101	Oirsbeek	6438–6438	Beekdaelen	Limburg
+1207	Oirschot	5688–5689	Oirschot	Noord-Brabant
+2646	Oisterwijk	5061–5063	Oisterwijk	Noord-Brabant
+Oisterwijkse Hoeven	5062–5062	Oisterwijk	Noord-Brabant
+Olen	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Olen	5694–5694	Son en Breugel	Noord-Brabant
+Oler	6037–6037	Leudal	Limburg
+Olland	5491–5491	Meierijstad	Noord-Brabant
+2930	Ommel	5724–5724	Asten	Noord-Brabant
+Onder de Molen	4698–4698	Tholen	Zeeland
+Onder Eindt	5988–5988	Peel en Maas	Limburg
+Onsenoort	5254–5254	Heusden	Noord-Brabant
+Ooijen	5871–5871	Horst aan de Maas	Limburg
+Ool	6049–6049	Roermond	Limburg
+Oostappen	5724–5724	Asten	Noord-Brabant
+Oostbroek	6243–6243	Meerssen	Limburg
+2960	Oostburg	4501–4501	Sluis	Zeeland
+Oostburgsche Brug	4501–4501	Sluis	Zeeland
+3464	Oostdijk	4415–4415	Reimerswaal	Zeeland
+2957	Oosteind	4909–4909	Oosterhout	Noord-Brabant
+Oosteind	5144–5144	Waalwijk	Noord-Brabant
+Oostelbeers	5091–5091	Oirschot	Noord-Brabant
+Oosterens	5408–5408	Uden	Noord-Brabant
+3596	Oosterhout	4901–4908	Oosterhout	Noord-Brabant
+Oosterik	5595–5595	Heeze-Leende	Noord-Brabant
+2683	Oosterland	4307–4307	Schouwen-Duiveland	Zeeland
+2781	Oostkapelle	4356–4356	Veere	Zeeland
+Oostlaar	4724–4724	Roosendaal	Noord-Brabant
+Oost-Maarland	6245–6245	Eijsden-Margraten	Limburg
+3605	Oostrum	5807–5807	Venray	Limburg
+1076	Oost-Souburg	4388–4388	Vlissingen	Zeeland
+1208	Oost West en Middelbeers	5091–5091	Oirschot	Noord-Brabant
+Op de Belt	5853–5853	Bergen	Limburg
+Op de Bies	6333–6333	Beekdaelen	Limburg
+Op de Bos	6088–6088	Leudal	Limburg
+Op de Hoven	6374–6374	Landgraaf	Limburg
+Op den Bosch	5823–5823	Boxmeer	Noord-Brabant
+Op den Hering	6451–6451	Beekdaelen	Limburg
+Ophoven	6101–6101	Echt-Susteren	Limburg
+Ophoven	6088–6088	Leudal	Limburg
+2082	Oploo	5841–5841	Sint Anthonis	Noord-Brabant
+Opwetten	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Oranjeoord	4794–4794	Moerdijk	Noord-Brabant
+Osen	6067–6097	Maasgouw	Limburg
+2038	Ospel	6035–6035	Nederweert	Limburg
+Ospeldijk	6035–6035	Nederweert	Limburg
+3249	Oss	5341–5349	Oss	Noord-Brabant
+1002	Ossendrecht	4641–4641	Woensdrecht	Noord-Brabant
+3102	Ossenisse	4589–4589	Hulst	Zeeland
+Ostaaijen	4885–4885	Zundert	Noord-Brabant
+Osterbos	5866–5866	Horst aan de Maas	Limburg
+Othene	4533–4533	Terneuzen	Zeeland
+Otterdijk	5715–5715	Someren	Noord-Brabant
+2480	Ottersum	6595–6595	Gennep	Limburg
+1248	Oud Gastel	4751–4751	Halderberge	Noord-Brabant
+Oud Kerkhof	4691–4691	Tholen	Zeeland
+Oud Lemiers	6295–6295	Vaals	Limburg
+Oud-Drimmelen	4924–4924	Drimmelen	Noord-Brabant
+Oude Kerk	6176–6176	Beek	Limburg
+Oude Molen	4661–4661	Bergen op Zoom	Noord-Brabant
+Oude Polder	4574–4574	Terneuzen	Zeeland
+Oude Stee	4631–4631	Woensdrecht	Noord-Brabant
+Oude Stoof	4585–4585	Hulst	Zeeland
+Oude Strumpt	5113–5113	Baarle-Nassau	Noord-Brabant
+Oude Waranda	5836–5836	Boxmeer	Noord-Brabant
+Oudedorp	4339–4339	Middelburg	Zeeland
+Oudeland	4507–4507	Sluis	Zeeland
+1261	Oudelande	4436–4436	Borsele	Zeeland
+1320	Oudemolen	4796–4796	Moerdijk	Noord-Brabant
+Oud-Empel	5235–5235	's-Hertogenbosch	Noord-Brabant
+1246	Oudenbosch	4731–4731	Halderberge	Noord-Brabant
+Oudendijk	4285–4285	Altena	Noord-Brabant
+Oudenmolen	5591–5591	Heeze-Leende	Noord-Brabant
+3519	Oudheusden	5156–5156	Heusden	Noord-Brabant
+Oud-Roosteren	6114–6114	Echt-Susteren	Limburg
+Oud-Sabbinge	4471–4471	Goes	Zeeland
+Oud-Valkenburg	6305–6305	Valkenburg aan de Geul	Limburg
+2077	Oud-Vossemeer	4698–4698	Tholen	Zeeland
+2684	Ouwerkerk	4305–4305	Schouwen-Duiveland	Zeeland
+Oventje	5411–5411	Landerd	Noord-Brabant
+Overa	4836–4836	Breda	Noord-Brabant
+Overakker	5731–5731	Geldrop-Mierlo	Noord-Brabant
+Overberg	4635–4635	Woensdrecht	Noord-Brabant
+Overbroek	5809–5809	Venray	Limburg
+Overbrug	5707–5707	Helmond	Noord-Brabant
+Overeys	6287–6287	Gulpen-Wittem	Limburg
+Overgeul	6281–6281	Gulpen-Wittem	Limburg
+Overhaelen	6081–6081	Leudal	Limburg
+Overheek	6343–6343	Voerendaal	Limburg
+3263	Overlangel	5357–5357	Oss	Noord-Brabant
+1220	Overloon	5825–5825	Boxmeer	Noord-Brabant
+Overschot	5761–5761	Gemert-Bakel	Noord-Brabant
+1132	Overslag	4575–4575	Terneuzen	Zeeland
+1262	Ovezande	4441–4441	Borsele	Zeeland
+Paal	4569–4569	Hulst	Zeeland
+Paarlo	6077–6077	Roerdalen	Limburg
+Pandelaarse Kampen	5421–5421	Gemert-Bakel	Noord-Brabant
+Pandgat	5688–5688	Oirschot	Noord-Brabant
+Panheel	6097–6097	Maasgouw	Limburg
+Pannenschop	5753–5753	Deurne	Noord-Brabant
+3443	Panningen	5981–5981	Peel en Maas	Limburg
+2818	Papenhoven	6124–6124	Sittard-Geleen	Limburg
+Papenvoort	5446–5447	Boxmeer	Noord-Brabant
+Papenvoort	5446–5447	Sint Anthonis	Noord-Brabant
+Park	5446–5446	Sint Anthonis	Noord-Brabant
+Partij	6286–6286	Gulpen-Wittem	Limburg
+Passluis	4554–4554	Terneuzen	Zeeland
+Patrijzenhoek	4561–4561	Hulst	Zeeland
+Pauluspolder	4585–4585	Hulst	Zeeland
+Peeldijk	5735–5735	Laarbeek	Noord-Brabant
+Peelkant	5845–5845	Sint Anthonis	Noord-Brabant
+Peelse Huis (?)	5427–5427	Boekel	Noord-Brabant
+Peelstraat	5427–5427	Boekel	Noord-Brabant
+Peelstraat	5446–5446	Sint Anthonis	Noord-Brabant
+Peerenboom	4273–4273	Altena	Noord-Brabant
+Peij	6102–6102	Echt-Susteren	Limburg
+Pelikaan	4791–4791	Moerdijk	Noord-Brabant
+Pelsendijk	4681–4681	Steenbergen	Noord-Brabant
+Pepinusbrug	6102–6102	Echt-Susteren	Limburg
+Pesaken	6271–6271	Gulpen-Wittem	Limburg
+1133	Philippine	4553–4553	Terneuzen	Zeeland
+Piepert	6287–6287	Gulpen-Wittem	Limburg
+Pitteperk	4353–4353	Veere	Zeeland
+Plaat	6285–6285	Gulpen-Wittem	Limburg
+Plaatsluis	4641–4641	Woensdrecht	Noord-Brabant
+Plakkebord	4508–4508	Sluis	Zeeland
+Plankendorp	4493–4493	Noord-Beveland	Zeeland
+Planketent	4458–4458	Goes	Zeeland
+Plantage Centrum	4725–4725	Roosendaal	Noord-Brabant
+2804	Plasmolen	6586–6586	Mook en Middelaar	Limburg
+Platveld	5768–5768	Peel en Maas	Limburg
+Plein	5271–5271	Sint-Michielsgestel	Noord-Brabant
+Poeldonk	5275–5275	Sint-Michielsgestel	Noord-Brabant
+Pol	6019–6019	Maasgouw	Limburg
+Polsdonken	5688–5688	Oirschot	Noord-Brabant
+Ponte	4515–4515	Sluis	Zeeland
+Ponte Avancé	4515–4515	Sluis	Zeeland
+Poonhaven	4543–4543	Terneuzen	Zeeland
+2072	Poortvliet	4693–4693	Tholen	Zeeland
+Poppendamme	4364–4364	Veere	Zeeland
+2593	Posterholt	6061–6061	Roerdalen	Limburg
+Posthoorn	4553–4553	Terneuzen	Zeeland
+Prickart	6351–6351	Simpelveld	Limburg
+1705	Prinsenbeek	4841–4841	Breda	Noord-Brabant
+Putbroek	6105–6105	Echt-Susteren	Limburg
+2102	Puth	6155–6155	Beekdaelen	Limburg
+Putselaar	5443–5443	Cuijk	Noord-Brabant
+1003	Putte	4645–4645	Woensdrecht	Noord-Brabant
+Pyramide	4515–4515	Sluis	Zeeland
+Quirijnstok	5011–5011	Tilburg	Noord-Brabant
+Raaieind	5971–5971	Horst aan de Maas	Limburg
+Raakeind	5126–5126	Gilze en Rijen	Noord-Brabant
+Raam	5076–5076	Oisterwijk	Noord-Brabant
+Raamberg	4882–4882	Zundert	Noord-Brabant
+1752	Raamsdonk	4944–4944	Geertruidenberg	Noord-Brabant
+1750	Raamsdonksveer	4941–4942	Geertruidenberg	Noord-Brabant
+Raar	6231–6231	Meerssen	Limburg
+Rakens	4858–4858	Alphen-Chaam	Noord-Brabant
+Rakt	5406–5406	Uden	Noord-Brabant
+1854	Ransdaal	6311–6312	Voerendaal	Limburg
+Raren	6291–6291	Vaals	Limburg
+Ravensgat	5761–5761	Gemert-Bakel	Noord-Brabant
+3254	Ravenstein	5371–5371	Oss	Noord-Brabant
+1852	Reek	5375–5375	Landerd	Noord-Brabant
+1227	Reijmerstok	6274–6274	Gulpen-Wittem	Limburg
+Ren	5425–5425	Gemert-Bakel	Noord-Brabant
+2685	Renesse	4325–4325	Schouwen-Duiveland	Zeeland
+Retersbeek	6367–6367	Voerendaal	Limburg
+Reth	5111–5111	Baarle-Nassau	Noord-Brabant
+2970	Retranchement	4525–4525	Sluis	Zeeland
+1877	Reusel	5541–5541	Reusel-De Mierden	Noord-Brabant
+Reuth	5111–5111	Baarle-Nassau	Noord-Brabant
+Reutje	6077–6077	Roerdalen	Limburg
+1949	Reuver	5953–5953	Beesel	Limburg
+Reuzenhoek	4543–4543	Terneuzen	Zeeland
+Riel	5647–5647	Eindhoven	Noord-Brabant
+2881	Riel	5133–5133	Goirle	Noord-Brabant
+Rietbroek	6039–6039	Weert	Limburg
+Riethorst	6586–6586	Mook en Middelaar	Limburg
+1459	Riethoven	5561–5561	Bergeijk	Noord-Brabant
+Rietven	5428–5428	Boekel	Noord-Brabant
+Rietven	5512–5512	Eersel	Noord-Brabant
+Rijckholt	6247–6247	Eijsden-Margraten	Limburg
+2070	Rijen	5121–5122	Gilze en Rijen	Noord-Brabant
+Rijkebuurt	4453–4453	Borsele	Zeeland
+Rijkel	5954–5954	Beesel	Limburg
+Rijkerbeek	5469–5469	Meierijstad	Noord-Brabant
+1221	Rijkevoort	5447–5447	Boxmeer	Noord-Brabant
+2087	Rijkevoort-De Walsert	5449–5449	Sint Anthonis	Noord-Brabant
+Rijpelberg	5709–5709	Helmond	Noord-Brabant
+3490	Rijsbergen	4891–4891	Zundert	Noord-Brabant
+Rijswijk	4284–4284	Altena	Noord-Brabant
+3303	“Rijswijk (NB)”	4284–4284	Altena	Noord-Brabant
+Rijt	5575–5575	Bergeijk	Noord-Brabant
+3465	Rilland	4411–4411	Reimerswaal	Zeeland
+Rimburg	6374–6374	Landgraaf	Limburg
+Rimpelt	5851–5851	Bergen	Limburg
+Rinkesfort	5993–5993	Peel en Maas	Limburg
+Rinkveld	5721–5721	Asten	Noord-Brabant
+Rith	4838–4838	Breda	Noord-Brabant
+1077	Ritthem	4389–4389	Vlissingen	Zeeland
+Rode Sluis	4575–4575	Terneuzen	Zeeland
+Roelshoek	4413–4413	Reimerswaal	Zeeland
+2281	Roermond	6041–6045	Roermond	Limburg
+Roeven	6031–6031	Nederweert	Limburg
+2955	Roggel	6088–6088	Leudal	Limburg
+Roggelsedijk	5768–5768	Peel en Maas	Limburg
+Rolaf	4681–4681	Steenbergen	Noord-Brabant
+Roligt	6093–6093	Leudal	Limburg
+Rondveld	5845–5845	Sint Anthonis	Noord-Brabant
+Roodenhoek	4513–4513	Sluis	Zeeland
+Roodewijk	4475–4475	Goes	Zeeland
+Roond	5281–5281	Boxtel	Noord-Brabant
+Roosberg	4854–4854	Breda	Noord-Brabant
+1588	Roosendaal	4701–4708	Roosendaal	Noord-Brabant
+2046	Roosteren	6116–6116	Echt-Susteren	Limburg
+Rooth	5993–5993	Peel en Maas	Limburg
+Roskam	6077–6077	Roerdalen	Limburg
+1596	Rosmalen	5241–5249	's-Hertogenbosch	Noord-Brabant
+Rothem	6231–6231	Meerssen	Limburg
+Rothenbach	6063–6063	Roerdalen	Limburg
+Rott	6294–6294	Vaals	Limburg
+Roverberg	4569–4586	Hulst	Zeeland
+2581	Rucphen	4715–4715	Rucphen	Noord-Brabant
+Rugdijk	5011–5011	Tilburg	Noord-Brabant
+Ruimel	5271–5271	Sint-Michielsgestel	Noord-Brabant
+Ruischendegat	4581–4581	Hulst	Zeeland
+Rukven	5473–5473	Bernheze	Noord-Brabant
+Rul	5591–5591	Heeze-Leende	Noord-Brabant
+Rullen	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Rusven	5411–5411	Landerd	Noord-Brabant
+1222	Sambeek	5836–5836	Boxmeer	Noord-Brabant
+Santfort	6014–6014	Leudal	Limburg
+1134	Sas van Gent	4551–4551	Terneuzen	Zeeland
+Sasput	4507–4507	Sluis	Zeeland
+Schaapsbrug	6089–6089	Leudal	Limburg
+Schadewijk	5521–5521	Eersel	Noord-Brabant
+Schadijk	5964–5964	Horst aan de Maas	Limburg
+Schadron	5408–5408	Uden	Noord-Brabant
+Schaesberg	6371–6372	Landgraaf	Limburg
+Schafelt	5991–5991	Peel en Maas	Limburg
+Schafferden	5821–5821	Boxmeer	Noord-Brabant
+Schaft	5556–5556	Valkenswaard	Noord-Brabant
+1851	Schaijk	5374–5374	Landerd	Noord-Brabant
+Schaluinen	5111–5111	Baarle-Nassau	Noord-Brabant
+Schandelo	5941–5941	Venlo	Limburg
+Schans	5758–5758	Deurne	Noord-Brabant
+Schans	4751–4751	Halderberge	Noord-Brabant
+Schans	6088–6088	Leudal	Limburg
+Schans	4251–4251	Altena	Noord-Brabant
+Schapenbout	4541–4541	Terneuzen	Zeeland
+Schapershoek	4581–4581	Hulst	Zeeland
+2686	Scharendijke	4322–4322	Schouwen-Duiveland	Zeeland
+Scheepstal	5709–5709	Helmond	Noord-Brabant
+Scheide	5809–5809	Venray	Limburg
+Scheldevaartshoek	4569–4569	Hulst	Zeeland
+Schellach	4332–4332	Middelburg	Zeeland
+Schelm	5758–5758	Deurne	Noord-Brabant
+Scherpbier	4501–4503	Sluis	Zeeland
+Scherpenering	5513–5513	Eersel	Noord-Brabant
+2073	Scherpenisse	4694–4694	Tholen	Zeeland
+1697	Scheulder	6307–6307	Eijsden-Margraten	Limburg
+Schey	6255–6255	Eijsden-Margraten	Limburg
+Schietecoven	6235–6235	Meerssen	Limburg
+2582	Schijf	4721–4722	Rucphen	Noord-Brabant
+2139	Schijndel	5481–5483	Meierijstad	Noord-Brabant
+Schilberg	6101–6102	Echt-Susteren	Limburg
+Schilberg	6255–6255	Eijsden-Margraten	Limburg
+Schilberg	6277–6277	Gulpen-Wittem	Limburg
+Schillersheide	6014–6014	Leudal	Limburg
+2360	Schimmert	6333–6333	Beekdaelen	Limburg
+1717	Schin op Geul	6305–6305	Valkenburg aan de Geul	Limburg
+2103	Schinnen	6365–6365	Beekdaelen	Limburg
+2848	Schinveld	6451–6451	Beekdaelen	Limburg
+Schipperskerk	6124–6124	Sittard-Geleen	Limburg
+Schoelieberg	4635–4635	Woensdrecht	Noord-Brabant
+Schoonbron	6305–6305	Valkenburg aan de Geul	Limburg
+2971	Schoondijke	4507–4507	Sluis	Zeeland
+Schoondorp	4693–4693	Tholen	Zeeland
+Schoor	6031–6031	Nederweert	Limburg
+Schoor	5492–5492	Meierijstad	Noord-Brabant
+Schoor	5809–5809	Venray	Limburg
+Schoordijk	6021–6021	Cranendonck	Noord-Brabant
+Schoorstraat	5071–5071	Tilburg	Noord-Brabant
+Schoorveld	5993–5993	Peel en Maas	Limburg
+Schoot	5505–5505	Veldhoven	Noord-Brabant
+1469	Schore	4423–4423	Kapelle	Zeeland
+Schorebrug	4417–4417	Reimerswaal	Zeeland
+Schotsheuvel	5391–5391	's-Hertogenbosch	Noord-Brabant
+Schouw	5761–5761	Gemert-Bakel	Noord-Brabant
+Schuddebeurs	4561–4561	Hulst	Zeeland
+Schuddebeurs	4317–4317	Schouwen-Duiveland	Zeeland
+Schurenberg	6432–6432	Heerlen	Limburg
+Schutsboom	5763–5763	Gemert-Bakel	Noord-Brabant
+Schweiberg	6281–6281	Gulpen-Wittem	Limburg
+Sengelsbroek	5575–5575	Bergeijk	Noord-Brabant
+2687	Serooskerke	4327–4327	Schouwen-Duiveland	Zeeland
+2782	Serooskerke	4353–4353	Veere	Zeeland
+Seters	4849–4849	Oosterhout	Noord-Brabant
+1515	Sevenum	5975–5975	Horst aan de Maas	Limburg
+Sibbe	6301–6301	Valkenburg aan de Geul	Limburg
+1123	Siebengewald	5853–5853	Bergen	Limburg
+3065	Simpelveld	6369–6369	Simpelveld	Limburg
+Sinoutskerke	4444–4444	Borsele	Zeeland
+Sinselbeek	6286–6286	Gulpen-Wittem	Limburg
+1454	Sint Agatha	5435–5435	Cuijk	Noord-Brabant
+2076	Sint-Annaland	4697–4698	Tholen	Zeeland
+Sint Anna ter Muiden	4524–4524	Sluis	Zeeland
+2083	Sint Anthonis	5845–5845	Sint Anthonis	Noord-Brabant
+Sint Antoniusbank	6268–6268	Eijsden-Margraten	Limburg
+1698	Sint Geertruid	6265–6265	Eijsden-Margraten	Limburg
+1977	Sint Hubert	5454–5454	Mill en Sint Hubert	Noord-Brabant
+Sint Janskerke	4374–4374	Veere	Zeeland
+3089	Sint Jansteen	4564–4564	Hulst	Zeeland
+2044	Sint Joost	6111–6112	Echt-Susteren	Limburg
+2973	Sint Kruis	4528–4528	Sluis	Zeeland
+Sint Laurens	4333–4333	Middelburg	Zeeland
+2594	Sint Odiliënberg	6077–6077	Roerdalen	Limburg
+Sint-Annaland	4697–4697	Tholen	Zeeland
+2074	Sint-Maartensdijk	4695–4695	Tholen	Zeeland
+2060	Sint-Michielsgestel	5271–5271	Sint-Michielsgestel	Noord-Brabant
+2787	Sint-Oedenrode	5491–5492	Meierijstad	Noord-Brabant
+2078	Sint-Philipsland	4675–4675	Tholen	Zeeland
+2688	Sirjansland	4308–4308	Schouwen-Duiveland	Zeeland
+3512	Sittard	6131–6137	Sittard-Geleen	Limburg
+Slabroek	5406–5406	Uden	Noord-Brabant
+2217	Sleeuwijk	4254–4254	Altena	Noord-Brabant
+Slek	6102–6102	Echt-Susteren	Limburg
+1229	Slenaken	6277–6277	Gulpen-Wittem	Limburg
+Sliffert	5657–5657	Eindhoven	Noord-Brabant
+Slijkplaat	4513–4513	Sluis	Zeeland
+Slikkenburg	4661–4661	Bergen op Zoom	Noord-Brabant
+Slikkenburg	4505–4505	Sluis	Zeeland
+Sloot	5757–5757	Deurne	Noord-Brabant
+Sluis	4581–4581	Hulst	Zeeland
+2962	Sluis	4524–4524	Sluis	Zeeland
+Sluis	4675–4675	Tholen	Zeeland
+Sluis 13	5712–5712	Someren	Noord-Brabant
+Sluis De Piet	4471–4471	Goes	Zeeland
+1135	Sluiskil	4541–4541	Terneuzen	Zeeland
+2334	Smakt	5817–5817	Venray	Limburg
+Smal	5854–5854	Bergen	Limburg
+Smedekensbrugge	4527–4527	Sluis	Zeeland
+Smele	6598–6598	Gennep	Limburg
+Smidstraat	6013–6013	Leudal	Limburg
+Sneidershoek	5511–5511	Eersel	Noord-Brabant
+Snepseind	5688–5688	Oirschot	Noord-Brabant
+Snijdersberg	6243–6243	Meerssen	Limburg
+Snijders-Chaam	4861–4861	Alphen-Chaam	Noord-Brabant
+1569	Soerendonk	6027–6027	Cranendonck	Noord-Brabant
+Soeterbeek	5991–5991	Peel en Maas	Limburg
+2745	Someren	5711–5712	Someren	Noord-Brabant
+Someren-Eind	5712–5712	Someren	Noord-Brabant
+Someren-Heide	5712–5712	Someren	Noord-Brabant
+Son	5691–5692	Son en Breugel	Noord-Brabant
+3520	Son en Breugel	5691–5692	Son en Breugel	Noord-Brabant
+Sonniuswijk	5691–5691	Son en Breugel	Noord-Brabant
+Spaanrijt	5571–5571	Bergeijk	Noord-Brabant
+Spaansehoek	5133–5133	Goirle	Noord-Brabant
+Spaanshuisken	6104–6104	Echt-Susteren	Limburg
+1671	Spaubeek	6176–6176	Beek	Limburg
+Spekklef	5841–5841	Sint Anthonis	Noord-Brabant
+Spekt	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Speurgt	5761–5761	Gemert-Bakel	Noord-Brabant
+Spiesberg	5985–5985	Peel en Maas	Limburg
+Spijk	4261–4261	Altena	Noord-Brabant
+Spik	6042–6042	Roermond	Limburg
+Spinolaberg	4661–4661	Bergen op Zoom	Noord-Brabant
+Spoordonk	5688–5688	Oirschot	Noord-Brabant
+Sprang	5161–5161	Waalwijk	Noord-Brabant
+2596	Sprang-Capelle	5161–5161	Waalwijk	Noord-Brabant
+Sprangsevaart	5171–5171	Loon op Zand	Noord-Brabant
+2583	Sprundel	4714–4714	Rucphen	Noord-Brabant
+1136	Spui	4539–4539	Terneuzen	Zeeland
+Spurkt	5995–5995	Peel en Maas	Limburg
+2584	St. Willebrord	4711–4711	Rucphen	Noord-Brabant
+Stad van Gerwen	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Stadse Dijk	4794–4794	Moerdijk	Noord-Brabant
+1247	Stampersgat	4754–4754	Halderberge	Noord-Brabant
+1324	Standdaarbuiten	4758–4758	Moerdijk	Noord-Brabant
+Startwijk	5835–5835	Boxmeer	Noord-Brabant
+Statenboom	4567–4567	Hulst	Zeeland
+Statendam	4931–4931	Geertruidenberg	Noord-Brabant
+Stationsbuurt	4411–4411	Reimerswaal	Zeeland
+2075	Stavenisse	4696–4696	Tholen	Zeeland
+Steeg	5975–5975	Horst aan de Maas	Limburg
+Steelhoven	4921–4921	Drimmelen	Noord-Brabant
+1405	Steenbergen	4651–4652	Steenbergen	Noord-Brabant
+Steenenkruis	4691–4691	Tholen	Zeeland
+Steenhoven	4508–4508	Sluis	Zeeland
+Steenoven	4849–4849	Oosterhout	Noord-Brabant
+Steenoven	5768–5768	Peel en Maas	Limburg
+Steenovens	4571–4571	Terneuzen	Zeeland
+Steenpaal	4721–4721	Rucphen	Noord-Brabant
+2995	Steensel	5524–5524	Eersel	Noord-Brabant
+Stegen	5721–5721	Asten	Noord-Brabant
+1913	Stein	6171–6171	Stein	Limburg
+Stenenheul	4287–4287	Altena	Noord-Brabant
+1316	Sterksel	6029–6029	Heeze-Leende	Noord-Brabant
+Steurgat	4251–4251	Altena	Noord-Brabant
+2084	Stevensbeek	5844–5844	Sint Anthonis	Noord-Brabant
+1922	Stevensweert	6107–6107	Maasgouw	Limburg
+Stevert	5524–5524	Eersel	Noord-Brabant
+1475	Steyl	5935–5935	Venlo	Limburg
+Stipdonk	5715–5715	Someren	Noord-Brabant
+Stiphout	5708–5708	Helmond	Noord-Brabant
+Stokhem	6321–6321	Gulpen-Wittem	Limburg
+Stokkelen	5521–5521	Eersel	Noord-Brabant
+Stokske	5066–5066	Oisterwijk	Noord-Brabant
+Stokt	5872–5872	Horst aan de Maas	Limburg
+Stommeveld	6243–6243	Meerssen	Limburg
+Stoof	4751–4751	Halderberge	Noord-Brabant
+Stoppeldijkveer	4543–4543	Hulst	Zeeland
+Stox	5981–5981	Peel en Maas	Limburg
+Straat	6044–6044	Roermond	Limburg
+Strabrecht	5591–5591	Heeze-Leende	Noord-Brabant
+1975	Stramproy	6039–6039	Weert	Limburg
+Straten	5688–5688	Oirschot	Noord-Brabant
+Strateris	6031–6031	Nederweert	Limburg
+Strepen	5406–5406	Uden	Noord-Brabant
+3435	Strijbeek	4856–4856	Alphen-Chaam	Noord-Brabant
+Strijenham	4693–4693	Tholen	Zeeland
+Strijp	5735–5735	Laarbeek	Noord-Brabant
+Strikberg	4847–4847	Breda	Noord-Brabant
+Stroodorp	4493–4493	Noord-Beveland	Zeeland
+Stroodorpe	4541–4541	Terneuzen	Zeeland
+Strooiendorp	4765–4765	Moerdijk	Noord-Brabant
+Strooienstad	4589–4589	Hulst	Zeeland
+Stroopuit	4508–4508	Sluis	Zeeland
+Strubben	6088–6088	Leudal	Limburg
+Strucht	6305–6305	Valkenburg aan de Geul	Limburg
+Stuivezand	4921–4921	Drimmelen	Noord-Brabant
+Stuivezand	4882–4882	Zundert	Noord-Brabant
+2045	Susteren	6114–6114	Echt-Susteren	Limburg
+2283	Swalmen	6071–6071	Roermond	Limburg
+Swartbroek	6005–6005	Weert	Limburg
+2104	Sweikhuizen	6174–6174	Beekdaelen	Limburg
+Swier	6363–6363	Beekdaelen	Limburg
+1859	Swolgen	5866–5866	Horst aan de Maas	Limburg
+Tasdijk	4585–4585	Hulst	Zeeland
+3472	Teeffelen	5395–5395	Oss	Noord-Brabant
+1474	Tegelen	5931–5932	Venlo	Limburg
+Ten Vorsel	5531–5531	Bladel	Noord-Brabant
+Ter Aalst	4911–4911	Oosterhout	Noord-Brabant
+Terblijt (?)	6325–6325	Valkenburg aan de Geul	Limburg
+Tereyken	5425–5425	Gemert-Bakel	Noord-Brabant
+Terhagen	6181–6181	Stein	Limburg
+2578	Terheijden	4844–4844	Drimmelen	Noord-Brabant
+Terhofstede	4525–4525	Sluis	Zeeland
+3096	Terhole	4583–4583	Hulst	Zeeland
+Terhorst	6262–6262	Eijsden-Margraten	Limburg
+Terlinden	6255–6255	Eijsden-Margraten	Limburg
+Termaar	6269–6269	Eijsden-Margraten	Limburg
+Termaar	6311–6311	Voerendaal	Limburg
+Termoors	6311–6311	Voerendaal	Limburg
+1137	Terneuzen	4531–4538	Terneuzen	Zeeland
+Terover	5131–5131	Alphen-Chaam	Noord-Brabant
+Terpoorten	6285–6285	Gulpen-Wittem	Limburg
+Terstraten	6361–6361	Beekdaelen	Limburg
+Tervaten	4481–4481	Goes	Zeeland
+Tervoorst	6361–6361	Beekdaelen	Limburg
+Tervoort	4854–4854	Breda	Noord-Brabant
+Terziet	6285–6285	Gulpen-Wittem	Limburg
+3623	Teteringen	4847–4847	Breda	Noord-Brabant
+Theetuin	5688–5688	Oirschot	Noord-Brabant
+2071	Tholen	4691–4691	Tholen	Zeeland
+1916	Thorn	6017–6017	Maasgouw	Limburg
+Thull	6365–6365	Beekdaelen	Limburg
+Thuserhof	6044–6044	Roermond	Limburg
+Tielse Hoeve	5271–5271	Sint-Michielsgestel	Noord-Brabant
+1860	Tienray	5865–5865	Horst aan de Maas	Limburg
+Tiggelt	4891–4891	Zundert	Noord-Brabant
+Tiggeltscheberg	4891–4891	Zundert	Noord-Brabant
+1043	Tilburg	5001–5049	Tilburg	Noord-Brabant
+Timmereind	5581–5581	Waalre	Noord-Brabant
+Tommel	5111–5111	Baarle-Nassau	Noord-Brabant
+Tongeren	5282–5282	Boxtel	Noord-Brabant
+Tongerlo	5975–5975	Horst aan de Maas	Limburg
+Tongerlo	5993–5993	Peel en Maas	Limburg
+Tonnekreek	4791–4791	Moerdijk	Noord-Brabant
+Toom	6021–6021	Cranendonck	Noord-Brabant
+Toterfout	5507–5507	Veldhoven	Noord-Brabant
+Toven	5447–5447	Boxmeer	Noord-Brabant
+Tragel	4507–4507	Sluis	Zeeland
+Tregelaar	5688–5688	Oirschot	Noord-Brabant
+Trent	5411–5411	Landerd	Noord-Brabant
+Trimpert	5731–5731	Geldrop-Mierlo	Noord-Brabant
+Trintelen	6287–6287	Gulpen-Wittem	Limburg
+Tuindorp	5856–5856	Bergen	Limburg
+Tungelroy	6005–6005	Weert	Limburg
+Turkeye (?)	4508–4508	Sluis	Zeeland
+Tusschen de Bruggen	6063–6063	Roerdalen	Limburg
+Tuuthees	5821–5827	Boxmeer	Noord-Brabant
+Ubach over Worms	6374–6374	Landgraaf	Limburg
+Ubachsberg	6367–6367	Voerendaal	Limburg
+Ubroek	5928–5928	Venlo	Limburg
+1847	Uden	5401–5406	Uden	Noord-Brabant
+1045	Udenhout	5071–5071	Tilburg	Noord-Brabant
+Uffelsen	6012–6012	Leudal	Limburg
+3304	Uitwijk	4288–4288	Altena	Noord-Brabant
+1465	Ulestraten	6235–6235	Meerssen	Limburg
+Ulfterhoek	5975–5975	Horst aan de Maas	Limburg
+2884	Ulicoten	5113–5113	Baarle-Nassau	Noord-Brabant
+Ullingen	5846–5846	Sint Anthonis	Noord-Brabant
+Ulvend	6255–6255	Eijsden-Margraten	Limburg
+1704	Ulvenhout	4851–4851	Breda	Noord-Brabant
+3436	Ulvenhout AC	4858–4858	Alphen-Chaam	Noord-Brabant
+Uppel	4286–4286	Altena	Noord-Brabant
+Urkhoven	5641–5641	Eindhoven	Noord-Brabant
+1915	Urmond	6129–6129	Stein	Limburg
+1429	Vaals	6291–6291	Vaals	Limburg
+Vaareind	4839–4839	Breda	Noord-Brabant
+Vaarle	5674–5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Vaars(ch)e Hoef (?)	5715–5715	Someren	Noord-Brabant
+Vaart	5106–5106	Dongen	Noord-Brabant
+Vaartwijk	4571–4571	Terneuzen	Zeeland
+Vaesrade	6361–6361	Beekdaelen	Limburg
+(De) Val (?)	4543–4543	Terneuzen	Zeeland
+Valeiskreek	4529–4529	Sluis	Zeeland
+1718	Valkenburg	6301–6301	Valkenburg aan de Geul	Limburg
+1100	Valkenswaard	5551–5555	Valkenswaard	Noord-Brabant
+Vebenabos	4371–4371	Veere	Zeeland
+1956	Veen	4264–4264	Altena	Noord-Brabant
+2783	Veere	4351–4351	Veere	Zeeland
+2827	Veghel	5461–5467	Meierijstad	Noord-Brabant
+Veldbraak	5111–5111	Baarle-Nassau	Noord-Brabant
+3142	Velden	5941–5941	Venlo	Limburg
+1384	Veldhoven	5501–5509	Veldhoven	Noord-Brabant
+Veld-Oostenrijk	5961–5961	Horst aan de Maas	Limburg
+Veldschuur	6171–6171	Stein	Limburg
+Veldzicht	4515–4515	Sluis	Zeeland
+Veldzicht	4507–4507	Sluis	Zeeland
+3198	Velp	5363–5363	Grave	Noord-Brabant
+'t Ven (?)	5461–5461	Meierijstad	Noord-Brabant
+Ven	5761–5761	Gemert-Bakel	Noord-Brabant
+Ven	5591–5591	Heeze-Leende	Noord-Brabant
+Venbergen	5556–5556	Valkenswaard	Noord-Brabant
+Veneind	5512–5512	Eersel	Noord-Brabant
+3139	Venhorst	5428–5428	Boekel	Noord-Brabant
+1473	Venlo	5901–5928	Venlo	Limburg
+Venne	6086–6086	Leudal	Limburg
+2335	Venray	5801–5804	Venray	Limburg
+Venweg	5131–5131	Alphen-Chaam	Noord-Brabant
+2481	Ven-Zelderheide	6599–6599	Gennep	Limburg
+Vergelt	5991–5991	Peel en Maas	Limburg
+Verhoven	5126–5126	Gilze en Rijen	Noord-Brabant
+Verloren Hoek	4841–4841	Breda	Noord-Brabant
+Verlorenhoek	5446–5446	Sint Anthonis	Noord-Brabant
+Vernhout	5492–5492	Meierijstad	Noord-Brabant
+2996	Vessem	5512–5512	Eersel	Noord-Brabant
+Vestjenshoek	6095–6095	Leudal	Limburg
+Vetterik	4661–4661	Bergen op Zoom	Noord-Brabant
+2336	Veulen	5814–5814	Venray	Limburg
+Vianen	5434–5434	Cuijk	Noord-Brabant
+1455	“Vianen NB”	5434–5434	Cuijk	Noord-Brabant
+Viel	6456–6456	Beekdaelen	Limburg
+Vierbannen	4273–4273	Altena	Noord-Brabant
+1223	Vierlingsbeek	5821–5821	Boxmeer	Noord-Brabant
+Vieruitersten	5768–5768	Peel en Maas	Limburg
+Vijcie	4254–4254	Altena	Noord-Brabant
+Vijfhoek	4561–4561	Hulst	Zeeland
+Vijfhoek	4725–4726	Roosendaal	Noord-Brabant
+Vijfhuizen	5133–5133	Goirle	Noord-Brabant
+Vijfhuizen	4909–4909	Oosterhout	Noord-Brabant
+Vijfhuizen	5011–5011	Tilburg	Noord-Brabant
+1431	Vijlen	6294–6294	Vaals	Limburg
+Vilgert	5941–5941	Venlo	Limburg
+Vilt	6325–6325	Valkenburg aan de Geul	Limburg
+Vink	6363–6363	Beekdaelen	Limburg
+3612	Vinkel	5381–5383	's-Hertogenbosch	Noord-Brabant
+3063	Vinkel	5384–5384	Bernheze	Noord-Brabant
+Vinkenberg	5066–5066	Oisterwijk	Noord-Brabant
+Vinkenbroek	4703–4703	Roosendaal	Noord-Brabant
+Vinkepas	5975–5975	Horst aan de Maas	Limburg
+Visberg	4756–4756	Steenbergen	Noord-Brabant
+Visdonk	4707–4707	Roosendaal	Noord-Brabant
+Visser(s)weert	6116–6116	Echt-Susteren	Limburg
+Vlaas	6086–6086	Leudal	Limburg
+Vlagberg	5845–5845	Sint Anthonis	Noord-Brabant
+Vlas	5712–5712	Someren	Noord-Brabant
+Vleet	4725–4725	Roosendaal	Noord-Brabant
+Vlengendaal	6351–6351	Simpelveld	Limburg
+(De ?) Vleut	5681–5681	Best	Noord-Brabant
+Vliegert	5985–5985	Peel en Maas	Limburg
+1775	Vlierden	5756–5756	Deurne	Noord-Brabant
+3503	Vlijmen	5251–5252	Heusden	Noord-Brabant
+1078	Vlissingen	4381–4387	Vlissingen	Zeeland
+2595	Vlodrop	6063–6063	Roerdalen	Limburg
+Vloeieind	5756–5756	Deurne	Noord-Brabant
+Vloeieind	5095–5095	Reusel-De Mierden	Noord-Brabant
+Vloet	5408–5408	Uden	Noord-Brabant
+Vlootkant	6039–6039	Weert	Limburg
+Voederheil	5411–5411	Landerd	Noord-Brabant
+1855	Voerendaal	6367–6367	Voerendaal	Limburg
+Vogelfort	4585–4585	Hulst	Zeeland
+3095	Vogelwaarde	4581–4581	Hulst	Zeeland
+Völckerdorp	4411–4411	Reimerswaal	Zeeland
+1848	Volkel	5408–5408	Uden	Noord-Brabant
+Voordeldonk	5721–5721	Asten	Noord-Brabant
+Voordijk	5251–5251	Heusden	Noord-Brabant
+Vooreind	5096–5096	Reusel-De Mierden	Noord-Brabant
+Voorst	6061–6061	Roerdalen	Limburg
+Voorste Beersdonk	5756–5756	Deurne	Noord-Brabant
+Voorste Brug	5556–5556	Valkenswaard	Noord-Brabant
+Voorste Diesdonk	5724–5724	Asten	Noord-Brabant
+Voorste Heikant	5541–5541	Reusel-De Mierden	Noord-Brabant
+Voorsterveld	6061–6061	Roerdalen	Limburg
+Voort	5561–5561	Bergeijk	Noord-Brabant
+Voort	5752–5752	Deurne	Noord-Brabant
+Voorteind	5091–5091	Oirschot	Noord-Brabant
+Voortje	5731–5731	Geldrop-Mierlo	Noord-Brabant
+3064	Vorstenbosch	5476–5476	Bernheze	Noord-Brabant
+1224	Vortum-Mullem	5827–5827	Boxmeer	Noord-Brabant
+Vosberg	5891–5981	Peel en Maas	Limburg
+Voske	5111–5111	Baarle-Nassau	Noord-Brabant
+Vosselen	5721–5721	Asten	Noord-Brabant
+Vossenberg	5424–5424	Gemert-Bakel	Noord-Brabant
+Vossenberg	5126–5126	Gilze en Rijen	Noord-Brabant
+Voulwames	6241–6241	Meerssen	Limburg
+Vrachelen	4911–4911	Oosterhout	Noord-Brabant
+2337	Vredepeel	5816–5816	Venray	Limburg
+Vreewijk	5753–5753	Deurne	Noord-Brabant
+Vrij	5853–5853	Bergen	Limburg
+Vrijhoeve	5161–5161	Waalwijk	Noord-Brabant
+Vrilkhoven	5298–5298	Boxtel	Noord-Brabant
+Vroelen	6255–6255	Eijsden-Margraten	Limburg
+Vroenhout	4703–4703	Roosendaal	Noord-Brabant
+2784	Vrouwenpolder	4354–4354	Veere	Zeeland
+Vuchtschoot	4838–4838	Breda	Noord-Brabant
+1619	Vught	5261–5264	Vught	Noord-Brabant
+Vuilpan	4529–4529	Sluis	Zeeland
+Waalbroek	6369–6369	Simpelveld	Limburg
+1006	Waalre	5581–5583	Waalre	Noord-Brabant
+2597	Waalwijk	5141–5146	Waalwijk	Noord-Brabant
+Waanskinderen	4481–4481	Goes	Zeeland
+3466	Waarde	4414–4414	Reimerswaal	Zeeland
+3305	Waardhuizen	4287–4287	Altena	Noord-Brabant
+Waatskamp	6035–6035	Nederweert	Limburg
+2579	Wagenberg	4845–4845	Drimmelen	Noord-Brabant
+Wahlwiller	6286–6286	Gulpen-Wittem	Limburg
+Waije	6086–6086	Leudal	Limburg
+1719	Walem	6341–6342	Valkenburg aan de Geul	Limburg
+Walik	5561–5561	Bergeijk	Noord-Brabant
+Walsert	5446–5446	Sint Anthonis	Noord-Brabant
+3101	Walsoorden	4588–4588	Hulst	Zeeland
+Wamberg	5258–5258	Sint-Michielsgestel	Noord-Brabant
+2085	Wanroij	5446–5446	Sint Anthonis	Noord-Brabant
+1861	Wanssum	5861–5861	Venray	Limburg
+2598	Waspik	5165–5165	Waalwijk	Noord-Brabant
+Waspik-Zuid	5161–5161	Waalwijk	Noord-Brabant
+Waterkant	4664–4664	Bergen op Zoom	Noord-Brabant
+2963	Waterlandkerkje	4508–4508	Sluis	Zeeland
+Waterop	6271–6271	Gulpen-Wittem	Limburg
+Waterstraat	5087–5087	Hilvarenbeek	Noord-Brabant
+Waterval	6235–6235	Meerssen	Limburg
+Weebosch	5571–5571	Bergeijk	Noord-Brabant
+Weeg	5406–5406	Uden	Noord-Brabant
+Weerd	6067–6067	Maasgouw	Limburg
+Weert	6231–6231	Meerssen	Limburg
+1974	Weert	6001–6006	Weert	Limburg
+Weilenseind	5126–5126	Gilze en Rijen	Noord-Brabant
+Weimeren	4884–4884	Zundert	Noord-Brabant
+Welberg	4651–4651	Steenbergen	Noord-Brabant
+Well	5855–5855	Bergen	Limburg
+1124	“Well L”	5855–5855	Bergen	Limburg
+1125	Wellerlooi	5856–5856	Bergen	Limburg
+1470	Wemeldinge	4424–4424	Kapelle	Zeeland
+Werendijke	4374–4374	Veere	Zeeland
+2218	Werkendam	4251–4251	Altena	Noord-Brabant
+3491	Wernhout	4884–4884	Zundert	Noord-Brabant
+Wernhoutsburg	4884–4884	Zundert	Noord-Brabant
+Werveld	5441–5441	Boxmeer	Noord-Brabant
+Wesch	6255–6255	Eijsden-Margraten	Limburg
+1919	Wessem	6019–6019	Maasgouw	Limburg
+Westbroek	6243–6243	Meerssen	Limburg
+1138	Westdorpe	4554–4554	Terneuzen	Zeeland
+Westelbeers	5091–5091	Oirschot	Noord-Brabant
+Westenschouwen	4328–4328	Schouwen-Duiveland	Zeeland
+2086	Westerbeek	5843–5843	Sint Anthonis	Noord-Brabant
+Westerwijk	5081–5081	Hilvarenbeek	Noord-Brabant
+2785	Westkapelle	4361–4361	Veere	Zeeland
+Westkerke	4694–4694	Tholen	Zeeland
+Westrik	4841–4841	Breda	Noord-Brabant
+West-Souburg	4385–4385	Vlissingen	Zeeland
+Weustenrade	6343–6343	Voerendaal	Limburg
+Weverslo	5815–5815	Venray	Limburg
+Wielder	5973–5973	Horst aan de Maas	Limburg
+Wieler	6071–6071	Roermond	Limburg
+1957	Wijk en Aalburg	4261–4261	Altena	Noord-Brabant
+1236	Wijlre	6321–6321	Gulpen-Wittem	Limburg
+2361	Wijnandsrade	6363–6363	Beekdaelen	Limburg
+1979	Wilbertoord	5455–5455	Mill en Sint Hubert	Noord-Brabant
+Wildert	4881–4881	Zundert	Noord-Brabant
+1827	Wilhelminadorp	4475–4475	Goes	Zeeland
+Willebrordushoek	5466–5466	Meierijstad	Noord-Brabant
+1317	Willemstad	4797–4797	Moerdijk	Noord-Brabant
+2820	Windraak	6153–6153	Sittard-Geleen	Limburg
+Winkel	6027–6027	Cranendonck	Noord-Brabant
+Winkel	5071–5071	Tilburg	Noord-Brabant
+Winkelstraat	5715–5715	Someren	Noord-Brabant
+2997	Wintelre	5513–5513	Eersel	Noord-Brabant
+Winthagen	6367–6367	Voerendaal	Limburg
+Wisbroek	6039–6039	Weert	Limburg
+Wissekerke	4472–4472	Goes	Zeeland
+3191	Wissenkerke	4491–4491	Noord-Beveland	Zeeland
+Witdonk	5768–5768	Peel en Maas	Limburg
+Withuis	6245–6245	Eijsden-Margraten	Limburg
+Witrijt	5571–5571	Bergeijk	Noord-Brabant
+1233	Wittem	6286–6286	Gulpen-Wittem	Limburg
+1004	Woensdrecht	4634–4634	Woensdrecht	Noord-Brabant
+Wolfhaag	6291–6291	Vaals	Limburg
+Wolfhagen	6365–6365	Beekdaelen	Limburg
+Wolfsbosch	5421–5421	Gemert-Bakel	Noord-Brabant
+Wolfshoek	5511–5511	Eersel	Noord-Brabant
+Wolfshoek	5154–5154	Heusden	Noord-Brabant
+Wolfshuis	6269–6269	Eijsden-Margraten	Limburg
+Wolfswinkel	5691–5691	Son en Breugel	Noord-Brabant
+1828	Wolphaartsdijk	4471–4471	Goes	Zeeland
+Woud	5275–5275	Sint-Michielsgestel	Noord-Brabant
+3306	Woudrichem	4285–4285	Altena	Noord-Brabant
+1589	Wouw	4724–4724	Roosendaal	Noord-Brabant
+Wouwse Hil	4725–4725	Roosendaal	Noord-Brabant
+1592	Wouwse Plantage	4725–4725	Roosendaal	Noord-Brabant
+Wulpenbek	4542–4542	Terneuzen	Zeeland
+3467	Yerseke	4401–4401	Reimerswaal	Zeeland
+Yersekendam	4401–4401	Reimerswaal	Zeeland
+2338	Ysselsteyn	5813–5813	Venray	Limburg
+1139	Zaamslag	4543–4543	Terneuzen	Zeeland
+Zaamslagveer	4543–4543	Terneuzen	Zeeland
+Zaarvlaas	5761–5761	Gemert-Bakel	Noord-Brabant
+Zand	5761–5761	Gemert-Bakel	Noord-Brabant
+Zandberg	4569–4569	Hulst	Zeeland
+Zandberg	5988–5988	Peel en Maas	Limburg
+Zandberg	5993–5993	Peel en Maas	Limburg
+Zandberg	6351–6351	Simpelveld	Limburg
+Zanddijk	4351–4351	Veere	Zeeland
+Zandeind	5133–5133	Goirle	Noord-Brabant
+Zandfort	4631–4631	Woensdrecht	Noord-Brabant
+Zandhoek	5427–5427	Boekel	Noord-Brabant
+Zandhoek	5808–5808	Venray	Limburg
+Zandkant	5074–5074	Tilburg	Noord-Brabant
+Zandkant	5845–5845	Sint Anthonis	Noord-Brabant
+Zandoerle	5507–5507	Veldhoven	Noord-Brabant
+Zandplaat	4542–4542	Terneuzen	Zeeland
+Zandstraat	4551–4551	Terneuzen	Zeeland
+Zandwijk	4286–4286	Altena	Noord-Brabant
+Zeedorp	4589–4589	Hulst	Zeeland
+Zeegat	4567–4567	Hulst	Zeeland
+1850	Zeeland	5411–5411	Landerd	Noord-Brabant
+Zeelberg	5871–5871	Horst aan de Maas	Limburg
+Zeelberg	5556–5556	Valkenswaard	Noord-Brabant
+2585	Zegge	4735–4735	Rucphen	Noord-Brabant
+Zelder	6599–6599	Gennep	Limburg
+Zelen	5981–5981	Peel en Maas	Limburg
+Zelt	5066–5066	Oisterwijk	Noord-Brabant
+Zevenbergen	5388–5388	Bernheze	Noord-Brabant
+1323	Zevenbergen	4761–4762	Moerdijk	Noord-Brabant
+2580	Zevenbergschen Hoek	4766–4766	Drimmelen	Noord-Brabant
+1327	Zevenbergschen Hoek	4765–4765	Moerdijk	Noord-Brabant
+Zevenhuis	5411–5411	Landerd	Noord-Brabant
+Zevenhuizen	5595–5595	Heeze-Leende	Noord-Brabant
+Zevenhuizen	4794–4794	Moerdijk	Noord-Brabant
+Zevenhutten	5431–5431	Cuijk	Noord-Brabant
+2689	Zierikzee	4301–4301	Schouwen-Duiveland	Zeeland
+Zijp	5428–5428	Boekel	Noord-Brabant
+Zijtaart	5465–5465	Meierijstad	Noord-Brabant
+Zittard	6077–6077	Roerdalen	Limburg
+Zittard	5505–5505	Veldhoven	Noord-Brabant
+Zoggel	5384–5384	Bernheze	Noord-Brabant
+Zomerven	5712–5712	Someren	Noord-Brabant
+Zondveld	5465–5465	Meierijstad	Noord-Brabant
+2690	Zonnemaire	4316–4316	Schouwen-Duiveland	Zeeland
+Zoomvliet	4725–4725	Roosendaal	Noord-Brabant
+2786	Zoutelande	4374–4374	Veere	Zeeland
+Zuid-Carolina	5433–5433	Mill en Sint Hubert	Noord-Brabant
+1140	Zuiddorpe	4574–4574	Terneuzen	Zeeland
+Zuidgeest	4625–4625	Bergen op Zoom	Noord-Brabant
+2972	Zuidzande	4505–4505	Sluis	Zeeland
+3489	Zundert	4881–4881	Zundert	Noord-Brabant
+Zwaanenheike	5973–5973	Horst aan de Maas	Limburg
+Zwarte Ruiter	4651–4651	Steenbergen	Noord-Brabant
+Zwartenberg	4871–4871	Etten-Leur	Noord-Brabant
+Zwijnsbergen	5491–5491	Meierijstad	Noord-Brabant
+Zwingelspaan	4796–4796	Moerdijk	Noord-Brabant
