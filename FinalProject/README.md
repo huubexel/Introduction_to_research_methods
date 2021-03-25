@@ -43,3 +43,5 @@ I realised that the words "alles behalve" en "niet" reverse the good or bad word
 All the words that have the same effect as "alles" and "niet" are : "alles behalve" "verre van" "geen" "niet", what these words do is they reverse the positive words in negative words and negative words in positive words.
 
 All zipcodes in the Netherlands have 4 numbers.
+
+Wat mogelijk een goed idee is voor de toekomst, voor het verdere onderzoek is om te kijken naar de provincies invidueel dan alleen maar het verschil tussen noord en zuid, je zou dan in principe elke provincie apart kunnen doen wat nog wat accurater is dan alleen het verschil tussen noord en zuid.
