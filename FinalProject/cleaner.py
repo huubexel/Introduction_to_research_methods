@@ -1,7 +1,8 @@
-
 # This line makes argv possible.
 from sys import *
 
+# This line makes it possible to use regex
+import re
 
 def get_input():
     # gets the filename of the textfile with all the places in them.
@@ -18,14 +19,14 @@ def write_to_North(North):
     # this function appends all northern places in the (just created) all_north_places textfile
     n = open("all_north_places.txt", "a")
     for place in North:
-        n.write(place)
+        n.write(place + "\n")
     n.close()
 
 def write_to_South(South):
     # this function appends all southern places in the (just created) all_south_places textfile
     s = open("all_south_places.txt", "a")
     for place in South:
-        s.write(place)
+        s.write(place + "\n")
     s.close()
     
 def devide_North_South(textfile):
@@ -67,12 +68,41 @@ def devide_North_South(textfile):
     # Returnes the lists with all the Northern and all the Southern places in the Netherlands.        
     return(North, South)
 
+def clean_line(North_or_South):
+    revisioned_North_or_South = []
+    for place in North_or_South:
+        if re.match('^[0-9]*$', place[0]):
+            revisioned_North_or_South.append(place[5:])
+    return revisioned_North_or_South
+                
+                
+def only_place_name(n_or_s):
+    only_place_list = []
+    for place in n_or_s:
+        if '/' in place:
+            only_place = place.split('/')[0]
+            only_place_list.append(only_place)
+        else:
+            only_place = place.split('\t')[0]
+            only_place_list.append(only_place)
+    
+    return only_place_list        
+                   
 
 def main():
     textfile = get_input()
     North, South = devide_North_South(textfile)
-    write_to_North(North)
-    write_to_South(South)
+    
+    cleaned_North = clean_line(North)
+    cleaned_South = clean_line(South)
+
+    only_places_North = only_place_name(cleaned_North)
+    only_places_South = only_place_name(cleaned_South)
+    
+        
+    write_to_North(only_places_North)
+    write_to_South(only_places_South)
+
     
 if __name__ == "__main__":
     main()

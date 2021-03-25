@@ -1,2116 +1,844 @@
-1779	1e Exloërmond	9573–9573	Borger-Odoorn	Drenthe
-1780	2e Exloërmond	9571–9571	Borger-Odoorn	Drenthe
-1781	2e Valthermond	7877–7877	Borger-Odoorn	Drenthe
-2164	't Haantje	7847–7847	Coevorden	Drenthe
-'t Haantje	9057–9057	Leeuwarden	Fryslân
-'t Heechhout	8842–8842	Waadhoeke	Fryslân
-'t Kret	9356–9356	Westerkwartier	Groningen
-'t Lage van de Weg/weg	9981–9981	Het Hogeland	Groningen
-'t Noorden	7912–7912	Hoogeveen	Drenthe
-'t Schoor /
-Skoar	9141–9145	Noardeast-Fryslân	Fryslân
-'t Stort	9965–9965	Het Hogeland	Groningen
-Ven /
-Het /
-1895	't Waar	9942–9942	Oldambt	Groningen
-'t Wytfean /
-Witveen	9261–9261	Tytsjerksteradiel	Fryslân
-'t Zandstervoorwerk	9987–9987	Eemsdelta	Groningen
-3458	't Zandt	9915–9915	Eemsdelta	Groningen
-2145	Aalden	7854–7854	Coevorden	Drenthe
-Aalsum	9883–9883	Westerkwartier	Groningen
-3387	Aalsum /
-Ealsum	9121–9121	Noardeast-Fryslân	Fryslân
-Aan de Maas /
-2400	Abbega /
-Abbegea	8617–8617	Súdwest-Fryslân	Fryslân
-Abbegaasterketting /
-Abbegeasterkeatting	8617–8617	Súdwest-Fryslân	Fryslân
-Abbengawier /
-Abbenwier	9011–9011	Leeuwarden	Fryslân
-Abbeweer	9954–9954	Het Hogeland	Groningen
-Abbewier /
-Jewier	9133–9133	Noardeast-Fryslân	Fryslân
-1364	Achlum	8806–8806	Waadhoeke	Fryslân
-Achterdiep	9611–9611	Midden-Groningen	Groningen
-Achterste Erm	7843–7843	Coevorden	Drenthe
-Achter-Thesinge	9797–9797	Groningen	Groningen
-2464	Adorp	9774–9774	Het Hogeland	Groningen
-2114	Aduard	9831–9831	Westerkwartier	Groningen
-Aduarderzijl	9892–9892	Westerkwartier	Groningen
-2524	Aegum /
-Eagum	9006–9006	Leeuwarden	Fryslân
-Aekinga	8426–8426	Ooststellingwerf	Fryslân
-Agodorp	9561–9561	Westerwolde	Groningen
-2525	Akkrum	8491–8491	Heerenveen	Fryslân
-2484	Akmarijp /
-Eagmaryp	8541–8541	De Fryske Marren	Fryslân
-3224	Alde Leie /
-Oude Leije	9071–9072	Leeuwarden	Fryslân
-2532	Aldeboarn	8495–8495	Heerenveen	Fryslân
-Aldeboarn	8495–8495	Heerenveen	Fryslân
-2441	Aldtsjerk /
-Oudkerk	9064–9064	Tytsjerksteradiel	Fryslân
-Aldwâldmersyl	9294–9294	Noardeast-Fryslân	Fryslân
-Alinghuizen	9951–9951	Het Hogeland	Groningen
-Allersma	9891–9891	Westerkwartier	Groningen
-2301	Allingawier	8758–8758	Súdwest-Fryslân	Fryslân
-Altena	9321–9321	Noordenveld	Drenthe
-3160	Alteveer	7927–7927	De Wolden	Drenthe
-Alteveer	7915–7915	Hoogeveen	Drenthe
-1810	“Alteveer gem Hoogeveen”	7915–7915	Hoogeveen	Drenthe
-1633	Alteveer	9306–9306	Noordenveld	Drenthe
-3079	Alteveer	9661–9661	Stadskanaal	Groningen
-Alting	9411–9411	Midden-Drenthe	Drenthe
-1147	Amen	9446–9446	Aa en Hunze	Drenthe
-Amerika	9342–9342	Noordenveld	Drenthe
-Amsterdamscheveld	7887–7887	Emmen	Drenthe
-Amsweer	9937–9937	Eemsdelta	Groningen
-1148	Anderen	9465–9465	Aa en Hunze	Drenthe
-Anholt	7935–7935	De Wolden	Drenthe
-3388	Anjum /
-Eanjum	9133–9133	Noardeast-Fryslân	Fryslân
-1149	Anloo	9467–9467	Aa en Hunze	Drenthe
-Annabuorren	8632–8632	Súdwest-Fryslân	Fryslân
-1150	Annen	9468–9468	Aa en Hunze	Drenthe
-1151	Annerveenschekanaal	9654–9654	Aa en Hunze	Drenthe
-Anreep	9404–9404	Assen	Drenthe
-3161	Ansen	7964–7964	De Wolden	Drenthe
-3104	Ansen	7991–7991	Westerveld	Drenthe
-1753	Appelscha /
-Appelskea	8426–8426	Ooststellingwerf	Fryslân
-3386	Appingedam	9901–9903	Eemsdelta	Groningen
-Arkens	8802–8802	Waadhoeke	Fryslân
-Armweide	7963–7963	De Wolden	Drenthe
-2302	Arum	8822–8822	Súdwest-Fryslân	Fryslân
-Arwerd	9904–9904	Eemsdelta	Groningen
-2391	Assen	9401–9408	Assen	Drenthe
-Atzeburen	8762–8762	Súdwest-Fryslân	Fryslân
-3307	Augsbuurt	9292–9292	Noardeast-Fryslân	Fryslân
-Augsbuurt-Lutjewoude /
-Lytsewâld	9292–9292	Noardeast-Fryslân	Fryslân
-3173	Augustinusga /
-Stynsgea	9284–9284	Achtkarspelen	Fryslân
-2621	Baaiduinen /
-Baaidúnen	8884–8884	Terschelling	Fryslân
-Baaium /
-Baijum	8841–8841	Waadhoeke	Fryslân
-Baamsum	9947–9947	Eemsdelta	Groningen
-2009	Baard /
-Baerd	8834–8834	Leeuwarden	Fryslân
-Baarderburen /
-Baardbuorren	8822–8822	Súdwest-Fryslân	Fryslân
-Baburen	8765–8765	Súdwest-Fryslân	Fryslân
-1420	Bad Nieuweschans	9693–9693	Oldambt	Groningen
-2465	Baflo	9953–9953	Het Hogeland	Groningen
-1673	Bakhuizen /
-Bakhúzen	8574–8574	De Fryske Marren	Fryslân
-Bakkerom	9362–9362	Westerkwartier	Groningen
-3342	Bakkeveen /
-Bakkefean	9243–9243	Opsterland	Fryslân
-3005	Balinge	9437–9437	Midden-Drenthe	Drenthe
-1674	Balk	8561–8561	De Fryske Marren	Fryslân
-Ballast	7741–7741	Coevorden	Drenthe
-Ballingbuur /
-Ballingbuer	8511–8511	De Fryske Marren	Fryslân
-1152	Balloo	9458–9458	Aa en Hunze	Drenthe
-2587	Ballum	9162–9162	Ameland	Fryslân
-Balmahuizen	9884–9884	Westerkwartier	Groningen
-2239	Bantega /
-Bantegea	8538–8538	De Fryske Marren	Fryslân
-Bareveld	9512–9512	Aa en Hunze	Drenthe
-Bargebek /
-De Bargebek	8563–8563	De Fryske Marren	Fryslân
-1987	Barger-Compascuum	7884–7884	Emmen	Drenthe
-Barger-Erfscheidenveen	7814–7833	Emmen	Drenthe
-Barger-Oosterveen	7891–7891	Emmen	Drenthe
-Barlage	9591–9591	Stadskanaal	Groningen
-Barnflair	9561–9561	Westerwolde	Groningen
-Bartlehiem	9178–9074	Noardeast-Fryslân	Fryslân
-Bartlehiem	9051–9051	Leeuwarden	Fryslân
-Bartlehiem	9091–9091	Tytsjerksteradiel	Fryslân
-Bartlehiem	9064–9064	Tytsjerksteradiel	Fryslân
-Bazuin	7921–7921	De Wolden	Drenthe
-2010	Bears /
-Beers	9025–9025	Leeuwarden	Fryslân
-2829	Bedum	9781–9781	Het Hogeland	Groningen
-Beersterhoogen	9687–9687	Oldambt	Groningen
-3508	Beerta	9686–9686	Oldambt	Groningen
-3343	Beetsterzwaag /
-Beetstersweach	9244–9244	Opsterland	Fryslân
-3006	Beilen	9411–9413	Midden-Drenthe	Drenthe
-Beilervaart	9411–9411	Midden-Drenthe	Drenthe
-2231	Bellingwolde	9695–9695	Westerwolde	Groningen
-Benderse	7963–7963	De Wolden	Drenthe
-Beneden Veensloot	9651–9651	Midden-Groningen	Groningen
-2146	Benneveld	7856–7856	Coevorden	Drenthe
-Berghuizen	7961–7961	De Wolden	Drenthe
-2724	Berltsum /
-Berlikum	9041–9041	Waadhoeke	Fryslân
-Bernsterburen	8644–8644	Súdwest-Fryslân	Fryslân
-Beswerd	9891–9891	Westerkwartier	Groningen
-Bethlehem	9998–9998	Het Hogeland	Groningen
-Betterwird /
-Betterwurd	9101–9101	Noardeast-Fryslân	Fryslân
-3232	Bierum	9906–9906	Eemsdelta	Groningen
-Biessum	9931–9931	Eemsdelta	Groningen
-Bikkershorn	9678–9678	Oldambt	Groningen
-Birstum /
-Burstum	8494–8494	Heerenveen	Fryslân
-2722	Bitgum /
-Beetgum	9044–9044	Waadhoeke	Fryslân
-2723	Bitgummole /
-Beetgumermolen	9045–9045	Waadhoeke	Fryslân
-Blauw	9354–9354	Westerkwartier	Groningen
-3509	Blauwestad	9686–9686	Oldambt	Groningen
-2401	Blauwhuis /
-Blauhûs	8615–8615	Súdwest-Fryslân	Fryslân
-Blauwverlaat /
-Blauforlaet	9284–9284	Achtkarspelen	Fryslân
-Blekslage	9591–9591	Stadskanaal	Groningen
-1720	Blesdijke /
-Blesdike	8398–8398	Weststellingwerf	Fryslân
-2725	Blessum	9032–9032	Waadhoeke	Fryslân
-Blijdenstein	7961–7961	De Wolden	Drenthe
-3199	Blije /
-Blija	9171–9171	Noardeast-Fryslân	Fryslân
-2232	Blijham	9697–9697	Westerwolde	Groningen
-Bloemberg	7924–7924	De Wolden	Drenthe
-Blokum	9623–9623	Midden-Groningen	Groningen
-Boatebuorren /
-Boteburen	9172–9172	Noardeast-Fryslân	Fryslân
-2011	Boazum /
-Bozum	8635–8635	Súdwest-Fryslân	Fryslân
-Boekelte	8392–8392	Weststellingwerf	Fryslân
-Boekhorst	8431–8431	Ooststellingwerf	Fryslân
-3174	Boelenslaan /
-Boelensloane	9233–9233	Achtkarspelen	Fryslân
-1371	Boer	8809–8809	Waadhoeke	Fryslân
-2259	Boerakker	9359–9362	Westerkwartier	Groningen
-Boerelaan	9321–9321	Noordenveld	Drenthe
-Boerenstreek	9354–9354	Westerkwartier	Groningen
-Boermastreek	9574–9574	Borger-Odoorn	Drenthe
-1721	Boijl /
-Boyl	8392–8392	Weststellingwerf	Fryslân
-2726	Boksum	9031–9031	Waadhoeke	Fryslân
-Bollingawier /
-Bollingwier	9137–9137	Noardeast-Fryslân	Fryslân
-Bolshuizen	9892–9892	Westerkwartier	Groningen
-2079	Bolsward /
-Boalsert	8701–8702	Súdwest-Fryslân	Fryslân
-Bonkwert /
-Bonkwerd	8843–8843	Waadhoeke	Fryslân
-Bonnerveen	9511–9511	Aa en Hunze	Drenthe
-2193	Bontebok	8415–8415	Heerenveen	Fryslân
-Booneschans	9693–9693	Oldambt	Groningen
-3275	Boornbergum /
-Boarnburgum	9212–9212	Smallingerland	Fryslân
-2485	Boornzwaag /
-Boarnsweach	8526–8526	De Fryske Marren	Fryslân
-Boornzwaag over de Wielen /
-Boarnsweach Oer de Wielen	8526–8526	De Fryske Marren	Fryslân
-1782	Borger	9531–9531	Borger-Odoorn	Drenthe
-2275	Borgercompagnie	9632–9632	Midden-Groningen	Groningen
-1242	Borgercompagnie	9631–9631	Veendam	Groningen
-Borgertange	9551–9551	Westerwolde	Groningen
-Borgerveld	9551–9551	Westerwolde	Groningen
-3233	Borgsweer	9949–9949	Eemsdelta	Groningen
-Borgweg	9608–9608	Midden-Groningen	Groningen
-3389	Bornwird /
-Boarnwert	9156–9156	Noardeast-Fryslân	Fryslân
-Bornwirdhuizen /
-Boarnwerthuzen	9156–9156	Noardeast-Fryslân	Fryslân
-3105	Boschoord	8387–8387	Westerveld	Drenthe
-Bosje	9511–9511	Aa en Hunze	Drenthe
-Boterveen	7991–7991	Westerveld	Drenthe
-2294	Bourtange	9545–9545	Westerwolde	Groningen
-Bouwerschap	9791–9791	Groningen	Groningen
-Boven Pekela	9663–9663	Pekela	Groningen
-Boven Veensloot	9651–9651	Midden-Groningen	Groningen
-Bovenrijge	9791–9791	Groningen	Groningen
-3007	Bovensmilde	9421–9421	Midden-Drenthe	Drenthe
-Bovenstehuis /
-Bovenstreek	9511–9511	Aa en Hunze	Drenthe
-Bovenstreek	9678–9678	Oldambt	Groningen
-Braamberg	9584–9584	Stadskanaal	Groningen
-3390	Brantgum	9153–9153	Noardeast-Fryslân	Fryslân
-Breede	9989–9989	Het Hogeland	Groningen
-2303	Breezanddijk	8766–8766	Súdwest-Fryslân	Fryslân
-Brillerij	9892–9892	Westerkwartier	Groningen
-2115	Briltil	9805–9805	Westerkwartier	Groningen
-3225	Britsum	9055–9055	Leeuwarden	Fryslân
-2012	Britswert /
-Britswerd	8636–8636	Súdwest-Fryslân	Fryslân
-Broek	9968–9968	Het Hogeland	Groningen
-2486	Broek	8512–8512	De Fryske Marren	Fryslân
-Broek /
-De Broek (Broek-Noord)	8512–8512	De Fryske Marren	Fryslân
-Broekhuizen	7961–7961	De Wolden	Drenthe
-1086	Broekhuizen	7965–7965	Meppel	Drenthe
-3265	Broeksterwâld /
-Broeksterwoude	9108–9108	Dantumadiel	Fryslân
-1783	Bronneger	9527–9527	Borger-Odoorn	Drenthe
-1784	Bronnegerveen	9526–9526	Borger-Odoorn	Drenthe
-Bronsveen	9665–9697	Pekela	Groningen
-Brunsting	9411–9411	Midden-Drenthe	Drenthe
-3008	Bruntinge	9435–9435	Midden-Drenthe	Drenthe
-1785	Buinen	9528–9528	Borger-Odoorn	Drenthe
-1786	Buinerveen	9524–9524	Borger-Odoorn	Drenthe
-Buitenhuizen	7961–7961	De Wolden	Drenthe
-3175	Buitenpost /
-Bûtenpost	9285–9285	Achtkarspelen	Fryslân
-Buitenstverlaat /
-Bûtenstfallaat	9206–9206	Smallingerland	Fryslân
-Bultinge	7935–7935	De Wolden	Drenthe
-2914	Bunne	9496–9496	Tynaarlo	Drenthe
-3200	Burdaard /
-Birdaard	9111–9112	Noardeast-Fryslân	Fryslân
-2589	Buren /
-Bueren	9164–9164	Ameland	Fryslân
-Burgemeester Beinsdorp	9561–9561	Westerwolde	Groningen
-2451	Burgum /
-Bergum	9251–9251	Tytsjerksteradiel	Fryslân
-2304	Burgwerd /
-Burchwert	8742–8742	Súdwest-Fryslân	Fryslân
-3308	Burum	9851–9851	Noardeast-Fryslân	Fryslân
-Busselte	7973–7973	Westerveld	Drenthe
-Buttinga	8431–8431	Ooststellingwerf	Fryslân
-Buweklooster /
-Bouwekleaster	9281–9281	Achtkarspelen	Fryslân
-Ceresdorp	9502–9502	Stadskanaal	Groningen
-2147	Coevorden	7741–7742	Coevorden	Drenthe
-Commissiepolle	8537–8537	De Fryske Marren	Fryslân
-2305	Cornwerd /
-Koarnwert	8753–8753	Súdwest-Fryslân	Fryslân
-Couwelaar /
-2148	Dalen	7751–7751	Coevorden	Drenthe
-Dalerend	7753–7753	Coevorden	Drenthe
-2149	Dalerpeel	7753–7753	Coevorden	Drenthe
-2150	Dalerveen	7755–7755	Coevorden	Drenthe
-Dallingeweer	9947–9947	Eemsdelta	Groningen
-3266	Damwâld /
-Damwoude	9104–9104	Dantumadiel	Fryslân
-3106	Darp	7973–7973	Westerveld	Drenthe
-De Ryp /
-De Rijp	9172–9172	Noardeast-Fryslân	Fryslân
-De Bente	7751–7751	Coevorden	Drenthe
-1722	De Blesse	8397–8397	Weststellingwerf	Fryslân
-De Blijnse	8872–8872	Harlingen	Fryslân
-De Blokken	8749–8749	Súdwest-Fryslân	Fryslân
-De Bruil	9561–9561	Westerwolde	Groningen
-De Bult	9696–9696	Westerwolde	Groningen
-(De) Dingen	9953–9953	Het Hogeland	Groningen
-3267	De Falom /
-De Valom	9109–9109	Dantumadiel	Fryslân
-De Gaasten	9216–9216	Smallingerland	Fryslân
-De Grits	8732–8732	Súdwest-Fryslân	Fryslân
-2924	De Groeve	9473–9473	Tynaarlo	Drenthe
-De Haar	9405–9405	Assen	Drenthe
-De Haar	7755–7755	Coevorden	Drenthe
-De Haar	7936–7936	Hoogeveen	Drenthe
-De Haar	9363–9363	Westerkwartier	Groningen
-(De) Haspel	9354–9354	Westerkwartier	Groningen
-De Hel	8724–8724	Súdwest-Fryslân	Fryslân
-De Hem /
-De Him	9023–9023	Leeuwarden	Fryslân
-De Hilte	9511–9511	Aa en Hunze	Drenthe
-1723	De Hoeve	8394–8394	Weststellingwerf	Fryslân
-De Holm	9356–9356	Westerkwartier	Groningen
-De Horst	9321–9321	Noordenveld	Drenthe
-De Houw	9965–9971	Het Hogeland	Groningen
-De Jammer	9359–9361	Westerkwartier	Groningen
-De Jouwer	9862–9862	Westerkwartier	Groningen
-De Keegen	9852–9852	Noardeast-Fryslân	Fryslân
-2151	De Kiel	7849–7849	Coevorden	Drenthe
-2190	De Knipe	8456–8456	Heerenveen	Fryslân
-De Knolle	8431–8431	Ooststellingwerf	Fryslân
-De Kolk	9852–9853	Noardeast-Fryslân	Fryslân
-De Kooi	9216–9216	Smallingerland	Fryslân
-De Krosselt /
-De Lethe	9695–9695	Westerwolde	Groningen
-Lutjeloo	9697–9697	Westerwolde	Groningen
-De Mars	7751–7751	Coevorden	Drenthe
-De Maten	9561–9561	Westerwolde	Groningen
-De Paauwen	9625–9625	Midden-Groningen	Groningen
-De Poffert	9832–9832	Westerkwartier	Groningen
-De Pol	9321–9321	Noordenveld	Drenthe
-De Polle	9422–9422	Midden-Drenthe	Drenthe
-2915	De Punt	9493–9493	Tynaarlo	Drenthe
-De Rijlst	8521–8521	De Fryske Marren	Fryslân
-De Ruigewaard	9881–9881	Westerkwartier	Groningen
-De Schans	9853–9853	Noardeast-Fryslân	Fryslân
-(De) Schifpot	9893–9893	Westerkwartier	Groningen
-1085	De Schiphorst	7966–7966	Meppel	Drenthe
-De Snipperij	9864–9864	Westerkwartier	Groningen
-De Stapel	7957–7957	De Wolden	Drenthe
-De Streek	9988–9988	Het Hogeland	Groningen
-De Stuw	7921–7921	De Wolden	Drenthe
-3276	De Tike	9219–9219	Smallingerland	Fryslân
-De Tippe	7705–7705	De Wolden	Drenthe
-3277	De Veenhoop /
-De Feanhoop	9215–9215	Smallingerland	Fryslân
-De Voort /
-De Weere /
-3162	de Wijk	7957–7957	De Wolden	Drenthe
-3278	De Wilgen /
-De Wylgen	9213–9213	Smallingerland	Fryslân
-2260	De Wilp	9367–9367	Westerkwartier	Groningen
-2526	Dearsum	8643–8643	Súdwest-Fryslân	Fryslân
-2306	Dedgum /
-Dedzjum	8764–8764	Súdwest-Fryslân	Fryslân
-2727	Deinum	9033–9033	Waadhoeke	Fryslân
-Dekkershuizen	9909–9909	Eemsdelta	Groningen
-Delburen /
-Delbuorren	8565–8565	De Fryske Marren	Fryslân
-2240	Delfstrahuizen	8508–8508	De Fryske Marren	Fryslân
-3234	Delfzijl	9931–9934	Eemsdelta	Groningen
-2466	Den Andel	9956–9956	Het Hogeland	Groningen
-Den Ham	9695–9695	Westerwolde	Groningen
-2116	Den Ham	9833–9833	Westerkwartier	Groningen
-Den Hool	7845–7845	Coevorden	Drenthe
-2117	Den Horn	9832–9832	Westerkwartier	Groningen
-Den Oever	7825–7825	Emmen	Drenthe
-Denemarken	9621–9621	Midden-Groningen	Groningen
-1154	Deurze	9457–9457	Aa en Hunze	Drenthe
-Diepswal	9812–9812	Westerkwartier	Groningen
-3107	Diever	7981–7981	Westerveld	Drenthe
-3108	Dieverbrug	7984–7984	Westerveld	Drenthe
-2487	Dijken /
-Diken	8528–8528	De Fryske Marren	Fryslân
-Dijkshorne /
-Dykshoarne	9131–9131	Noardeast-Fryslân	Fryslân
-Dijksterburen /
-Dyksterbuorren	8821–8821	Súdwest-Fryslân	Fryslân
-Dikbroeken	7876–7876	Borger-Odoorn	Drenthe
-(De) Dingen	9953–9953	Het Hogeland	Groningen
-2152	Diphoorn	7842–7842	Coevorden	Drenthe
-2174	Doezum	9863–9863	Westerkwartier	Groningen
-Doijum /
-Doaium	8801–8801	Waadhoeke	Fryslân
-3391	Dokkum	9101–9103	Noardeast-Fryslân	Fryslân
-Dokkumer Nieuwe Zijlen /
-Dokkumer Nije Silen	9132–9132	Noardeast-Fryslân	Fryslân
-3109	Doldersum	8386–8386	Westerveld	Drenthe
-Domwier	9005–9005	Leeuwarden	Fryslân
-2916	Donderen	9497–9497	Tynaarlo	Drenthe
-1372	Dongjum /
-Doanjum	8808–8808	Waadhoeke	Fryslân
-Doniaburen	8761–8761	Súdwest-Fryslân	Fryslân
-2488	Doniaga /
-Dunegea	8516–8516	De Fryske Marren	Fryslân
-1754	Donkerbroek	8435–8435	Ooststellingwerf	Fryslân
-Doodstil	9997–9997	Het Hogeland	Groningen
-Dorkwerd	9746–9746	Groningen	Groningen
-Dorp	9871–9871	Westerkwartier	Groningen
-Douwen	9965–9965	Het Hogeland	Groningen
-Draaisterhuizen /
-Draeisterhuzen	8618–8618	Súdwest-Fryslân	Fryslân
-3279	Drachten	9201–9207	Smallingerland	Fryslân
-3344	Drachten-Azeven	9207–9207	Opsterland	Fryslân
-3280	Drachtstercompagnie /
-De (Drachtster) Kompenije	9222–9222	Smallingerland	Fryslân
-Drieboerehuizen /
-Trijeboerehuzen	9151–9151	Noardeast-Fryslân	Fryslân
-1422	Drieborg	9688–9688	Oldambt	Groningen
-3268	Driezum /
-Driesum	9114–9114	Dantumadiel	Fryslân
-3009	Drijber	9419–9419	Midden-Drenthe	Drenthe
-3176	Drogeham /
-Droegeham	9289–9289	Achtkarspelen	Fryslân
-Drogt	7921–7921	De Wolden	Drenthe
-3163	Drogteropslagen	7705–7705	De Wolden	Drenthe
-2729	Dronryp /
-Dronrijp	9035–9035	Waadhoeke	Fryslân
-1787	Drouwen	9533–9533	Borger-Odoorn	Drenthe
-1788	Drouwenermond	9523–9523	Borger-Odoorn	Drenthe
-1789	Drouwenerveen	9525–9525	Borger-Odoorn	Drenthe
-Duurkenakker	9651–9651	Midden-Groningen	Groningen
-Dwarsdiep	9663–9663	Stadskanaal	Groningen
-3110	Dwingeloo	7991–7991	Westerveld	Drenthe
-2456	Earnewâld /
-Eernewoude	9264–9264	Tytsjerksteradiel	Fryslân
-2013	Easterein /
-Oosterend	8734–8734	Súdwest-Fryslân	Fryslân
-2014	Easterlittens /
-Oosterlittens	8835–8835	Leeuwarden	Fryslân
-2454	Eastermar /
-Oostermeer	9261–9261	Tytsjerksteradiel	Fryslân
-2015	Easterwierrum /
-Oosterwierum	9021–9021	Súdwest-Fryslân	Fryslân
-3164	Echten	7932–7932	De Wolden	Drenthe
-2241	Echten /
-Ychten	8537–8537	De Fryske Marren	Fryslân
-2242	Echtenerbrug /
-Ychtenbrêge	8539–8539	De Fryske Marren	Fryslân
-3392	Ee /
-Ie	9131–9131	Noardeast-Fryslân	Fryslân
-Eekwerd	9917–9917	Eemsdelta	Groningen
-Eekwerderdraai	9917–9917	Eemsdelta	Groningen
-2909	Eelde	9761–9761	Tynaarlo	Drenthe
-Eelde-Paterswolde	9761–9765	Tynaarlo	Drenthe
-2911	Eelderwolde	9766–9766	Tynaarlo	Drenthe
-3473	Eemshaven	9979–9979	Het Hogeland	Groningen
-Eemster	7991–7991	Westerveld	Drenthe
-Eemswoude /
-Ymswâlde	8765–8765	Súdwest-Fryslân	Fryslân
-Eemten	7957–7957	De Wolden	Drenthe
-1634	Een	9342–9342	Noordenveld	Drenthe
-3415	Eenrum	9967–9967	Het Hogeland	Groningen
-3444	Eenum	9913–9913	Eemsdelta	Groningen
-1635	Een-West	9343–9343	Noordenveld	Drenthe
-Eerste Dwarsdiep	9515–9515	Aa en Hunze	Drenthe
-1790	Ees	9536–9536	Borger-Odoorn	Drenthe
-1791	Eesergroen	9537–9537	Borger-Odoorn	Drenthe
-1792	Eeserveen	7858–7859	Borger-Odoorn	Drenthe
-2243	Eesterga /
-Jistergea	8534–8534	De Fryske Marren	Fryslân
-1155	Eext	9463–9463	Aa en Hunze	Drenthe
-Eextahaven	9679–9679	Oldambt	Groningen
-1156	Eexterveen	9658–9658	Aa en Hunze	Drenthe
-1157	Eexterveenschekanaal	9659–9659	Aa en Hunze	Drenthe
-1158	Eexterzandvoort	9464–9464	Aa en Hunze	Drenthe
-Egbertsgaasten	9217–9217	Smallingerland	Fryslân
-Ekamp	9682–9684	Oldambt	Groningen
-1159	Ekehaar	9454–9454	Aa en Hunze	Drenthe
-1675	Elahuizen /
-Ealahúzen	8581–8581	De Fryske Marren	Fryslân
-1160	Eldersloo	9453–9453	Aa en Hunze	Drenthe
-1161	Eleveld	9456–9456	Aa en Hunze	Drenthe
-1811	Elim	7916–7916	Hoogeveen	Drenthe
-Ellerhuizen	9781–9781	Het Hogeland	Groningen
-Ellersinghuizen	9541–9541	Westerwolde	Groningen
-1793	Ellertshaar	9535–9535	Borger-Odoorn	Drenthe
-3010	Elp	9442–9442	Midden-Drenthe	Drenthe
-1755	Elsloo /
-Elslo	8424–8424	Ooststellingwerf	Fryslân
-1988	Emmen	7801–7828	Emmen	Drenthe
-1989	Emmer-Compascuum	7881–7881	Emmen	Drenthe
-Engeland	7963–7963	De Wolden	Drenthe
-Engelbert	9723–9723	Groningen	Groningen
-Englum	9883–9883	Westerkwartier	Groningen
-Engwerd /
-Ingwert	9012–9012	Súdwest-Fryslân	Fryslân
-Engwier	8754–8754	Súdwest-Fryslân	Fryslân
-3393	Engwierum /
-Ingwierrum	9132–9132	Noardeast-Fryslân	Fryslân
-2340	Enumatil	9811–9812	Westerkwartier	Groningen
-Enzelens	9918–9918	Eemsdelta	Groningen
-3474	Eppenhuizen	9996–9996	Het Hogeland	Groningen
-1990	Erica	7887–7887	Emmen	Drenthe
-2153	Erm	7843–7843	Coevorden	Drenthe
-Ermerveen	7814–7814	Emmen	Drenthe
-Essen	9751–9751	Groningen	Groningen
-Eursing	9411–9411	Midden-Drenthe	Drenthe
-3165	Eursinge	7935–7935	De Wolden	Drenthe
-3011	Eursinge	9434–9434	Midden-Drenthe	Drenthe
-Eursinge	7971–7971	Westerveld	Drenthe
-Ewer	9966–9966	Het Hogeland	Groningen
-Exloërkijl	9571–9571	Borger-Odoorn	Drenthe
-1794	Exloërveen	9574–9574	Borger-Odoorn	Drenthe
-1795	Exloo	7875–7875	Borger-Odoorn	Drenthe
-2307	Exmorra /
-Eksmoarre	8759–8759	Súdwest-Fryslân	Fryslân
-Exmorrazijl /
-Eksmoarresyl	8759–8759	Súdwest-Fryslân	Fryslân
-2467	Ezinge	9891–9891	Westerkwartier	Groningen
-Ezumazijl /
-Iezumasyl	9133–9133	Noardeast-Fryslân	Fryslân
-Faan	9822–9822	Westerkwartier	Groningen
-Farebuorren /
-Vaardeburen	9171–9171	Noardeast-Fryslân	Fryslân
-3235	Farmsum	9936–9936	Eemsdelta	Groningen
-Fatum	8804–8804	Waadhoeke	Fryslân
-3271	Feanwâlden /
-Veenwouden	9269–9269	Dantumadiel	Fryslân
-Feanwâldsterwâl /
-Veenwoudsterwal	9254–9269	Dantumadiel	Fryslân
-2468	Feerwerd	9892–9892	Westerkwartier	Groningen
-3226	Feinsum /
-Finkum	9053–9053	Leeuwarden	Fryslân
-Felland	9755–9755	Groningen	Groningen
-3201	Ferwert /
-Ferwerd	9172–9172	Noardeast-Fryslân	Fryslân
-2308	Ferwoude /
-Ferwâlde	8761–8761	Súdwest-Fryslân	Fryslân
-Feytebuorren	8616–8616	Súdwest-Fryslân	Fryslân
-Fiemel	9947–9947	Eemsdelta	Groningen
-Finkeburen /
-Finkebuorren	8521–8521	De Fryske Marren	Fryslân
-1419	Finsterwolde	9684–9684	Oldambt	Groningen
-Finsterwolderhamrik	9684–9684	Oldambt	Groningen
-1378	Firdgum /
-Furdgum	8852–8852	Waadhoeke	Fryslân
-Flansum /
-Flânsum	9012–9012	Súdwest-Fryslân	Fryslân
-1812	Fluitenberg	7931–7931	Hoogeveen	Drenthe
-1756	Fochteloo /
-De Fochtel	8428–8428	Ooststellingwerf	Fryslân
-2244	Follega /
-Follegea	8535–8535	De Fryske Marren	Fryslân
-2402	Folsgare /
-Folsgeare	8773–8773	Súdwest-Fryslân	Fryslân
-2617	Formerum /
-Formearum	8894–8894	Terschelling	Fryslân
-Fort	7924–7924	De Wolden	Drenthe
-3394	Foudgum	9154–9154	Noardeast-Fryslân	Fryslân
-1017	Foxhol	9607–9607	Midden-Groningen	Groningen
-Foxholsterbosch	9607–9607	Midden-Groningen	Groningen
-1636	Foxwolde	9314–9314	Noordenveld	Drenthe
-Fraamklap	9991–9991	Eemsdelta	Groningen
-1366	Franeker /
-Frjentsjer	8801–8802	Waadhoeke	Fryslân
-Franschehoef /
-Fransum	9833–9833	Westerkwartier	Groningen
-3111	Frederiksoord	8382–8382	Westerveld	Drenthe
-2527	Friens	9009–9009	Leeuwarden	Fryslân
-3345	Frieschepalen /
-Fryske Peallen	9249–9249	Opsterland	Fryslân
-1348	Froombosch	9619–9619	Midden-Groningen	Groningen
-Frytum	9884–9884	Westerkwartier	Groningen
-Fûns /
-Fons	9023–9023	Leeuwarden	Fryslân
-Gaarkeuken	9843–9843	Westerkwartier	Groningen
-Gaarland	9628–9628	Midden-Groningen	Groningen
-2309	Gaast	8757–8757	Súdwest-Fryslân	Fryslân
-2403	Gaastmeer /
-De Gaastmar	8611–8611	Súdwest-Fryslân	Fryslân
-Galamadammen	8723–8723	Súdwest-Fryslân	Fryslân
-Galhoeke /
-De Galhoek (?)	9205–9205	Smallingerland	Fryslân
-Ganzedijk	9684–9684	Oldambt	Groningen
-1831	Garmerwolde	9798–9798	Groningen	Groningen
-3012	Garminge	9438–9438	Midden-Drenthe	Drenthe
-2469	Garnwerd	9893–9893	Westerkwartier	Groningen
-3445	Garrelsweer	9918–9918	Eemsdelta	Groningen
-Garreweer	9903–9903	Eemsdelta	Groningen
-3446	Garsthuizen	9923–9923	Eemsdelta	Groningen
-2455	Garyp /
-Garijp	9263–9263	Tytsjerksteradiel	Fryslân
-1162	Gasselte	9462–9462	Aa en Hunze	Drenthe
-Gasselterboerveen	9514–9514	Aa en Hunze	Drenthe
-Gasselterboerveenschemond	9515–9515	Aa en Hunze	Drenthe
-1163	Gasselternijveen	9514–9514	Aa en Hunze	Drenthe
-1164	Gasselternijveenschemond	9515–9515	Aa en Hunze	Drenthe
-1165	Gasteren	9466–9466	Aa en Hunze	Drenthe
-2404	Gauw /
-Gau	8627–8627	Súdwest-Fryslân	Fryslân
-Geefsweer	9937–9937	Eemsdelta	Groningen
-1166	Geelbroek	9455–9455	Aa en Hunze	Drenthe
-2154	Gees	7863–7863	Coevorden	Drenthe
-2155	Geesbrug	7917–7917	Coevorden	Drenthe
-3112	Geeuwenbrug	7985–7985	Westerveld	Drenthe
-3177	Gerkesklooster /
-Gerkeskleaster	9872–9873	Achtkarspelen	Fryslân
-2185	Gersloot /
-Gersleat	8457–8457	Heerenveen	Fryslân
-1167	Gieten	9461–9461	Aa en Hunze	Drenthe
-1168	Gieterveen	9511–9511	Aa en Hunze	Drenthe
-Gieterzandvoort	9461–9461	Aa en Hunze	Drenthe
-Gijsselte	7963–7963	De Wolden	Drenthe
-3202	Ginnum /
-Genum	9174–9174	Noardeast-Fryslân	Fryslân
-1267	Glimmen	9756–9756	Groningen	Groningen
-3236	Godlinze	9908–9908	Eemsdelta	Groningen
-2405	Goënga /
-Goaiïngea	8628–8628	Súdwest-Fryslân	Fryslân
-3281	Goëngahuizen /
-Goaijingahuzen	8497–8497	Smallingerland	Fryslân
-2489	Goingarijp /
-Goaiïngaryp	8511–8511	De Fryske Marren	Fryslân
-Goldhoorn	9684–9684	Oldambt	Groningen
-Gooium	8751–8751	Súdwest-Fryslân	Fryslân
-3346	Gorredijk /
-De Gordyk	8401–8401	Opsterland	Fryslân
-3616	Goutum	9084–9084	Leeuwarden	Fryslân
-Gracht /
-De Gracht	8485–8485	Weststellingwerf	Fryslân
-Graswijk	9405–9405	Assen	Drenthe
-Grauwe Kat	8822–8822	Súdwest-Fryslân	Fryslân
-2406	Greonterp	8658–8658	Súdwest-Fryslân	Fryslân
-Grevenberg	7861–7861	Coevorden	Drenthe
-2118	Grijpskerk	9843–9843	Westerkwartier	Groningen
-Grijssloot	9965–9965	Het Hogeland	Groningen
-1169	Grolloo	9444–9444	Aa en Hunze	Drenthe
-1070	Groningen	9711–9747	Groningen	Groningen
-Groot Maarslag	9961–9961	Het Hogeland	Groningen
-(Midhuizen ?) /
-Grut Midhuzen	9131–9131	Noardeast-Fryslân	Fryslân
-Groot Wetsinge	9773–9773	Het Hogeland	Groningen
-2175	Grootegast	9861–9861	Westerkwartier	Groningen
-Grootwijngaarden	8405–8405	Opsterland	Fryslân
-Grote Wiske	8723–8723	Súdwest-Fryslân	Fryslân
-3602	Grouw /
-Grou	9001–9001	Leeuwarden	Fryslân
-2444	Gytsjerk /
-Giekerk	9061–9061	Tytsjerksteradiel	Fryslân
-Gytsjerksterhoeke /
-Giekerkerhoek	9061–9061	Tytsjerksteradiel	Fryslân
-Haakswold	7961–7961	De Wolden	Drenthe
-Haalweide	7957–7957	De Wolden	Drenthe
-Halfweg	9852–9852	Noardeast-Fryslân	Fryslân
-3203	Hallum	9074–9074	Noardeast-Fryslân	Fryslân
-Hallumerhoeke /
-Hallumerhoek	9074–9074	Noardeast-Fryslân	Fryslân
-Hamdijk	9693–9693	Oldambt	Groningen
-Hamrik	9363–9363	Westerkwartier	Groningen
-Hamshorn /
-Hamsherne	9281–9281	Achtkarspelen	Fryslân
-Haneburen	8408–8408	Opsterland	Fryslân
-3395	Hantum	9147–9147	Noardeast-Fryslân	Fryslân
-Hantumerhoek /
-Hantumerhoeke	9144–9144	Noardeast-Fryslân	Fryslân
-3396	Hantumeruitburen /
-Hantumerútbuorren	9146–9146	Noardeast-Fryslân	Fryslân
-3397	Hantumhuizen /
-Hantumhuzen	9144–9144	Noardeast-Fryslân	Fryslân
-Hardeweer	9891–9891	Westerkwartier	Groningen
-1266	Haren	9751–9753	Groningen	Groningen
-Harendermolen /
-Harenermolen (?)	9751–9751	Groningen	Groningen
-1676	Harich	8571–8571	De Fryske Marren	Fryslân
-Harich Westerend /
-Westerein Harich	8571–8571	De Fryske Marren	Fryslân
-3178	Harkema /
-De Harkema	9281–9281	Achtkarspelen	Fryslân
-Harkezijl	8748–8748	Súdwest-Fryslân	Fryslân
-1349	Harkstede	9617–9617	Midden-Groningen	Groningen
-Harkstede	9614–9614	Groningen	Groningen
-3635	“Harkstede GN”	9614–9614	Groningen	Groningen
-2891	Harlingen /
-Harns	8861–8862	Harlingen	Fryslân
-Harpel	9541–9541	Westerwolde	Groningen
-Harssens	9774–9774	Het Hogeland	Groningen
-2310	Hartwerd /
-Hartwert	8741–8741	Súdwest-Fryslân	Fryslân
-2490	Haskerdijken /
-Haskerdiken	8468–8468	De Fryske Marren	Fryslân
-2491	Haskerhorne /
-Haskerhoarne	8506–8506	De Fryske Marren	Fryslân
-(De) Haspel	9354–9354	Westerkwartier	Groningen
-3576	Haule /
-De Haule	8432–8432	Ooststellingwerf	Fryslân
-3577	Haulerwijk /
-Haulerwyk	8433–8433	Ooststellingwerf	Fryslân
-3113	Havelte	7971–7971	Westerveld	Drenthe
-3114	Havelterberg	7974–7974	Westerveld	Drenthe
-Hayum	8747–8747	Súdwest-Fryslân	Fryslân
-Hebrecht	9566–9566	Westerwolde	Groningen
-2623	Hee	8882–8882	Terschelling	Fryslân
-2407	Heeg /
-Heech	8621–8621	Súdwest-Fryslân	Fryslân
-Heereburen	9884–9884	Westerkwartier	Groningen
-3522	Heerenveen /
-It Hearrenfean	8441–8448	Heerenveen	Fryslân
-Hees	7963–7963	De Wolden	Drenthe
-Hefswal	9982–9982	Het Hogeland	Groningen
-3204	Hegebeintum /
-Hogebeintum	9173–9173	Noardeast-Fryslân	Fryslân
-Heide	8521–8521	De Fryske Marren	Fryslân
-Heidehuizen	9241–9241	Opsterland	Fryslân
-1899	Heiligerlee	9677–9677	Oldambt	Groningen
-Heineburen	9354–9354	Westerkwartier	Groningen
-Hekkum	9774–9774	Het Hogeland	Groningen
-1350	Hellum	9627–9627	Midden-Groningen	Groningen
-Helwerd	9998–9998	Het Hogeland	Groningen
-1970	Hemelum /
-Himmelum	8584–8584	Súdwest-Fryslân	Fryslân
-Hemert	9794–9794	Groningen	Groningen
-1202	Hempens /
-Himpens	9086–9086	Leeuwarden	Fryslân
-3347	Hemrik /
-De Himrik	8409–8409	Opsterland	Fryslân
-Hemrikerverlaat /
-Himrikerfallaat	8409–8409	Opsterland	Fryslân
-1365	Herbaijum /
-Hjerbeam	8807–8807	Waadhoeke	Fryslân
-Hesens	9023–9023	Leeuwarden	Fryslân
-Het Moer	7986–7986	Westerveld	Drenthe
-Het Reidland	9781–9781	Het Hogeland	Groningen
-Het Schier	7973–7973	Westerveld	Drenthe
-Het Veen /
-'t Veen	9636–9636	Midden-Groningen	Groningen
-Ven /
-Het /
-Het Vorst /
-3398	Hiaure /
-De Lytse Jouwer	9148–9148	Noardeast-Fryslân	Fryslân
-2311	Hichtum	8743–8743	Súdwest-Fryslân	Fryslân
-2016	Hidaard	8737–8737	Súdwest-Fryslân	Fryslân
-2312	Hieslum	8762–8762	Súdwest-Fryslân	Fryslân
-3013	Hijken	9415–9415	Midden-Drenthe	Drenthe
-Hijkersmilde	9422–9422	Midden-Drenthe	Drenthe
-2017	Hilaard /
-Hijlaard	9027–9027	Leeuwarden	Fryslân
-Himert /
-Hemert	8742–8742	Súdwest-Fryslân	Fryslân
-1968	Hindeloopen /
-Hylpen	8713–8713	Súdwest-Fryslân	Fryslân
-2018	Hinnaard /
-Hennaard	8844–8844	Súdwest-Fryslân	Fryslân
-1363	Hitzum /
-Hitsum	8805–8805	Waadhoeke	Fryslân
-Höchte	9661–9661	Stadskanaal	Groningen
-Hoek	9086–9086	Leeuwarden	Fryslân
-Hoekens	8737–8737	Súdwest-Fryslân	Fryslân
-Hoekje	9843–9843	Westerkwartier	Groningen
-Hoeksmeer	9918–9918	Eemsdelta	Groningen
-Hoetmansmeer	9663–9663	Pekela	Groningen
-Hoge Linthorst	7958–7958	De Wolden	Drenthe
-1813	Hollandscheveld	7913–7913	Hoogeveen	Drenthe
-2586	Hollum	9161–9161	Ameland	Fryslân
-2156	Holsloot	7845–7845	Coevorden	Drenthe
-Holte	9591–9591	Stadskanaal	Groningen
-Holthe	9411–9411	Midden-Drenthe	Drenthe
-Holtien	7991–7991	Westerveld	Drenthe
-Holtinge	7975–7975	Westerveld	Drenthe
-Holtland	7991–7991	Westerveld	Drenthe
-3399	Holwerd /
-Holwert	9151–9151	Noardeast-Fryslân	Fryslân
-3237	Holwierde	9905–9905	Eemsdelta	Groningen
-Holwinde	9981–9981	Het Hogeland	Groningen
-2408	Hommerts /
-De Hommerts	8622–8622	Súdwest-Fryslân	Fryslân
-Honderd	9987–9987	Eemsdelta	Groningen
-Hongerige Wolf	9684–9684	Oldambt	Groningen
-Hoogeduurswoude /
-Heech-Duerswâld	8431–8431	Ooststellingwerf	Fryslân
-Hoogehaar	7751–7751	Coevorden	Drenthe
-3014	Hoogersmilde	9423–9423	Midden-Drenthe	Drenthe
-3115	Hoogersmilde	7981–7981	Westerveld	Drenthe
-1814	Hoogeveen	7901–7909	Hoogeveen	Drenthe
-1018	Hoogezand	9601–9603	Midden-Groningen	Groningen
-3015	Hooghalen	9414–9414	Midden-Drenthe	Drenthe
-Hoogkerk	9744–9745	Groningen	Groningen
-Hoogwatum	9906–9906	Eemsdelta	Groningen
-Hooibergen /
-Heaburgen	8566–8566	De Fryske Marren	Fryslân
-Hoorn	9698–9698	Westerwolde	Groningen
-2615	Hoorn /
-Hoarne	8896–8896	Terschelling	Fryslân
-Hoornderveen	9698–9698	Westerwolde	Groningen
-Hoornsedijk	9752–9752	Groningen	Groningen
-2197	Hoornsterzwaag /
-Hoarnstersweach	8412–8412	Heerenveen	Fryslân
-Hoptille	9027–9027	Leeuwarden	Fryslân
-3416	Hornhuizen	9978–9978	Het Hogeland	Groningen
-Horsten	9581–9581	Stadskanaal	Groningen
-3282	Houtigehage /
-De Houtigehage	9223–9223	Smallingerland	Fryslân
-3417	Houwerzijl	9973–9973	Het Hogeland	Groningen
-1637	Huis ter Heide	9336–9336	Noordenveld	Drenthe
-3447	Huizinge	9992–9992	Eemsdelta	Groningen
-2019	Húns /
-Huins	8832–8832	Leeuwarden	Fryslân
-2449	Hurdegaryp /
-Hardegarijp	9254–9254	Tytsjerksteradiel	Fryslân
-Hûsternoard	9294–9294	Noardeast-Fryslân	Fryslân
-3227	Hyum /
-Hijum	9054–9054	Leeuwarden	Fryslân
-2529	Idaard /
-Idaerd	9007–9007	Leeuwarden	Fryslân
-2313	Idsegahuizum /
-Skuzum	8755–8755	Súdwest-Fryslân	Fryslân
-Idserdaburen /
-Idzerdabuorren	8762–8762	Súdwest-Fryslân	Fryslân
-2492	Idskenhuizen /
-Jiskenhuzen	8523–8523	De Fryske Marren	Fryslân
-2409	Idzega /
-Idzegea	8612–8612	Súdwest-Fryslân	Fryslân
-2020	Iens /
-Edens	8733–8733	Súdwest-Fryslân	Fryslân
-2410	IJlst /
-Drylts	8651–8651	Súdwest-Fryslân	Fryslân
-2411	Indijk /
-Yndyk	8553–8553	Súdwest-Fryslân	Fryslân
-2728	Ingelum /
-Engelum	9038–9038	Waadhoeke	Fryslân
-Iniaheide	9263–9263	Tytsjerksteradiel	Fryslân
-2530	Irnsum /
-Jirnsum	9011–9011	Leeuwarden	Fryslân
-It Fliet	8748–8748	Súdwest-Fryslân	Fryslân
-It Heechsân /
-Hoogzand-Oostermeer	9261–9261	Tytsjerksteradiel	Fryslân
-2021	Itens	8735–8735	Súdwest-Fryslân	Fryslân
-1973	It Heidenskip	8724–8724	Súdwest-Fryslân	Fryslân
-Jagerswijk	9611–9611	Midden-Groningen	Groningen
-3205	Jannum /
-Janum	9107–9107	Noardeast-Fryslân	Fryslân
-2022	Jellum	9026–9026	Leeuwarden	Fryslân
-3228	Jelsum	9057–9057	Leeuwarden	Fryslân
-Jeth	8636–8636	Súdwest-Fryslân	Fryslân
-Jipsingboermussel	9563–9563	Westerwolde	Groningen
-Jipsingboertange	9551–9551	Westerwolde	Groningen
-Jipsinghuizen	9551–9551	Westerwolde	Groningen
-3206	Jislum	9177–9177	Noardeast-Fryslân	Fryslân
-2452	Jistrum /
-Eestrum	9258–9258	Tytsjerksteradiel	Fryslân
-3348	Jonkerslân /
-Jonkersland	8403–8403	Opsterland	Fryslân
-Jonkershuizen	8765–8765	Súdwest-Fryslân	Fryslân
-2261	Jonkersvaart	9366–9366	Westerkwartier	Groningen
-2023	Jorwert /
-Jorwerd	9023–9023	Leeuwarden	Fryslân
-2493	Joure /
-De Jouwer	8501–8502	De Fryske Marren	Fryslân
-Jousterp	8763–8763	Súdwest-Fryslân	Fryslân
-Jouswerd	8774–8774	Súdwest-Fryslân	Fryslân
-3400	Jouswier	9124–9124	Noardeast-Fryslân	Fryslân
-2196	Jubbega /
-Jobbegea	8411–8411	Heerenveen	Fryslân
-Jubbega-Schurega	8411–8411	Heerenveen	Fryslân
-Jukwerd	9901–9901	Eemsdelta	Groningen
-2412	Jutrijp /
-Jutryp	8623–8623	Súdwest-Fryslân	Fryslân
-Kaakhorn	9969–9969	Het Hogeland	Groningen
-2622	Kaard /
-Kaart	8883–8883	Terschelling	Fryslân
-Kalenberg	7931–7931	Hoogeveen	Drenthe
-Kalkwijk	9603–9603	Midden-Groningen	Groningen
-Kalteren	7981–7981	Westerveld	Drenthe
-Kampen	8748–8748	Súdwest-Fryslân	Fryslân
-3475	Kantens	9995–9995	Het Hogeland	Groningen
-Katershorn	9981–9981	Het Hogeland	Groningen
-2192	Katlijk /
-Ketlik	8455–8455	Heerenveen	Fryslân
-Kavelingen	7876–7876	Borger-Odoorn	Drenthe
-3166	Kerkenveld	7926–7926	De Wolden	Drenthe
-Kettingwier /
-Keatlingwier	9295–9295	Noardeast-Fryslân	Fryslân
-Keuningswijk	9367–9367	Westerkwartier	Groningen
-Kibbelgaarn	9644–9644	Veendam	Groningen
-Kibbelveen	7848–7848	Coevorden	Drenthe
-Kie	8801–8801	Waadhoeke	Fryslân
-1019	Kiel-Windeweer	9605–9605	Midden-Groningen	Groningen
-Kiesterzijl /
-Kiestersyl	8807–8801	Waadhoeke	Fryslân
-2314	Kimswerd /
-Kimswert	8821–8821	Súdwest-Fryslân	Fryslân
-Kingmatille /
-Keimpetille	8814–8814	Waadhoeke	Fryslân
-2624	Kinnum /
-Kinum (?)	8885–8885	Terschelling	Fryslân
-Klatering	9411–9411	Midden-Drenthe	Drenthe
-1991	Klazienaveen	7891–7891	Emmen	Drenthe
-1992	Klazienaveen-Noord	7884–7884	Emmen	Drenthe
-Klei	9971–9971	Het Hogeland	Groningen
-Klein Groningen	9241–9241	Opsterland	Fryslân
-Klein Leger	9946–9946	Eemsdelta	Groningen
-(Midhuizen ?) /
-Lyts Midhuzen	9124–9124	Noardeast-Fryslân	Fryslân
-Klein Wetsinge	9773–9773	Het Hogeland	Groningen
-Kleine Gaastmeer /
-De Lytse Gaastmar	8611–8611	Súdwest-Fryslân	Fryslân
-Kleine Huisjes	9977–9977	Het Hogeland	Groningen
-Kleine Wiske	8711–8711	Súdwest-Fryslân	Fryslân
-Kleinemeer	9611–9611	Midden-Groningen	Groningen
-Klein-Garnwerd	9951–9951	Het Hogeland	Groningen
-Klein-Ulsda /
-Klein Ulsda	9696–9696	Westerwolde	Groningen
-Kletterbuurt /
-Kletterbuorren	9151–9151	Noardeast-Fryslân	Fryslân
-1796	Klijndijk	7871–7871	Borger-Odoorn	Drenthe
-Klooster	7741–7741	Coevorden	Drenthe
-1376	Klooster Lidlum /
-Kleaster-Lidlum	8853–8853	Waadhoeke	Fryslân
-3418	Kloosterburen	9977–9977	Het Hogeland	Groningen
-Kloosterveen	9406–9408	Assen	Drenthe
-3229	Koarnjum /
-Cornjum	9056–9056	Leeuwarden	Fryslân
-Koehool /
-Koehoal	8851–8851	Waadhoeke	Fryslân
-3167	Koekange	7958–7958	De Wolden	Drenthe
-Koekangerveld	7958–7958	De Wolden	Drenthe
-Koelveen	7761–7761	Emmen	Drenthe
-Kolderveen	7948–7948	Meppel	Drenthe
-Kolderveense Bovenboer	7948–7948	Meppel	Drenthe
-1677	Kolderwolde /
-Kolderwâlde	8583–8583	De Fryske Marren	Fryslân
-1351	Kolham	9615–9615	Midden-Groningen	Groningen
-Kolhol	9987–9987	Eemsdelta	Groningen
-3309	Kollum	9291–9291	Noardeast-Fryslân	Fryslân
-Kollumeroudzijl	9291–9291	Noardeast-Fryslân	Fryslân
-3310	Kollumerpomp /
-De Pomp	9293–9293	Noardeast-Fryslân	Fryslân
-3311	Kollumerzwaag /
-Kollumersweach	9298–9298	Noardeast-Fryslân	Fryslân
-2119	Kommerzijl	9881–9882	Westerkwartier	Groningen
-Koningsoord	9984–9984	Het Hogeland	Groningen
-Kooihuizen	8756–8756	Súdwest-Fryslân	Fryslân
-3179	Kootstertille /
-Koatstertille	9288–9288	Achtkarspelen	Fryslân
-Kopaf	9946–9946	Eemsdelta	Groningen
-Kopstukken	9584–9584	Stadskanaal	Groningen
-Korengarst	9635–9635	Midden-Groningen	Groningen
-Korengarst	9635–9635	Midden-Groningen	Groningen
-Korhorn	9883–9883	Westerkwartier	Groningen
-2176	Kornhorn	9864–9864	Westerkwartier	Groningen
-Kornwerderzand	8752–8752	Súdwest-Fryslân	Fryslân
-2315	Kornwerderzand	8752–8752	Súdwest-Fryslân	Fryslân
-Korte Akkers	9644–9644	Veendam	Groningen
-3283	Kortehemmen /
-Koartehimmen	9211–9211	Smallingerland	Fryslân
-Kortezwaag /
-Koartsweagen	8401–8401	Opsterland	Fryslân
-Kortwoude /
-Koartwâld	9283–9283	Achtkarspelen	Fryslân
-Kostverloren	9684–9684	Oldambt	Groningen
-Kostvlies	9462–9462	Aa en Hunze	Drenthe
-Koudehoek	9696–9696	Westerwolde	Groningen
-Koudehuizum	8748–8748	Súdwest-Fryslân	Fryslân
-1966	Koudum /
-Koaldum	8723–8723	Súdwest-Fryslân	Fryslân
-2413	Koufurderrige /
-Kûfurderrige	8529–8529	Súdwest-Fryslân	Fryslân
-Krab(be)buren (?)	9853–9853	Noardeast-Fryslân	Fryslân
-Kraloo	7935–7935	De Wolden	Drenthe
-Kraloo	7961–7961	De Wolden	Drenthe
-Krassum	9893–9893	Westerkwartier	Groningen
-3238	Krewerd	9904–9904	Eemsdelta	Groningen
-Kromme(-)Elleboog	9684–9684	Oldambt	Groningen
-1020	Kropswolde	9606–9606	Midden-Groningen	Groningen
-Kruiselwerk	9663–9663	Pekela	Groningen
-Kruisweg	9977–9977	Het Hogeland	Groningen
-2024	Kûbaard	8732–8732	Súdwest-Fryslân	Fryslân
-Kuikhorne /
-Kûkherne	9257–9287	Achtkarspelen	Fryslân
-Kûkherne /
-Kuikhorne	9269–9271	Dantumadiel	Fryslân
-Kuzemer	9821–9821	Westerkwartier	Groningen
-Kuzemerbalk	9862–9862	Westerkwartier	Groningen
-Laagduurswoude /
-Leech-Duerswâld	8423–8423	Ooststellingwerf	Fryslân
-Laaghalen	9414–9414	Midden-Drenthe	Drenthe
-Laaghalerveen	9414–9414	Midden-Drenthe	Drenthe
-Laaxum /
-Laaksum	8721–8721	Súdwest-Fryslân	Fryslân
-3636	Lageland GN	9622–9622	Groningen	Groningen
-Lageweg /
-1352	Lageland	9623–9623	Midden-Groningen	Groningen
-Lageland	9622–9622	Groningen	Groningen
-3636	“Lageland GN”	9622–9622	Groningen	Groningen
-Lageweg	9798–9798	Groningen	Groningen
-Lalleweer	9949–9949	Eemsdelta	Groningen
-Lammerburen	9883–9883	Westerkwartier	Groningen
-Lammerweg	9551–9551	Westerwolde	Groningen
-2618	Landerum /
-Ljanderum (?)	8893–8893	Terschelling	Fryslân
-1759	Langedijke(n) /
-Langedike (?)	8425–8425	Ooststellingwerf	Fryslân
-1724	Langelille /
-De Langelille	8484–8484	Weststellingwerf	Fryslân
-1638	Langelo	9333–9333	Noordenveld	Drenthe
-Langerak	7917–7917	Coevorden	Drenthe
-3349	Langezwaag /
-Langsweagen	8404–8404	Opsterland	Fryslân
-2494	Langweer /
-Langwar	8525–8525	De Fryske Marren	Fryslân
-Laskwerd	9902–9902	Eemsdelta	Groningen
-Laude	9551–9551	Westerwolde	Groningen
-Laudermarke	9561–9561	Westerwolde	Groningen
-Lauderzwarteveen	9551–9551	Westerwolde	Groningen
-3419	Lauwersoog	9976–9976	Het Hogeland	Groningen
-2120	Lauwerzijl	9885–9885	Westerkwartier	Groningen
-Leegkerk	9746–9746	Groningen	Groningen
-Leegte	9852–9852	Noardeast-Fryslân	Fryslân
-2341	Leek	9351–9351	Westerkwartier	Groningen
-Leemdobben	9551–9551	Westerwolde	Groningen
-3420	Leens	9965–9965	Het Hogeland	Groningen
-3448	Leermens	9912–9912	Eemsdelta	Groningen
-3615	Leeuwarden /
-Ljouwert	8901–8938	Leeuwarden	Fryslân
-Leeuwte	7963–7963	De Wolden	Drenthe
-2495	Legemeer /
-Legemar	8527–8527	De Fryske Marren	Fryslân
-Leggeloo	7991–7991	Westerveld	Drenthe
-1198	Lekkum	9081–9081	Leeuwarden	Fryslân
-1835	Lellens	9794–9794	Groningen	Groningen
-2245	Lemmer /
-De Lemmer	8531–8532	De Fryske Marren	Fryslân
-2025	Leons /
-Lions	8833–8833	Leeuwarden	Fryslân
-2342	Lettelbert	9827–9827	Westerkwartier	Groningen
-1639	Leutingewolde	9313–9313	Noordenveld	Drenthe
-Lhee	7991–7991	Westerveld	Drenthe
-Lheebroek	7991–7991	Westerveld	Drenthe
-3207	Lichtaard	9176–9176	Noardeast-Fryslân	Fryslân
-2616	Lies	8895–8895	Terschelling	Fryslân
-1640	Lieveren	9304–9304	Noordenveld	Drenthe
-Lieving	9411–9411	Midden-Drenthe	Drenthe
-Lijtshuizen /
-Lytshuzen	8621–8621	Súdwest-Fryslân	Fryslân
-3168	Linde	7925–7925	De Wolden	Drenthe
-3401	Lioessens /
-Ljussens	9134–9134	Noardeast-Fryslân	Fryslân
-3350	Lippenhuizen /
-Lippenhuzen	8408–8408	Opsterland	Fryslân
-Lippenwoude	8622–8622	Súdwest-Fryslân	Fryslân
-3505	Loënga /
-Loaiïngea	8631–8631	Súdwest-Fryslân	Fryslân
-2316	Lollum	8823–8823	Súdwest-Fryslân	Fryslân
-2317	Longerhouw /
-Longerhou	8745–8745	Súdwest-Fryslân	Fryslân
-2392	Loon	9409–9409	Assen	Drenthe
-3449	Loppersum	9919–9919	Eemsdelta	Groningen
-3239	Losdorp	9907–9907	Eemsdelta	Groningen
-Lubbinge	7921–7921	De Wolden	Drenthe
-2262	Lucaswolde	9825–9825	Westerkwartier	Groningen
-Luchtenveld	9222–9222	Smallingerland	Fryslân
-1353	Luddeweer	9624–9624	Midden-Groningen	Groningen
-2183	Luinjeberd /
-Lúnbert	8459–8459	Heerenveen	Fryslân
-Lula	9603–9603	Midden-Groningen	Groningen
-Lunssloten	7921–7921	De Wolden	Drenthe
-2177	Lutjegast	9866–9866	Westerkwartier	Groningen
-Lutjelollum /
-Lutsjelollum (?)	8801–8801	Waadhoeke	Fryslân
-Lutjerijp	9912–9912	Eemsdelta	Groningen
-Lutjewijtwerd	9921–9921	Eemsdelta	Groningen
-Lutjewolde	9797–9797	Groningen	Groningen
-Lutkepost /
-Lytsepost	9285–9285	Achtkarspelen	Fryslân
-3351	Luxwoude /
-Lúkswâld	8405–8405	Opsterland	Fryslân
-Lytse Geast /
-Kleine Geest	9255–9255	Tytsjerksteradiel	Fryslân
-2026	Lytsewierrum /
-Lutkewierum	8642–8642	Súdwest-Fryslân	Fryslân
-Maarhuizen	9951–9951	Het Hogeland	Groningen
-1760	Makkinga /
-Makkingea	8423–8423	Ooststellingwerf	Fryslân
-Makkum	8635–8635	Súdwest-Fryslân	Fryslân
-Makkum	9411–9411	Midden-Drenthe	Drenthe
-2318	Makkum	8754–8754	Súdwest-Fryslân	Fryslân
-2027	Mantgum	9022–9022	Leeuwarden	Fryslân
-3016	Mantinge	9436–9436	Midden-Drenthe	Drenthe
-Maria-Heide /
-3208	Marrum	9073–9073	Noardeast-Fryslân	Fryslân
-Marsum	9901–9901	Eemsdelta	Groningen
-2730	Marsum /
-Marssum	9034–9034	Waadhoeke	Fryslân
-Martenshoek	9601–9601	Midden-Groningen	Groningen
-2263	Marum	9363–9363	Westerkwartier	Groningen
-1170	Marwijksoord	9448–9448	Aa en Hunze	Drenthe
-1641	Matsloot	9749–9749	Noordenveld	Drenthe
-2277	Meeden	9651–9651	Midden-Groningen	Groningen
-3240	Meedhuizen	9937–9937	Eemsdelta	Groningen
-Meerland	9682–9682	Oldambt	Groningen
-3488	Meerstad	9613–9613	Groningen	Groningen
-Meerwijck	9606–9606	Midden-Groningen	Groningen
-Meilahuzen /
-Meilahuizen	8736–8736	Súdwest-Fryslân	Fryslân
-2731	Menaam /
-Menaldum	9036–9036	Waadhoeke	Fryslân
-3421	Mensingeweer	9961–9961	Het Hogeland	Groningen
-1082	Meppel	7941–7944	Meppel	Drenthe
-2157	Meppen	7855–7855	Coevorden	Drenthe
-Merum	9918–9918	Eemsdelta	Groningen
-3402	Metslawier /
-Mitselwier	9123–9123	Noardeast-Fryslân	Fryslân
-Middelbert	9723–9723	Groningen	Groningen
-Middelburen	9217–9217	Smallingerland	Fryslân
-3450	Middelstum	9991–9991	Eemsdelta	Groningen
-Middelveen	7921–7921	De Wolden	Drenthe
-Middendorp	7766–7766	Emmen	Drenthe
-Middendorp	7761–7761	Emmen	Drenthe
-2926	Midlaren	9475–9475	Tynaarlo	Drenthe
-2892	Midlum /
-Mullum	8871–8872	Harlingen	Fryslân
-2619	Midsland /
-Midslân	8891–8891	Terschelling	Fryslân
-Midsland aan Zee /
-Midslân oan See	8891–8891	Terschelling	Fryslân
-1897	Midwolda	9681–9681	Oldambt	Groningen
-2343	Midwolde	9355–9355	Westerkwartier	Groningen
-Miedum	8801–8801	Waadhoeke	Fryslân
-1199	Miedum	9082–9082	Leeuwarden	Fryslân
-2191	Mildam /
-Mildaam	8454–8454	Heerenveen	Fryslân
-3333	Minnertsga /
-Minnertsgea	9047–9047	Waadhoeke	Fryslân
-1678	Mirns /
-Murns	8573–8573	De Fryske Marren	Fryslân
-3403	Moddergat	9142–9142	Noardeast-Fryslân	Fryslân
-Molenrij	9977–9977	Het Hogeland	Groningen
-Molenstad	7991–7991	Westerveld	Drenthe
-1967	Molkwerum /
-Molkwar	8722–8722	Súdwest-Fryslân	Fryslân
-Montsamabuorren	8844–8844	Súdwest-Fryslân	Fryslân
-Morige	9797–9697	Westerwolde	Groningen
-3404	Morra /
-Moarre	9135–9135	Noardeast-Fryslân	Fryslân
-Moskou	8435–9241	Ooststellingwerf	Fryslân
-Mounebuorren	9132–9132	Noardeast-Fryslân	Fryslân
-2446	Mûnein /
-Molenend	9063–9063	Tytsjerksteradiel	Fryslân
-1725	Munnekeburen /
-Munnekebuorren	8485–8485	Weststellingwerf	Fryslân
-Munnekemoer	9561–9561	Westerwolde	Groningen
-3312	Munnekezijl /
-Muntsjesyl	9853–9853	Noardeast-Fryslân	Fryslân
-Munsterscheveld	7881–7881	Emmen	Drenthe
-2278	Muntendam	9649–9649	Midden-Groningen	Groningen
-3077	Mussel	9584–9584	Stadskanaal	Groningen
-3075	Musselkanaal	9581–9581	Stadskanaal	Groningen
-Naarderbuorren	9005–9005	Leeuwarden	Fryslân
-Nansum	9905–9905	Eemsdelta	Groningen
-Napels	9674–9674	Oldambt	Groningen
-2588	Nes	9163–9163	Ameland	Fryslân
-3405	Nes	9143–9143	Noardeast-Fryslân	Fryslân
-3603	Nes	8494–8494	Heerenveen	Fryslân
-3406	Niawier /
-Nijewier	9138–9138	Noardeast-Fryslân	Fryslân
-2264	Niebert	9364–9365	Westerkwartier	Groningen
-2121	Niehove	9884–9884	Westerkwartier	Groningen
-3422	Niekerk	9972–9972	Het Hogeland	Groningen
-2178	Niekerk	9822–9822	Westerkwartier	Groningen
-Niesoord	9681–9681	Oldambt	Groningen
-1642	Nietap	9312–9312	Noordenveld	Drenthe
-Nieuw Amerika /
-Nij Amerika	8566–8566	De Fryske Marren	Fryslân
-1171	Nieuw Annerveen	9657–9657	Aa en Hunze	Drenthe
-3018	Nieuw-Balinge	7938–7938	Midden-Drenthe	Drenthe
-1421	Nieuw Beerta	9687–9687	Oldambt	Groningen
-Nieuw Scheemda	9943–9943	Oldambt	Groningen
-1993	Nieuw-Amsterdam	7833–7833	Emmen	Drenthe
-1797	Nieuw-Buinen	9521–9521	Borger-Odoorn	Drenthe
-1994	Nieuw-Dordrecht	7885–7885	Emmen	Drenthe
-Nieuwe Compagnie	9605–9605	Midden-Groningen	Groningen
-Nieuwe Krim	7741–7741	Coevorden	Drenthe
-1398	Nieuwe Pekela	9663–9663	Pekela	Groningen
-Nieuwe Statenzijl	9688–9688	Oldambt	Groningen
-Nieuwe Vaart	8404–8404	Opsterland	Fryslân
-Nieuwebildtzijl /
-Nije-Syl	9078–9078	Waadhoeke	Fryslân
-2496	Nieuwebrug /
-Nijbrêge	8469–8469	De Fryske Marren	Fryslân
-1172	Nieuwediep	9512–9512	Aa en Hunze	Drenthe
-2194	Nieuwehorne /
-Nijhoarne	8414–8414	Heerenveen	Fryslân
-1815	Nieuweroord	7911–7912	Hoogeveen	Drenthe
-3017	Nieuweroord	7938–7938	Midden-Drenthe	Drenthe
-Nieuweschans	9693–9693	Oldambt	Groningen
-2187	Nieuweschoot /
-Nijskoat	8452–8452	Heerenveen	Fryslân
-Nieuwklap	9746–9746	Westerkwartier	Groningen
-Nieuwland /
-Nylân	9132–9132	Noardeast-Fryslân	Fryslân
-1816	Nieuwlande	7918–7918	Hoogeveen	Drenthe
-Nieuwlande	7929–7929	Coevorden	Drenthe
-2158	“Nieuwlande Coevorden”	7929–7929	Coevorden	Drenthe
-1896	Nieuwolda	9944–9944	Oldambt	Groningen
-Nieuwolda-Oost	9944–9944	Oldambt	Groningen
-1643	Nieuw-Roden	9311–9311	Noordenveld	Drenthe
-1894	Nieuw Scheemda	9943–9943	Oldambt	Groningen
-1995	Nieuw-Schoonebeek	7766–7766	Emmen	Drenthe
-Nieuwstad	9906–9906	Eemsdelta	Groningen
-1996	Nieuw-Weerdinge	7831–7831	Emmen	Drenthe
-Nieuw-Zwinderen	7864–7864	Coevorden	Drenthe
-2122	Niezijl	9841–9842	Westerkwartier	Groningen
-3330	Nij Altoenae	9072–9072	Waadhoeke	Fryslân
-3352	Nij Beets	9245–9245	Opsterland	Fryslân
-Nijbuorren	8584–8584	Súdwest-Fryslân	Fryslân
-1761	Nijeberkoop /
-Nijeberkeap	8422–8422	Ooststellingwerf	Fryslân
-3284	Nijega /
-Nyegea	9217–9217	Smallingerland	Fryslân
-3521	Nijehaske	8466–8466	De Fryske Marren	Fryslân
-1726	Nijeholtpade /
-Nijeholtpea	8475–8475	Weststellingwerf	Fryslân
-1727	Nijeholtwolde /
-Nijeholtwâlde	8488–8488	Weststellingwerf	Fryslân
-1728	Nijelamer /
-Nijelemmer	8487–8487	Weststellingwerf	Fryslân
-1679	Nijemirdum /
-Nijemardum	8566–8566	De Fryske Marren	Fryslân
-Nijenklooster	9977–9977	Het Hogeland	Groningen
-Nijenklooster	9904–9904	Eemsdelta	Groningen
-3116	Nijensleek	8383–8383	Westerveld	Drenthe
-1729	Nijetrijne /
-Nijetrine	8481–8481	Weststellingwerf	Fryslân
-1083	Nijeveen	7948–7948	Meppel	Drenthe
-Nijeveense Bovenboer	7948–7948	Meppel	Drenthe
-Nijezijl /
-Nijesyl	8651–8651	Súdwest-Fryslân	Fryslân
-1972	Nijhuizum /
-Nijhuzum	8775–8775	Súdwest-Fryslân	Fryslân
-2414	Nijland /
-Nijlân	8771–8771	Súdwest-Fryslân	Fryslân
-1173	Nijlande	9452–9452	Aa en Hunze	Drenthe
-Nijstad	7908–7908	Hoogeveen	Drenthe
-2450	Noardburgum /
-Noordbergum-dorp	9257–9257	Tytsjerksteradiel	Fryslân
-Nolde	7921–7921	De Wolden	Drenthe
-1174	Nooitgedacht	9449–9449	Aa en Hunze	Drenthe
-Nooitgedacht	9909–9909	Eemsdelta	Groningen
-Noordbarge	7812–7812	Emmen	Drenthe
-2279	Noordbroek	9635–9635	Midden-Groningen	Groningen
-Noordbroeksterhamrik	9635–9635	Midden-Groningen	Groningen
-Noorddijk	9734–9734	Groningen	Groningen
-Noordeind /
-Noardein	9089–9089	Leeuwarden	Fryslân
-Noorderburen	9804–9804	Westerkwartier	Groningen
-Noorderhoogebrug	9738–9738	Groningen	Groningen
-Noorderkolonie	9663–9663	Pekela	Groningen
-2123	Noordhorn	9804–9804	Westerkwartier	Groningen
-Noordhornerga	9804–9804	Westerkwartier	Groningen
-Noordhornertolhek	9804–9804	Westerkwartier	Groningen
-1268	Noordlaren	9479–9479	Groningen	Groningen
-Noordpolderzijl	9988–9988	Het Hogeland	Groningen
-1817	Noordscheschut	7914–7914	Hoogeveen	Drenthe
-2159	Noord-Sleen	7846–7846	Coevorden	Drenthe
-Noordwijk	7958–7958	De Wolden	Drenthe
-2265	Noordwijk	9824–9824	Westerkwartier	Groningen
-2830	Noordwolde	9784–9784	Het Hogeland	Groningen
-1730	Noordwolde /
-Noardwâlde	8391–8391	Weststellingwerf	Fryslân
-Noordwolde-zuid /
-Noardwâlde-Súd	8391–8391	Weststellingwerf	Fryslân
-1644	Norg	9331–9331	Noordenveld	Drenthe
-Norgervaart	9421–9421	Midden-Drenthe	Drenthe
-Nuil	7933–7933	Hoogeveen	Drenthe
-2266	Nuis	9364–9364	Westerkwartier	Groningen
-Numero Dertien	9644–9644	Veendam	Groningen
-Nykleaster	8629–8629	Súdwest-Fryslân	Fryslân
-1798	Odoorn	7873–7873	Borger-Odoorn	Drenthe
-1799	Odoorn	7874–7874	Borger-Odoorn	Drenthe
-2443	Oentsjerk /
-Oenkerk	9062–9062	Tytsjerksteradiel	Fryslân
-3506	Offingawier /
-Offenwier	8626–8626	Súdwest-Fryslân	Fryslân
-Okswerd	9841–9841	Westerkwartier	Groningen
-1762	Oldeberkoop /
-Aldeberkeap	8421–8421	Ooststellingwerf	Fryslân
-1731	Oldeholtpade /
-Aldeholtpea	8474–8474	Weststellingwerf	Fryslân
-1732	Oldeholtwolde /
-Aldeholtwâlde	8477–8477	Weststellingwerf	Fryslân
-2124	Oldehove	9883–9883	Westerkwartier	Groningen
-2179	Oldekerk	9821–9821	Westerkwartier	Groningen
-1733	Oldelamer /
-Aldlemmer	8486–8486	Weststellingwerf	Fryslân
-Oldendiever	7981–7981	Westerveld	Drenthe
-Oldenhave	7963–7963	De Wolden	Drenthe
-Oldenklooster	9905–9905	Eemsdelta	Groningen
-3476	Oldenzijl	9986–9986	Het Hogeland	Groningen
-Oldenzijl	9951–9951	Het Hogeland	Groningen
-2498	Oldeouwer /
-Alde Ouwer	8515–8515	De Fryske Marren	Fryslân
-1734	Oldetrijne /
-Aldetrine	8479–8479	Weststellingwerf	Fryslân
-Oldörp	9981–9981	Het Hogeland	Groningen
-Oling	9903–9903	Eemsdelta	Groningen
-3353	Olterterp	9246–9246	Opsterland	Fryslân
-Ommelanderwijk	9644–9644	Veendam	Groningen
-2831	Onderdendam	9959–9959	Het Hogeland	Groningen
-Onderwierum	9959–9959	Het Hogeland	Groningen
-1269	Onnen	9755–9755	Groningen	Groningen
-3076	Onstwedde	9591–9591	Stadskanaal	Groningen
-Oomsberg	9581–9581	Stadskanaal	Groningen
-Oost Vlieland /
-East-Flylân	8899–8899	Vlieland	Fryslân
-Oosteinde	7961–7961	De Wolden	Drenthe
-Oosteinde	9983–9983	Het Hogeland	Groningen
-1375	Oosterbierum /
-Easterbierrum	8854–8854	Waadhoeke	Fryslân
-Oosterboorn /
-Easterboarn	8495–8495	Heerenveen	Fryslân
-Oosterbroek	9761–9761	Tynaarlo	Drenthe
-Oostereinde	9672–9672	Oldambt	Groningen
-Oosterend	8401–8401	Opsterland	Fryslân
-2614	Oosterend /
-Easterein	8897–8897	Terschelling	Fryslân
-2160	Oosterhesselen	7861–7861	Coevorden	Drenthe
-3477	Oosternieland	9985–9985	Het Hogeland	Groningen
-3407	Oosternijkerk /
-Easternijtsjerk	9137–9137	Noardeast-Fryslân	Fryslân
-Oosterse Bos	7761–7761	Emmen	Drenthe
-1735	Oosterstreek	8388–8388	Weststellingwerf	Fryslân
-3451	Oosterwijtwerd	9911–9911	Eemsdelta	Groningen
-1763	Oosterwolde /
-Easterwâlde	8431–8431	Ooststellingwerf	Fryslân
-Oosterzand	9821–9821	Westerkwartier	Groningen
-2246	Oosterzee /
-Eastersee	8536–8536	De Fryske Marren	Fryslân
-Oosterzee Buren /
-Eastersee-Buorren	8536–8536	De Fryske Marren	Fryslân
-Oosthem	8748–8748	Súdwest-Fryslân	Fryslân
-2415	Oosthem /
-Easthim	8618–8618	Súdwest-Fryslân	Fryslân
-Oostindië	9354–9354	Westerkwartier	Groningen
-Oostmahorn /
-De Skâns	9133–9133	Noardeast-Fryslân	Fryslân
-3408	Oostrum /
-Eastrum	9125–9125	Noardeast-Fryslân	Fryslân
-Oostum	9893–9893	Westerkwartier	Groningen
-2344	Oostwold	9828–9828	Westerkwartier	Groningen
-1898	Oostwold	9682–9682	Oldambt	Groningen
-Oostwolderpolder	9682–9682	Oldambt	Groningen
-3285	Opeinde /
-De Pein	9218–9218	Smallingerland	Fryslân
-2180	Opende	9865–9865	Westerkwartier	Groningen
-Ophuis /
-Ophûs	9283–9283	Achtkarspelen	Fryslân
-Opmeeden	9937–9937	Eemsdelta	Groningen
-2416	Oppenhuizen /
-Toppenhuzen	8625–8625	Súdwest-Fryslân	Fryslân
-Opperburen	9216–9216	Smallingerland	Fryslân
-Opwierde	9902–9902	Eemsdelta	Groningen
-3019	Oranje	9416–9416	Midden-Drenthe	Drenthe
-Oranjedorp	7885–7885	Emmen	Drenthe
-2189	Oranjewoud /
-(It) Oranjewâld	8453–8453	Heerenveen	Fryslân
-3020	Orvelte	9441–9441	Midden-Drenthe	Drenthe
-Oshaar	7958–7958	De Wolden	Drenthe
-Osingahuizen /
-Osingahuzen	8621–8621	Súdwest-Fryslân	Fryslân
-1175	Oud Annerveen	9655–9655	Aa en Hunze	Drenthe
-Oud Veeningen	7924–7924	De Wolden	Drenthe
-3328	Oude Bildtzijl /
-Aldebiltsyl	9078–9078	Waadhoeke	Fryslân
-1397	Oude Pekela	9665–9665	Pekela	Groningen
-Oude Roodehaan	9723–9723	Groningen	Groningen
-Oude Schouw /
-Alde Skou	8491–8491	Heerenveen	Fryslân
-Oude Statenzijl	9688–9688	Oldambt	Groningen
-Oude Terp /
-Ald Terp	9131–9131	Noardeast-Fryslân	Fryslân
-3117	Oude Willem	8439–8439	Westerveld	Drenthe
-Oudedijk	9688–9688	Oldambt	Groningen
-1680	Oudega /
-Aldegea	8582–8582	De Fryske Marren	Fryslân
-3286	Oudega /
-Aldegea	9216–9216	Smallingerland	Fryslân
-2417	Oudega /
-Aldegea	8614–8614	Súdwest-Fryslân	Fryslân
-3523	Oudehaske /
-Aldehaske	8465–8465	De Fryske Marren	Fryslân
-2195	Oudehorne /
-Aldhoarne	8413–8413	Heerenveen	Fryslân
-1681	Oudemirdum /
-Aldemardum	8567–8567	De Fryske Marren	Fryslân
-2917	Oudemolen	9484–9484	Tynaarlo	Drenthe
-2233	Oudeschans	9696–9696	Westerwolde	Groningen
-3478	Oudeschip	9984–9984	Het Hogeland	Groningen
-2188	Oudeschoot /
-Aldskoat	8451–8451	Heerenveen	Fryslân
-Oudewegstervaart /
-Aldeweisterfeart	8457–8457	Heerenveen	Fryslân
-1423	Oudezijl	9691–9691	Oldambt	Groningen
-3313	Oudwoude /
-Aldwâld	9294–9294	Noardeast-Fryslân	Fryslân
-2500	Ouwsterhaule /
-Ousterhaule	8513–8513	De Fryske Marren	Fryslân
-2501	Ouwster-Nijega /
-Ousternijegea	8514–8514	De Fryske Marren	Fryslân
-Over de Dijk	9541–9541	Westerwolde	Groningen
-1354	Overschild	9625–9625	Midden-Groningen	Groningen
-Paardelanden	7925–7925	De Wolden	Drenthe
-Paddepoel	9738–9738	Groningen	Groningen
-Padhuis	7742–7742	Coevorden	Drenthe
-3409	Paesens /
-Peazens	9136–9136	Noardeast-Fryslân	Fryslân
-Pallert	9545–9545	Westerwolde	Groningen
-1176	Papenvoort	9447–9447	Aa en Hunze	Drenthe
-2319	Parrega /
-Parregea	8763–8763	Súdwest-Fryslân	Fryslân
-Pasop	9355–9355	Westerkwartier	Groningen
-2910	Paterswolde	9765–9765	Tynaarlo	Drenthe
-Peebos	9863–9863	Westerkwartier	Groningen
-Peelsehuis /
-1645	Peest	9334–9334	Noordenveld	Drenthe
-1368	Peins	8812–8812	Waadhoeke	Fryslân
-1646	Peize	9321–9321	Noordenveld	Drenthe
-Peizermade	9321–9321	Noordenveld	Drenthe
-Peizerweg	9727–9727	Groningen	Groningen
-Peizerwold	9321–9321	Noordenveld	Drenthe
-1736	Peperga /
-Pepergea	8396–8396	Weststellingwerf	Fryslân
-1818	Pesse	7933–7933	Hoogeveen	Drenthe
-3118	Pesse	7991–7991	Westerveld	Drenthe
-Petersburg	8435–9241	Ooststellingwerf	Fryslân
-2320	Piaam	8756–8756	Súdwest-Fryslân	Fryslân
-Piekezijl /
-Pikesyl	8617–8617	Súdwest-Fryslân	Fryslân
-Pieperij	7924–7924	De Wolden	Drenthe
-3423	Pieterburen	9968–9968	Het Hogeland	Groningen
-1374	Pietersbierum /
-Pitersbierrum	8856–8856	Waadhoeke	Fryslân
-2125	Pieterzijl	9844–9844	Westerkwartier	Groningen
-Pikveld	7742–7742	Coevorden	Drenthe
-2321	Pingjum /
-Penjum	8749–8749	Súdwest-Fryslân	Fryslân
-Plaggenborg	9541–9541	Westerwolde	Groningen
-Polen	9909–9909	Eemsdelta	Groningen
-Polle	8463–8463	De Fryske Marren	Fryslân
-Poppenhuizen /
-Poppenhuzen	8495–8495	Heerenveen	Fryslân
-2533	Poppenwier	9013–9013	Súdwest-Fryslân	Fryslân
-Quatrebras	9254–9254	Tytsjerksteradiel	Fryslân
-3410	Raard	9155–9155	Noardeast-Fryslân	Fryslân
-Raerd	9012–9012	Súdwest-Fryslân	Fryslân
-2534	Raerd	9012–9012	Súdwest-Fryslân	Fryslân
-Ranum	9951–9951	Het Hogeland	Groningen
-2470	Rasquert	9955–9955	Het Hogeland	Groningen
-1764	Ravenswoud /
-Ravenswâld	8427–8427	Ooststellingwerf	Fryslân
-3272	Readtsjerk /
-Roodkerk	9067–9067	Dantumadiel	Fryslân
-2028	Reahûs /
-Roodhuis	8736–8736	Súdwest-Fryslân	Fryslân
-Reeuwijk-Brug /
-Reeuwijkse Brug /
-Reidswal /
-Reidswâl	9123–9123	Noardeast-Fryslân	Fryslân
-3209	Reitsum	9175–9175	Noardeast-Fryslân	Fryslân
-Remswerd	8774–8774	Súdwest-Fryslân	Fryslân
-Renneborg	9541–9541	Westerwolde	Groningen
-Rewert /
-Rewerd	8832–8832	Leeuwarden	Fryslân
-Rhederbrug	9695–9695	Westerwolde	Groningen
-Rhederveld	9699–9699	Westerwolde	Groningen
-2393	Rhee	9486–9486	Assen	Drenthe
-Rheebruggen	7964–7964	De Wolden	Drenthe
-Rheeveld	9415–9415	Midden-Drenthe	Drenthe
-1370	Ried /
-Rie	8811–8811	Waadhoeke	Fryslân
-2029	Rien	8641–8641	Súdwest-Fryslân	Fryslân
-1682	Rijs /
-Riis	8572–8572	De Fryske Marren	Fryslân
-Rijsberkampen /
-Rysberkamp	8392–8392	Weststellingwerf	Fryslân
-Rijsdam	9551–9551	Westerwolde	Groningen
-Rijtseterp /
-Rytseterp	8763–8763	Súdwest-Fryslân	Fryslân
-3270	Rinsumageast /
-Rinsumageest	9105–9105	Dantumadiel	Fryslân
-Ritsumasyl /
-Ritsumazijl	9034–9034	Waadhoeke	Fryslân
-1647	Roden	9301–9302	Noordenveld	Drenthe
-3633	Roderesch	9305–9305	Noordenveld	Drenthe
-1649	Roderwolde	9315–9315	Noordenveld	Drenthe
-Roelage	9561–9561	Westerwolde	Groningen
-1084	Rogat	7949–7949	Meppel	Drenthe
-Rohel /
-Reahel	9284–9284	Achtkarspelen	Fryslân
-2502	Rohel /
-Reahel	8507–8507	De Fryske Marren	Fryslân
-1177	Rolde	9451–9451	Aa en Hunze	Drenthe
-Roodehaan	9723–9723	Groningen	Groningen
-3479	Roodeschool	9983–9983	Het Hogeland	Groningen
-Roodeschuur /
-Reaskuorre	9284–9284	Achtkarspelen	Fryslân
-2535	Roordahuizum /
-Reduzum (?)	9008–9008	Leeuwarden	Fryslân
-Roptazijl /
-Roptasyl	8856–8856	Waadhoeke	Fryslân
-1997	Roswinkel	7895–7895	Emmen	Drenthe
-2503	Rotstergaast /
-Rotstergast	8462–8462	De Fryske Marren	Fryslân
-2504	Rotsterhaule	8463–8463	De Fryske Marren	Fryslân
-3287	Rottevalle /
-Rottefalle	9221–9221	Smallingerland	Fryslân
-2505	Rottum	8461–8461	De Fryske Marren	Fryslân
-3480	Rottum	9998–9998	Het Hogeland	Groningen
-1683	Ruigahuizen /
-Rûgehúzen	8564–8564	De Fryske Marren	Fryslân
-Ruigezand	9885–9885	Westerkwartier	Groningen
-3169	Ruinen	7963–7963	De Wolden	Drenthe
-3119	Ruinen	7991–7991	Westerveld	Drenthe
-Ruinerweide	7963–7963	De Wolden	Drenthe
-3170	Ruinerwold	7961–7961	De Wolden	Drenthe
-Ruischerbrug	9723–9723	Groningen	Groningen
-Ruiten	9619–9619	Midden-Groningen	Groningen
-2445	Ryptsjerk /
-Rijperkerk	9256–9256	Tytsjerksteradiel	Fryslân
-2126	Saaksum	9886–9886	Westerkwartier	Groningen
-2471	Saaxumhuizen	9957–9957	Het Hogeland	Groningen
-Salverd /
-Salvert	8801–8801	Waadhoeke	Fryslân
-Sandebuur	9315–9315	Noordenveld	Drenthe
-2418	Sandfirden /
-Sânfurd	8613–8613	Súdwest-Fryslân	Fryslân
-1021	Sappemeer	9611–9611	Midden-Groningen	Groningen
-2472	Sauwerd	9771–9771	Het Hogeland	Groningen
-Schaapbulten	9937–9937	Eemsdelta	Groningen
-Schaaphok	9624–9624	Midden-Groningen	Groningen
-1369	Schalsum /
-Skalsum	8813–8813	Waadhoeke	Fryslân
-Scharl /
-Skarl	8721–8721	Súdwest-Fryslân	Fryslân
-1355	Scharmer	9616–9616	Midden-Groningen	Groningen
-Scharneburen	8761–8761	Súdwest-Fryslân	Fryslân
-2419	Scharnegoutum /
-Skearnegoutum	8629–8629	Súdwest-Fryslân	Fryslân
-2506	Scharsterbrug /
-Skarsterbrêge	8517–8517	De Fryske Marren	Fryslân
-1893	Scheemda	9679–9679	Oldambt	Groningen
-Scheemdermeer	9681–9681	Oldambt	Groningen
-Scheemderzwaag	9679–9679	Oldambt	Groningen
-Schelfhorst	9765–9765	Tynaarlo	Drenthe
-1737	Scherpenzeel /
-Skerpenseel	8483–8483	Weststellingwerf	Fryslân
-2322	Schettens /
-Skettens	8744–8744	Súdwest-Fryslân	Fryslân
-2428	Schiermonnikoog /
-Skiermûntseach	9166–9166	Schiermonnikoog	Fryslân
-Schieven	9404–9404	Assen	Drenthe
-(De) Schifpot	9893–9893	Westerkwartier	Groningen
-1356	Schildwolde	9626–9626	Midden-Groningen	Groningen
-Schilligeham	9951–9951	Het Hogeland	Groningen
-Schimmelarij	7845–7845	Coevorden	Drenthe
-1178	Schipborg	9469–9469	Aa en Hunze	Drenthe
-1998	Schoonebeek	7761–7761	Emmen	Drenthe
-1179	Schoonloo	9443–9443	Aa en Hunze	Drenthe
-2161	Schoonoord	7848–7848	Coevorden	Drenthe
-Schoterzijl /
-Skoattersyl	8538–8538	De Fryske Marren	Fryslân
-Schottershuizen	7921–7921	De Wolden	Drenthe
-Schouw /
-Skou	8567–8567	De Fryske Marren	Fryslân
-Schouwen	9962–9962	Het Hogeland	Groningen
-3424	Schouwerzijl	9962–9962	Het Hogeland	Groningen
-2323	Schraard /
-Skraard	8746–8746	Súdwest-Fryslân	Fryslân
-Schrapveen	7925–7925	De Wolden	Drenthe
-Schreierswijk	9514–9514	Aa en Hunze	Drenthe
-Schutwijk	7891–7891	Emmen	Drenthe
-2181	Sebaldeburen	9862–9862	Westerkwartier	Groningen
-2620	Seerijp /
-Seeryp	8892–8892	Terschelling	Fryslân
-2295	Sellingen	9551–9551	Westerwolde	Groningen
-Sellingerbeetse	9563–9563	Westerwolde	Groningen
-Selmien	9247–9247	Opsterland	Fryslân
-Selwerd	9738–9738	Groningen	Groningen
-Selwerd	9883–9883	Westerkwartier	Groningen
-1373	Sexbierum /
-Seisbierrum	8855–8855	Waadhoeke	Fryslân
-Siberië	7934–7934	Hoogeveen	Drenthe
-2536	Sibrandabuorren	8647–8647	Súdwest-Fryslân	Fryslân
-Sibrandabuorren	8647–8647	Súdwest-Fryslân	Fryslân
-3274	Sibrandahûs /
-Sijbrandahuis	9106–9106	Dantumadiel	Fryslân
-1357	Siddeburen	9628–9628	Midden-Groningen	Groningen
-3354	Siegerswoude /
-Sigerswâld	9248–9248	Opsterland	Fryslân
-Sigerswâld /
-Siegerswoude	9263–9263	Tytsjerksteradiel	Fryslân
-3331	St.-Annaparochie /
-Sint-Anne	9076–9076	Waadhoeke	Fryslân
-1834	Sint Annen	9796–9796	Groningen	Groningen
-Sint Annerhuisjes	9781–9781	Het Hogeland	Groningen
-3332	St.-Jacobiparochie /
-Sint Jabik	9079–9079	Waadhoeke	Fryslân
-2507	Sint Nicolaasga /
-Sint Nyk	8521–8521	De Fryske Marren	Fryslân
-Sint Vitusholt	9674–9674	Oldambt	Groningen
-2508	Sintjohannesga /
-Sint Jansgea	8464–8464	De Fryske Marren	Fryslân
-Sjungadijk /
-Sjungadyk	8742–8742	Súdwest-Fryslân	Fryslân
-Skillaerd /
-Schillaard	9022–9022	Leeuwarden	Fryslân
-2732	Skingen /
-Schingen	8816–8816	Waadhoeke	Fryslân
-Skrins /
-Schrins	8835–8835	Leeuwarden	Fryslân
-Skûlenboarch /
-Schuilenburg	9261–9261	Tytsjerksteradiel	Fryslân
-Skyldum	8831–8831	Waadhoeke	Fryslân
-Slaperstil	9745–9745	Groningen	Groningen
-2733	Slappeterp	9037–9037	Waadhoeke	Fryslân
-2162	Sleen	7841–7841	Coevorden	Drenthe
-Slegge	9563–9563	Westerwolde	Groningen
-1738	Slijkenburg /
-Slikenboarch	8489–8489	Weststellingwerf	Fryslân
-1358	Slochteren	9621–9621	Midden-Groningen	Groningen
-1684	Sloten /
-Sleat	8556–8556	De Fryske Marren	Fryslân
-Smalbroek	9411–9411	Midden-Drenthe	Drenthe
-Smalbroek	9411–9411	Midden-Drenthe	Drenthe
-Smalbroek	9411–9411	Westerveld	Drenthe
-3288	Smalle Ee /
-Smelle Ie	9214–9214	Smallingerland	Fryslân
-2420	Smallebrugge /
-Smelbrêge	8552–8552	Súdwest-Fryslân	Fryslân
-Smeerling	9591–9591	Stadskanaal	Groningen
-3021	Smilde	9422–9422	Midden-Drenthe	Drenthe
-1200	Snakkerburen /
-Snakkerbuorren	9083–9083	Leeuwarden	Fryslân
-3504	Sneek /
-Snits	8601–8608	Súdwest-Fryslân	Fryslân
-2509	Snikzwaag /
-Sniksweach	8505–8505	De Fryske Marren	Fryslân
-Solwerd	9901–9901	Eemsdelta	Groningen
-1685	Sondel	8565–8565	De Fryske Marren	Fryslân
-1739	Sonnega /
-Sonnegea	8478–8478	Weststellingwerf	Fryslân
-Sopsum	8805–8805	Waadhoeke	Fryslân
-Sorremorre /
-Soarremoarre	8494–8494	Heerenveen	Fryslân
-1740	Spanga	8382–8382	Weststellingwerf	Fryslân
-Spannenburg /
-Spannenburch	8522–8522	De Fryske Marren	Fryslân
-2030	Spannum	8843–8843	Waadhoeke	Fryslân
-Sparjebird /
-Sparjeburd	9241–9241	Opsterland	Fryslân
-Speers /
-Spears	8647–8647	Súdwest-Fryslân	Fryslân
-3022	Spier	9417–9417	Midden-Drenthe	Drenthe
-3120	Spier	7991–7991	Westerveld	Drenthe
-Spijk	9909–9909	Eemsdelta	Groningen
-3241	“Spijk Gn”	9909–9909	Eemsdelta	Groningen
-1180	Spijkerboor	9656–9656	Aa en Hunze	Drenthe
-Spitsbergen	9636–9636	Midden-Groningen	Groningen
-Spitsendijk	8459–8459	Heerenveen	Fryslân
-Sprong /
-Wieuwens	8835–8835	Leeuwarden	Fryslân
-3074	Stadskanaal	9501–9503	Stadskanaal	Groningen
-Stadterij	7903–7903	Hoogeveen	Drenthe
-Stakenborg	9545–9545	Westerwolde	Groningen
-3481	Startenhuizen	9924–9925	Het Hogeland	Groningen
-3452	Startenhuizen	9924–9924	Eemsdelta	Groningen
-1969	Stavoren /
-Starum	8715–8715	Súdwest-Fryslân	Fryslân
-3453	Stedum	9921–9921	Eemsdelta	Groningen
-Steenbergen	7921–7921	De Wolden	Drenthe
-3634	Steenbergen	9307–9307	Noordenveld	Drenthe
-1359	Steendam	9629–9629	Midden-Groningen	Groningen
-Steenvak /
-Stienfek	9131–9131	Noardeast-Fryslân	Fryslân
-Steenwijksmoer	7741–7741	Coevorden	Drenthe
-1741	Steggerda	8395–8395	Weststellingwerf	Fryslân
-2163	Stieltjeskanaal	7756–7756	Coevorden	Drenthe
-Stiem	9133–9133	Noardeast-Fryslân	Fryslân
-3230	Stiens	9051–9051	Leeuwarden	Fryslân
-3482	Stitswerd	9999–9999	Het Hogeland	Groningen
-Stobben	9545–9545	Westerwolde	Groningen
-Stootshorn	9635–9635	Midden-Groningen	Groningen
-Stork	9919–9919	Eemsdelta	Groningen
-Strand	8749–8749	Súdwest-Fryslân	Fryslân
-Streek	9511–9511	Aa en Hunze	Drenthe
-3180	Stroobos /
-Strobos	9871–9872	Achtkarspelen	Fryslân
-Struikberg	7958–7958	De Wolden	Drenthe
-1819	Stuifzand	7934–7934	Hoogeveen	Drenthe
-3023	Stuifzand	7938–7938	Midden-Drenthe	Drenthe
-2453	Sumar /
-Suameer	9262–9262	Tytsjerksteradiel	Fryslân
-Sumarreheide /
-Suameerderheide	9262–9262	Tytsjerksteradiel	Fryslân
-3181	Surhuisterveen /
-Surhústerfean	9231–9231	Achtkarspelen	Fryslân
-3182	Surhuizum /
-Surhuzum	9283–9283	Achtkarspelen	Fryslân
-Surhuizumer Mieden /
-Surhuzumer Mieden	9283–9283	Achtkarspelen	Fryslân
-Suttum	9891–9891	Westerkwartier	Groningen
-2448	Suwâld /
-Suawoude	9265–9265	Tytsjerksteradiel	Fryslân
-Swaenwert	8636–8636	Súdwest-Fryslân	Fryslân
-1204	Swichum	9087–9087	Leeuwarden	Fryslân
-Sytebuorren	9216–9216	Smallingerland	Fryslân
-Sythuizen /
-Sythuzen	8468–8468	De Fryske Marren	Fryslân
-2918	Taarlo	9485–9485	Tynaarlo	Drenthe
-1203	Teerns /
-Tearns	9085–9085	Leeuwarden	Fryslân
-Teijeburen /
-Teyebuorren	9145–9145	Noardeast-Fryslân	Fryslân
-Ten Arlo	7921–7921	De Wolden	Drenthe
-1829	Ten Boer	9791–9791	Groningen	Groningen
-Ten Have	7983–7983	Westerveld	Drenthe
-1830	Ten Post	9792–9792	Groningen	Groningen
-2394	Ter Aard	9487–9487	Assen	Drenthe
-2296	Ter Apel	9561–9561	Westerwolde	Groningen
-2297	Ter Apelkanaal	9563–9563	Westerwolde	Groningen
-Ter Borg	9551–9551	Westerwolde	Groningen
-Ter Haar	9561–9561	Westerwolde	Groningen
-Ter Horst	9411–9411	Midden-Drenthe	Drenthe
-1742	Ter Idzard /
-Teridzert	8476–8476	Weststellingwerf	Fryslân
-Ter Laan	9781–9781	Het Hogeland	Groningen
-Ter Maarsch	9591–9591	Stadskanaal	Groningen
-Ter Walslage	9551–9551	Westerwolde	Groningen
-Ter Wisch	9551–9551	Westerwolde	Groningen
-Ter Wupping	9591–9591	Stadskanaal	Groningen
-2182	Terband /
-Terbant	8449–8449	Heerenveen	Fryslân
-Tergrêft /
-Tergracht	9178–9178	Noardeast-Fryslân	Fryslân
-Tergrêft /
-Tergracht	9178–9178	Tytsjerksteradiel	Fryslân
-Terheijl	9312–9312	Noordenveld	Drenthe
-2537	Terhorne /
-Terherne	8493–8493	De Fryske Marren	Fryslân
-2510	Terkaple	8542–8542	De Fryske Marren	Fryslân
-3242	Termunten	9947–9947	Eemsdelta	Groningen
-3243	Termunterzijl	9948–9948	Eemsdelta	Groningen
-3411	Ternaard	9145–9145	Noardeast-Fryslân	Fryslân
-2511	Teroele	8524–8524	De Fryske Marren	Fryslân
-Tersoal	9014–9014	Súdwest-Fryslân	Fryslân
-2538	Tersoal	9014–9014	Súdwest-Fryslân	Fryslân
-3355	Terwispel	8407–8407	Opsterland	Fryslân
-Terwisscha	8426–8426	Ooststellingwerf	Fryslân
-1832	Thesinge	9797–9797	Groningen	Groningen
-Tibma /
-De Tibben	9131–9131	Noardeast-Fryslân	Fryslân
-Tichelwurk	9051–9051	Leeuwarden	Fryslân
-1820	Tiendeveen	7936–7937	Hoogeveen	Drenthe
-3024	Tiendeveen	7937–7938	Midden-Drenthe	Drenthe
-3356	Tijnje /
-De Tynje	8406–8406	Opsterland	Fryslân
-Tilburen /
-Tilbuorren	9125–9125	Noardeast-Fryslân	Fryslân
-2473	Tinallinge	9954–9954	Het Hogeland	Groningen
-3591	Tirns /
-Turns	8632–8632	Súdwest-Fryslân	Fryslân
-Tjaard	9088–9088	Leeuwarden	Fryslân
-2422	Tjalhuizum /
-Tsjalhuzum	8772–8772	Súdwest-Fryslân	Fryslân
-Tjabbesstreek	9697–9697	Westerwolde	Groningen
-2184	Tjalleberd /
-Tsjalbert	8458–8458	Heerenveen	Fryslân
-Tjamsweer	9901–9901	Eemsdelta	Groningen
-Tjeintgum /
-Tsjeintgum	9022–9022	Leeuwarden	Fryslân
-Tjeppenboer	8842–8842	Waadhoeke	Fryslân
-2512	Tjerkgaast /
-Tsjerkgaast	8522–8522	De Fryske Marren	Fryslân
-2324	Tjerkwerd /
-Tsjerkwert	8765–8765	Súdwest-Fryslân	Fryslân
-1360	Tjuchem	9939–9939	Midden-Groningen	Groningen
-2345	Tolbert	9356–9356	Westerkwartier	Groningen
-3454	Toornwerd	9994–9994	Eemsdelta	Groningen
-Topweer	9865–9865	Westerkwartier	Groningen
-Torenveen	9511–9511	Aa en Hunze	Drenthe
-Tranendal	9678–9678	Oldambt	Groningen
-3314	Triemen /
-De Trieme	9296–9296	Noardeast-Fryslân	Fryslân
-Trijehuzen	8734–8734	Súdwest-Fryslân	Fryslân
-2276	Tripscompagnie	9633–9633	Midden-Groningen	Groningen
-Tripscompagnie	9631–9631	Veendam	Groningen
-Tritzum /
-Tritsum	8804–8804	Waadhoeke	Fryslân
-Tronde	8424–8424	Ooststellingwerf	Fryslân
-Trophorne	8581–8581	De Fryske Marren	Fryslân
-Tsienzerbuorren	9012–9012	Leeuwarden	Fryslân
-Tsjerkebuorren	9021–9021	Súdwest-Fryslân	Fryslân
-Turkeije /
-Tusschenloegen	9636–9636	Midden-Groningen	Groningen
-Tussenklappen	9649–9649	Midden-Groningen	Groningen
-Tweede Dwarsdiep	9515–9515	Aa en Hunze	Drenthe
-Tweehuizen	9909–9909	Eemsdelta	Groningen
-3183	Twijzel /
-Twizel	9286–9286	Achtkarspelen	Fryslân
-3184	Twijzelerheide /
-Twizelerheide	9287–9287	Achtkarspelen	Fryslân
-2919	Tynaarlo	9482–9482	Tynaarlo	Drenthe
-2447	Tytsjerk /
-Tietjerk	9255–9255	Tytsjerksteradiel	Fryslân
-1362	Tzum /
-Tsjom	8804–8804	Waadhoeke	Fryslân
-1377	Tzummarum /
-Tsjummearum	8851–8851	Waadhoeke	Fryslân
-2395	Ubbena	9492–9492	Assen	Drenthe
-3121	Uffelte	7975–7975	Westerveld	Drenthe
-Uilesprong /
-De Ulesprong	8406–8406	Opsterland	Fryslân
-Uiteinde	9905–9905	Eemsdelta	Groningen
-Uiteinde	9216–9216	Smallingerland	Fryslân
-Uiterburen	9636–9636	Midden-Groningen	Groningen
-3483	Uithuizen	9981–9981	Het Hogeland	Groningen
-3484	Uithuizermeeden	9982–9982	Het Hogeland	Groningen
-2423	Uitwellingerga /
-Twellingea	8624–8624	Súdwest-Fryslân	Fryslân
-Uitwierde	9931–9931	Eemsdelta	Groningen
-3425	Ulrum	9971–9971	Het Hogeland	Groningen
-Ulsda	9686–9686	Oldambt	Groningen
-Ungabuurt	8871–8871	Harlingen	Fryslân
-3357	Ureterp /
-Oerterp	9247–9247	Opsterland	Fryslân
-3485	Usquert	9988–9988	Het Hogeland	Groningen
-Valom	9981–9982	Het Hogeland	Groningen
-Valsteeg	7751–7751	Coevorden	Drenthe
-1800	Valthe	7872–7872	Borger-Odoorn	Drenthe
-Valtherblokken	7876–7876	Borger-Odoorn	Drenthe
-1801	Valthermond	7876–7876	Borger-Odoorn	Drenthe
-Valthermussel	7877–7877	Borger-Odoorn	Drenthe
-Veele	9541–9541	Westerwolde	Groningen
-2234	Veelerveen	9566–9566	Westerwolde	Groningen
-1240	Veendam	9641–9646	Veendam	Groningen
-Veendijk	7971–7971	Westerveld	Drenthe
-Veenhof	9461–9461	Aa en Hunze	Drenthe
-Veenhuizen	7751–7751	Coevorden	Drenthe
-Veenhuizen	9635–9635	Midden-Groningen	Groningen
-1651	Veenhuizen	9341–9341	Noordenveld	Drenthe
-Veenhuizen	9591–9591	Stadskanaal	Groningen
-Veenhuizen	7983–7983	Westerveld	Drenthe
-3171	Veeningen	7924–7924	De Wolden	Drenthe
-3315	Veenklooster /
-Feankleaster	9297–9297	Noardeast-Fryslân	Fryslân
-1999	Veenoord	7844–7844	Emmen	Drenthe
-Veerste(r) Veldhuis	9551–9551	Westerwolde	Groningen
-2513	Vegelinsoord /
-Vegelinsoard	8467–8467	De Fryske Marren	Fryslân
-Veldhuizen	7983–7983	Westerveld	Drenthe
-Veldstreek	9354–9354	Westerkwartier	Groningen
-Ven /
-Het /
-Veneburen	8423–8423	Ooststellingwerf	Fryslân
-Venekoten /
-Fenekoaten	8431–8431	Ooststellingwerf	Fryslân
-Vierhuis	8919–8919	Leeuwarden	Fryslân
-Vierhuis /
-Fjouwerhûs	8507–8507	De Fryske Marren	Fryslân
-3426	Vierhuizen	9975–9975	Het Hogeland	Groningen
-Vierhuizen	9909–9909	Eemsdelta	Groningen
-Vierhuizen	8758–8758	Súdwest-Fryslân	Fryslân
-Vierverlaten	9744–9744	Groningen	Groningen
-Vijfhuis /
-Fijfhûs	8774–8774	Súdwest-Fryslân	Fryslân
-Vijfhuizen	9078–9078	Waadhoeke	Fryslân
-Vijfhuizen /
-Fiifhuzen	9145–9145	Noardeast-Fryslân	Fryslân
-1743	Vinkega /
-Finkegea	8393–8393	Weststellingwerf	Fryslân
-Visbuurt /
-Fiskbuorren	9145–9145	Noardeast-Fryslân	Fryslân
-Vissersburen /
-Fiskersbuorren	8611–8611	Súdwest-Fryslân	Fryslân
-2127	Visvliet	9845–9845	Westerkwartier	Groningen
-2298	Vlagtwedde	9541–9541	Westerwolde	Groningen
-Vlagtwedder-Veldhuis	9541–9541	Westerwolde	Groningen
-3122	Vledder	8381–8381	Westerveld	Drenthe
-Vledderhuizen	9591–9591	Stadskanaal	Groningen
-3078	Vledderveen	9585–9585	Stadskanaal	Groningen
-3123	Vledderveen	8385–8385	Westerveld	Drenthe
-Vlieghuis	7742–7742	Coevorden	Drenthe
-3299	Vlieland /
-Flylân	8899–8899	Vlieland	Fryslân
-Voorrijp /
-Foarryp	8857–8857	Harlingen	Fryslân
-Vossebelt	7751–7751	Coevorden	Drenthe
-Vosseberg	9585–9585	Stadskanaal	Groningen
-Vosseburen	8408–8408	Opsterland	Fryslân
-1181	Vredenheim	9445–9445	Aa en Hunze	Drenthe
-2912	Vries	9481–9481	Tynaarlo	Drenthe
-2235	Vriescheloo	9699–9699	Westerwolde	Groningen
-Vrouwbuurtstermolen	9071–9071	Leeuwarden	Fryslân
-3334	Vrouwenparochie /
-Froubuorren	9077–9077	Waadhoeke	Fryslân
-Vuile Riete	7925–7925	De Wolden	Drenthe
-2031	Waaksens /
-Waaxens	8845–8845	Súdwest-Fryslân	Fryslân
-3412	Waaxens	9152–9152	Noardeast-Fryslân	Fryslân
-2165	Wachtum	7754–7754	Coevorden	Drenthe
-Wadwerd	9988–9988	Het Hogeland	Groningen
-3244	Wagenborgen	9945–9945	Eemsdelta	Groningen
-3269	Wâlterswâld /
-Wouterswoude	9113–9113	Dantumadiel	Fryslân
-Wammert	8835–8835	Leeuwarden	Fryslân
-3210	Wânswert /
-Wanswerd	9178–9178	Noardeast-Fryslân	Fryslân
-3124	Wapse	7983–7983	Westerveld	Drenthe
-3125	Wapserveen	8351–8351	Westerveld	Drenthe
-War	8802–8802	Waadhoeke	Fryslân
-3486	Warffum	9989–9989	Het Hogeland	Groningen
-3427	Warfhuizen	9963–9963	Het Hogeland	Groningen
-3316	Warfstermolen /
-Warfstermûne	9852–9852	Noardeast-Fryslân	Fryslân
-2539	Warga /
-Wergea	9005–9005	Leeuwarden	Fryslân
-Warniahuizen	8495–9245	Heerenveen	Fryslân
-1971	Warns	8721–8721	Súdwest-Fryslân	Fryslân
-2540	Warstiens	9004–9004	Leeuwarden	Fryslân
-2541	Wartena /
-Warten	9003–9003	Leeuwarden	Fryslân
-1765	Waskemeer /
-Waskemar	8434–8434	Ooststellingwerf	Fryslân
-3126	Wateren	8438–8438	Westerveld	Drenthe
-1022	Waterhuizen	9609–9609	Midden-Groningen	Groningen
-Weakens	8831–8831	Waadhoeke	Fryslân
-2236	Wedde	9698–9698	Westerwolde	Groningen
-Wedderheide	9698–9698	Westerwolde	Groningen
-Wedderveer	9698–9698	Westerwolde	Groningen
-Weende	9541–9541	Westerwolde	Groningen
-Weerdinge	7814–7814	Emmen	Drenthe
-Weerwille	7961–7961	De Wolden	Drenthe
-3428	Wehe-den Hoorn	9964–9964	Het Hogeland	Groningen
-2032	Weidum	9024–9024	Leeuwarden	Fryslân
-Weijerswold	7742–7742	Coevorden	Drenthe
-Weite	9541–9541	Westerwolde	Groningen
-2000	Weiteveen	7765–7765	Emmen	Drenthe
-Wemmenhove	7921–7921	De Wolden	Drenthe
-Weper /
-De Weper	8431–8431	Ooststellingwerf	Fryslân
-Weperpolder	8431–8431	Ooststellingwerf	Fryslân
-Wessinghuizen	9591–9591	Stadskanaal	Groningen
-Wessingtange	9551–9551	Westerwolde	Groningen
-West aan Zee /
-West Oan See	8881–8881	Terschelling	Fryslân
-1802	Westdorp	9534–9534	Borger-Odoorn	Drenthe
-Westeind	9697–9697	Westerwolde	Groningen
-Westeind	9636–9636	Midden-Groningen	Groningen
-Westeinde	7991–7991	Westerveld	Drenthe
-Westenesch	7814–7814	Emmen	Drenthe
-3025	Westerbork	9431–9431	Midden-Drenthe	Drenthe
-1023	Westerbroek	9608–9608	Midden-Groningen	Groningen
-Westerburen /
-Westerbuorren	9295–9295	Noardeast-Fryslân	Fryslân
-Westerdijkshorn	9781–9781	Het Hogeland	Groningen
-3273	Westerein /
-Zwaagwesteinde	9271–9271	Dantumadiel	Fryslân
-3455	Westeremden	9922–9922	Eemsdelta	Groningen
-3317	Westergeest /
-Westergeast	9295–9295	Noardeast-Fryslân	Fryslân
-Westerhorn	9988–9988	Het Hogeland	Groningen
-Westerklooster	9977–9977	Het Hogeland	Groningen
-1900	Westerlee	9678–9678	Oldambt	Groningen
-3429	Westernieland	9969–9969	Het Hogeland	Groningen
-Westernijtjerk /
-Westernijtsjerk	9073–9073	Noardeast-Fryslân	Fryslân
-Westerse Bos	7761–7761	Emmen	Drenthe
-1652	Westervelde	9337–9337	Noordenveld	Drenthe
-3456	Westerwijtwerd	9993–9993	Eemsdelta	Groningen
-Westerzand	9862–9862	Westerkwartier	Groningen
-2424	Westhem /
-Westhim	8616–8616	Súdwest-Fryslân	Fryslân
-3329	Westhoek	9075–9075	Waadhoeke	Fryslân
-Westlaren	9471–9471	Tynaarlo	Drenthe
-2625	West-Terschelling	8881–8881	Terschelling	Fryslân
-3413	Wetsens /
-Wetzens	9122–9122	Noardeast-Fryslân	Fryslân
-2474	Wetsinge	9773–9773	Het Hogeland	Groningen
-2166	Wezup	7852–7852	Coevorden	Drenthe
-2167	Wezuperbrug	7853–7853	Coevorden	Drenthe
-Wie	9143–9143	Noardeast-Fryslân	Fryslân
-2734	Wier	9043–9043	Waadhoeke	Fryslân
-Wierhuizen	9968–9968	Het Hogeland	Groningen
-Wierren	9219–9219	Smallingerland	Fryslân
-3414	Wierum	9141–9141	Noardeast-Fryslân	Fryslân
-Wierum	9774–9774	Het Hogeland	Groningen
-Wierumerschouw	9833–9833	Westerkwartier	Groningen
-1686	Wijckel /
-Wikel	8563–8563	De Fryske Marren	Fryslân
-Wijgeest /
-Wygeast (?)	9294–9294	Noardeast-Fryslân	Fryslân
-2893	Wijnaldum /
-Winaem	8857–8857	Harlingen	Fryslân
-Wijnjeterpverlaat /
-Weinterpfallaat	9241–9241	Opsterland	Fryslân
-3358	Wijnjewoude /
-Wynjewâld	9241–9241	Opsterland	Fryslân
-3026	Wijster	9418–9418	Midden-Drenthe	Drenthe
-Wildeplaats	9663–9663	Stadskanaal	Groningen
-Wilderhof	9939–9939	Midden-Groningen	Groningen
-1241	Wildervank	9648–9648	Veendam	Groningen
-Wildervanksterdallen	9648–9648	Veendam	Groningen
-3127	Wilhelminaoord	8384–8384	Westerveld	Drenthe
-Wilhelmsoord	7814–7814	Emmen	Drenthe
-Willemstad	9363–9363	Westerkwartier	Groningen
-Willemstad	8426–8426	Ooststellingwerf	Fryslân
-2920	Winde	9495–9495	Tynaarlo	Drenthe
-1836	Winneweer	9793–9793	Groningen	Groningen
-1471	Winschoten	9671–9675	Oldambt	Groningen
-Winschoterhoogebrug	9697–9697	Westerwolde	Groningen
-2033	Winsum	8831–8831	Waadhoeke	Fryslân
-2475	Winsum	9951–9951	Het Hogeland	Groningen
-Wirdum	9917–9917	Eemsdelta	Groningen
-3457	“Wirdum Gn”	9917–9917	Eemsdelta	Groningen
-3545	Wirdum /
-Wurdum	9088–9088	Leeuwarden	Fryslân
-Wirdumerdraai	9917–9917	Eemsdelta	Groningen
-2325	Witmarsum /
-Wytmarsum	8748–8748	Súdwest-Fryslân	Fryslân
-3128	Wittelte	7986–7986	Westerveld	Drenthe
-Witten	9405–9405	Assen	Drenthe
-Witteveen	7963–7963	De Wolden	Drenthe
-3027	Witteveen	9439–9439	Midden-Drenthe	Drenthe
-Wittewierum	9792–9792	Groningen	Groningen
-2034	Wiuwert /
-Wieuwerd	8637–8637	Súdwest-Fryslân	Fryslân
-2035	Wjelsryp /
-Welsrijp	8842–8842	Waadhoeke	Fryslân
-3245	Woldendorp	9946–9946	Eemsdelta	Groningen
-Wolfsbarge	9606–9606	Midden-Groningen	Groningen
-Wollingboermarke	9545–9545	Westerwolde	Groningen
-Wollinghuizen	9541–9541	Westerwolde	Groningen
-2425	Wolsum	8774–8774	Súdwest-Fryslân	Fryslân
-1833	Woltersum	9795–9795	Groningen	Groningen
-1744	Wolvega /
-Wolvegea	8471–8472	Weststellingwerf	Fryslân
-2036	Wommels	8731–8731	Súdwest-Fryslân	Fryslân
-Wonneburen	8757–8757	Súdwest-Fryslân	Fryslân
-2326	Wons /
-Wûns	8747–8747	Súdwest-Fryslân	Fryslân
-1965	Workum /
-Warkum	8711–8711	Súdwest-Fryslân	Fryslân
-1361	Woudbloem	9618–9618	Midden-Groningen	Groningen
-2426	Woudsend /
-Wâldsein	8551–8551	Súdwest-Fryslân	Fryslân
-2442	Wyns /
-Wijns	9091–9091	Tytsjerksteradiel	Fryslân
-1206	Wytgaard /
-Wijtgaard	9089–9089	Leeuwarden	Fryslân
-2921	Yde	9494–9494	Tynaarlo	Drenthe
-Yndyk /
-Indijk	8635–8635	Súdwest-Fryslân	Fryslân
-2427	Ypecolsga /
-Ypekolsgea	8554–8554	Súdwest-Fryslân	Fryslân
-3592	Ysbrechtum	8633–8633	Súdwest-Fryslân	Fryslân
-1803	Zandberg	9564–9564	Borger-Odoorn	Drenthe
-Zandbulten /
-Sânbulten	9298–9298	Noardeast-Fryslân	Fryslân
-Zandburen	9211–9211	Smallingerland	Fryslân
-3487	Zandeweer	9997–9997	Het Hogeland	Groningen
-1745	Zandhuizen /
-Sânhuzen	8389–8389	Weststellingwerf	Fryslân
-2001	Zandpol	7764–7764	Emmen	Drenthe
-2922	Zeegse	9483–9483	Tynaarlo	Drenthe
-3459	Zeerijp	9914–9914	Eemsdelta	Groningen
-2923	Zeijen	9491–9491	Tynaarlo	Drenthe
-2396	Zeijerveen	9489–9489	Assen	Drenthe
-2397	Zeijerveld	9488–9488	Assen	Drenthe
-Zethuis	9824–9824	Westerkwartier	Groningen
-Zevenbuurt	8508–8508	De Fryske Marren	Fryslân
-Zevenhuizen	9997–9997	Het Hogeland	Groningen
-Zevenhuizen	9291–9291	Noardeast-Fryslân	Fryslân
-2346	Zevenhuizen	9354–9354	Westerkwartier	Groningen
-Zevenhuizen	9798–9798	Groningen	Groningen
-Zevenhuizen ?	9064–9064	Tytsjerksteradiel	Fryslân
-3460	Zijldijk	9987–9987	Eemsdelta	Groningen
-Zoerte	7983–7983	Westerveld	Drenthe
-Zomerdijk	9936–9936	Eemsdelta	Groningen
-3129	Zorgvlied	8437–8437	Westerveld	Drenthe
-3430	Zoutkamp	9974–9974	Het Hogeland	Groningen
-2280	Zuidbroek	9636–9636	Midden-Groningen	Groningen
-Zuiderburen	9086–9086	Leeuwarden	Fryslân
-Zuideresch	7875–7875	Borger-Odoorn	Drenthe
-Zuiderkolonie	9663–9663	Pekela	Groningen
-Zuideropgaande	7913–7913	Hoogeveen	Drenthe
-Zuiderveen	9674–9674	Oldambt	Groningen
-Zuidho(o)rn (?) /
-Súdhorn	8424–8424	Ooststellingwerf	Fryslân
-2128	Zuidhorn	9801–9801	Westerkwartier	Groningen
-2925	Zuidlaarderveen	9474–9474	Tynaarlo	Drenthe
-2913	Zuidlaren	9471–9472	Tynaarlo	Drenthe
-3028	Zuidveld	9432–9432	Midden-Drenthe	Drenthe
-Zuidveld	9551–9551	Westerwolde	Groningen
-1653	Zuidvelde	9335–9335	Noordenveld	Drenthe
-Zuidwending	9644–9644	Veendam	Groningen
-2832	Zuidwolde	9785–9785	Het Hogeland	Groningen
-3172	Zuidwolde	7921–7921	De Wolden	Drenthe
-2327	Zurich /
-Surch	8751–8751	Súdwest-Fryslân	Fryslân
-3431	Zuurdijk	9966–9966	Het Hogeland	Groningen
-3318	Zwagerbosch /
-Sweagerbosk	9299–9299	Noardeast-Fryslân	Fryslân
-Zwarte Haan /
-Swarte Haan	9079–9079	Waadhoeke	Fryslân
-2002	Zwartemeer	7894–7894	Emmen	Drenthe
-Zwartschaap	7934–7934	Hoogeveen	Drenthe
-2168	Zweeloo	7851–7851	Coevorden	Drenthe
-1367	Zweins /
-Sweins	8814–8814	Waadhoeke	Fryslân
-3029	Zwiggelte	9433–9433	Midden-Drenthe	Drenthe
-2169	Zwinderen	7864–7864	Coevorden	Drenthe
+1e Exloërmond
+2e Exloërmond
+2e Valthermond
+'t Haantje
+'t Waar
+'t Zandt
+Aalden
+Aalsum 
+Abbega 
+Achlum
+Adorp
+Aduard
+Aegum 
+Akkrum
+Akmarijp 
+Alde Leie 
+Aldeboarn
+Aldtsjerk 
+Allingawier
+Alteveer
+“Alteveer gem Hoogeveen”
+Alteveer
+Alteveer
+Amen
+Anderen
+Anjum 
+Anloo
+Annen
+Annerveenschekanaal
+Ansen
+Ansen
+Appelscha 
+Appingedam
+Arum
+Assen
+Augsbuurt
+Augustinusga 
+Baaiduinen 
+Baard 
+Bad Nieuweschans
+Baflo
+Bakhuizen 
+Bakkeveen 
+Balinge
+Balk
+Balloo
+Ballum
+Bantega 
+Barger-Compascuum
+Bears 
+Bedum
+Beerta
+Beetsterzwaag 
+Beilen
+Bellingwolde
+Benneveld
+Berltsum 
+Bierum
+Bitgum 
+Bitgummole 
+Blauwestad
+Blauwhuis 
+Blesdijke 
+Blessum
+Blije 
+Blijham
+Boazum 
+Boelenslaan 
+Boer
+Boerakker
+Boijl 
+Boksum
+Bolsward 
+Bontebok
+Boornbergum 
+Boornzwaag 
+Borger
+Borgercompagnie
+Borgercompagnie
+Borgsweer
+Bornwird 
+Boschoord
+Bourtange
+Bovensmilde
+Brantgum
+Breezanddijk
+Briltil
+Britsum
+Britswert 
+Broek
+Broekhuizen
+Broeksterwâld 
+Bronneger
+Bronnegerveen
+Bruntinge
+Buinen
+Buinerveen
+Buitenpost 
+Bunne
+Burdaard 
+Buren 
+Burgum 
+Burgwerd 
+Burum
+Coevorden
+Cornwerd 
+Dalen
+Dalerpeel
+Dalerveen
+Damwâld 
+Darp
+De Blesse
+De Falom 
+De Groeve
+De Hoeve
+De Kiel
+De Knipe
+De Punt
+De Schiphorst
+De Tike
+De Veenhoop 
+de Wijk
+De Wilgen 
+De Wilp
+Dearsum
+Dedgum 
+Deinum
+Delfstrahuizen
+Delfzijl
+Den Andel
+Den Ham
+Den Horn
+Deurze
+Diever
+Dieverbrug
+Dijken 
+Diphoorn
+Doezum
+Dokkum
+Doldersum
+Donderen
+Dongjum 
+Doniaga 
+Donkerbroek
+Drachten
+Drachten-Azeven
+Drachtstercompagnie 
+Drieborg
+Driezum 
+Drijber
+Drogeham 
+Drogteropslagen
+Dronryp 
+Drouwen
+Drouwenermond
+Drouwenerveen
+Dwingeloo
+Earnewâld 
+Easterein 
+Easterlittens 
+Eastermar 
+Easterwierrum 
+Echten
+Echten 
+Echtenerbrug 
+Ee 
+Eelde
+Eelderwolde
+Eemshaven
+Een
+Eenrum
+Eenum
+Een-West
+Ees
+Eesergroen
+Eeserveen
+Eesterga 
+Eext
+Eexterveen
+Eexterveenschekanaal
+Eexterzandvoort
+Ekehaar
+Elahuizen 
+Eldersloo
+Eleveld
+Elim
+Ellertshaar
+Elp
+Elsloo 
+Emmen
+Emmer-Compascuum
+Engwierum 
+Enumatil
+Eppenhuizen
+Erica
+Erm
+Eursinge
+Eursinge
+Exloërveen
+Exloo
+Exmorra 
+Ezinge
+Farmsum
+Feanwâlden 
+Feerwerd
+Feinsum 
+Ferwert 
+Ferwoude 
+Finsterwolde
+Firdgum 
+Fluitenberg
+Fochteloo 
+Follega 
+Folsgare 
+Formerum 
+Foudgum
+Foxhol
+Foxwolde
+Franeker 
+Frederiksoord
+Friens
+Frieschepalen 
+Froombosch
+Gaast
+Gaastmeer 
+Garmerwolde
+Garminge
+Garnwerd
+Garrelsweer
+Garsthuizen
+Garyp 
+Gasselte
+Gasselternijveen
+Gasselternijveenschemond
+Gasteren
+Gauw 
+Geelbroek
+Gees
+Geesbrug
+Geeuwenbrug
+Gerkesklooster 
+Gersloot 
+Gieten
+Gieterveen
+Ginnum 
+Glimmen
+Godlinze
+Goënga 
+Goëngahuizen 
+Goingarijp 
+Gorredijk 
+Goutum
+Greonterp
+Grijpskerk
+Grolloo
+Groningen
+Grootegast
+Grouw 
+Gytsjerk 
+Hallum
+Hantum
+Hantumeruitburen 
+Hantumhuizen 
+Haren
+Harich
+Harkema 
+Harkstede
+“Harkstede GN”
+Harlingen 
+Hartwerd 
+Haskerdijken 
+Haskerhorne 
+Haule 
+Haulerwijk 
+Havelte
+Havelterberg
+Hee
+Heeg 
+Heerenveen 
+Hegebeintum 
+Heiligerlee
+Hellum
+Hemelum 
+Hempens 
+Hemrik 
+Herbaijum 
+Hiaure 
+Hichtum
+Hidaard
+Hieslum
+Hijken
+Hilaard 
+Hindeloopen 
+Hinnaard 
+Hitzum 
+Hollandscheveld
+Hollum
+Holsloot
+Holwerd 
+Holwierde
+Hommerts 
+Hoogersmilde
+Hoogersmilde
+Hoogeveen
+Hoogezand
+Hooghalen
+Hoorn 
+Hoornsterzwaag 
+Hornhuizen
+Houtigehage 
+Houwerzijl
+Huis ter Heide
+Huizinge
+Húns 
+Hurdegaryp 
+Hyum 
+Idaard 
+Idsegahuizum 
+Idskenhuizen 
+Idzega 
+Iens 
+IJlst 
+Indijk 
+Ingelum 
+Irnsum 
+Itens
+It Heidenskip
+Jannum 
+Jellum
+Jelsum
+Jislum
+Jistrum 
+Jonkerslân 
+Jonkersvaart
+Jorwert 
+Joure 
+Jouswier
+Jubbega 
+Jutrijp 
+Kaard 
+Kantens
+Katlijk 
+Kerkenveld
+Kiel-Windeweer
+Kimswerd 
+Kinnum 
+Klazienaveen
+Klazienaveen-Noord
+Klijndijk
+Klooster Lidlum 
+Kloosterburen
+Koarnjum 
+Koekange
+Kolderwolde 
+Kolham
+Kollum
+Kollumerpomp 
+Kollumerzwaag 
+Kommerzijl
+Kootstertille 
+Kornhorn
+Kornwerderzand
+Kortehemmen 
+Koudum 
+Koufurderrige 
+Krewerd
+Kropswolde
+Kûbaard
+Lageland GN
+Lageland
+“Lageland GN”
+Landerum 
+Langedijke(n) 
+Langelille 
+Langelo
+Langezwaag 
+Langweer 
+Lauwersoog
+Lauwerzijl
+Leek
+Leens
+Leermens
+Leeuwarden 
+Legemeer 
+Lekkum
+Lellens
+Lemmer 
+Leons 
+Lettelbert
+Leutingewolde
+Lichtaard
+Lies
+Lieveren
+Linde
+Lioessens 
+Lippenhuizen 
+Loënga 
+Lollum
+Longerhouw 
+Loon
+Loppersum
+Losdorp
+Lucaswolde
+Luddeweer
+Luinjeberd 
+Lutjegast
+Luxwoude 
+Lytsewierrum 
+Makkinga 
+Makkum
+Mantgum
+Mantinge
+Marrum
+Marsum 
+Marum
+Marwijksoord
+Matsloot
+Meeden
+Meedhuizen
+Meerstad
+Menaam 
+Mensingeweer
+Meppel
+Meppen
+Metslawier 
+Middelstum
+Midlaren
+Midlum 
+Midsland 
+Midwolda
+Midwolde
+Miedum
+Mildam 
+Minnertsga 
+Mirns 
+Moddergat
+Molkwerum 
+Morra 
+Mûnein 
+Munnekeburen 
+Munnekezijl 
+Muntendam
+Mussel
+Musselkanaal
+Nes
+Nes
+Nes
+Niawier 
+Niebert
+Niehove
+Niekerk
+Niekerk
+Nietap
+Nieuw Annerveen
+Nieuw-Balinge
+Nieuw Beerta
+Nieuw-Amsterdam
+Nieuw-Buinen
+Nieuw-Dordrecht
+Nieuwe Pekela
+Nieuwebrug 
+Nieuwediep
+Nieuwehorne 
+Nieuweroord
+Nieuweroord
+Nieuweschoot 
+Nieuwlande
+“Nieuwlande Coevorden”
+Nieuwolda
+Nieuw-Roden
+Nieuw Scheemda
+Nieuw-Schoonebeek
+Nieuw-Weerdinge
+Niezijl
+Nij Altoenae
+Nij Beets
+Nijeberkoop 
+Nijega 
+Nijehaske
+Nijeholtpade 
+Nijeholtwolde 
+Nijelamer 
+Nijemirdum 
+Nijensleek
+Nijetrijne 
+Nijeveen
+Nijhuizum 
+Nijland 
+Nijlande
+Noardburgum 
+Nooitgedacht
+Noordbroek
+Noordhorn
+Noordlaren
+Noordscheschut
+Noord-Sleen
+Noordwijk
+Noordwolde
+Noordwolde 
+Norg
+Nuis
+Odoorn
+Odoorn
+Oentsjerk 
+Offingawier 
+Oldeberkoop 
+Oldeholtpade 
+Oldeholtwolde 
+Oldehove
+Oldekerk
+Oldelamer 
+Oldenzijl
+Oldeouwer 
+Oldetrijne 
+Olterterp
+Onderdendam
+Onnen
+Onstwedde
+Oosterbierum 
+Oosterend 
+Oosterhesselen
+Oosternieland
+Oosternijkerk 
+Oosterstreek
+Oosterwijtwerd
+Oosterwolde 
+Oosterzee 
+Oosthem 
+Oostrum 
+Oostwold
+Oostwold
+Opeinde 
+Opende
+Oppenhuizen 
+Oranje
+Oranjewoud 
+Orvelte
+Oud Annerveen
+Oude Bildtzijl 
+Oude Pekela
+Oude Willem
+Oudega 
+Oudega 
+Oudega 
+Oudehaske 
+Oudehorne 
+Oudemirdum 
+Oudemolen
+Oudeschans
+Oudeschip
+Oudeschoot 
+Oudezijl
+Oudwoude 
+Ouwsterhaule 
+Ouwster-Nijega 
+Overschild
+Paesens 
+Papenvoort
+Parrega 
+Paterswolde
+Peest
+Peins
+Peize
+Peperga 
+Pesse
+Pesse
+Piaam
+Pieterburen
+Pietersbierum 
+Pieterzijl
+Pingjum 
+Poppenwier
+Raard
+Raerd
+Rasquert
+Ravenswoud 
+Readtsjerk 
+Reahûs 
+Reitsum
+Rhee
+Ried 
+Rien
+Rijs 
+Rinsumageast 
+Roden
+Roderesch
+Roderwolde
+Rogat
+Rohel 
+Rolde
+Roodeschool
+Roordahuizum 
+Roswinkel
+Rotstergaast 
+Rotsterhaule
+Rottevalle 
+Rottum
+Rottum
+Ruigahuizen 
+Ruinen
+Ruinen
+Ruinerwold
+Ryptsjerk 
+Saaksum
+Saaxumhuizen
+Sandfirden 
+Sappemeer
+Sauwerd
+Schalsum 
+Scharmer
+Scharnegoutum 
+Scharsterbrug 
+Scheemda
+Scherpenzeel 
+Schettens 
+Schiermonnikoog 
+Schildwolde
+Schipborg
+Schoonebeek
+Schoonloo
+Schoonoord
+Schouwerzijl
+Schraard 
+Sebaldeburen
+Seerijp 
+Sellingen
+Sexbierum 
+Sibrandabuorren
+Sibrandahûs 
+Siddeburen
+Siegerswoude 
+St.-Annaparochie 
+Sint Annen
+St.-Jacobiparochie 
+Sint Nicolaasga 
+Sintjohannesga 
+Skingen 
+Slappeterp
+Sleen
+Slijkenburg 
+Slochteren
+Sloten 
+Smalle Ee 
+Smallebrugge 
+Smilde
+Snakkerburen 
+Sneek 
+Snikzwaag 
+Sondel
+Sonnega 
+Spanga
+Spannum
+Spier
+Spier
+“Spijk Gn”
+Spijkerboor
+Stadskanaal
+Startenhuizen
+Startenhuizen
+Stavoren 
+Stedum
+Steenbergen
+Steendam
+Steggerda
+Stieltjeskanaal
+Stiens
+Stitswerd
+Stroobos 
+Stuifzand
+Stuifzand
+Sumar 
+Surhuisterveen 
+Surhuizum 
+Suwâld 
+Swichum
+Taarlo
+Teerns 
+Ten Boer
+Ten Post
+Ter Aard
+Ter Apel
+Ter Apelkanaal
+Ter Idzard 
+Terband 
+Terhorne 
+Terkaple
+Termunten
+Termunterzijl
+Ternaard
+Teroele
+Tersoal
+Terwispel
+Thesinge
+Tiendeveen
+Tiendeveen
+Tijnje 
+Tinallinge
+Tirns 
+Tjalhuizum 
+Tjalleberd 
+Tjerkgaast 
+Tjerkwerd 
+Tjuchem
+Tolbert
+Toornwerd
+Triemen 
+Tripscompagnie
+Twijzel 
+Twijzelerheide 
+Tynaarlo
+Tytsjerk 
+Tzum 
+Tzummarum 
+Ubbena
+Uffelte
+Uithuizen
+Uithuizermeeden
+Uitwellingerga 
+Ulrum
+Ureterp 
+Usquert
+Valthe
+Valthermond
+Veelerveen
+Veendam
+Veenhuizen
+Veeningen
+Veenklooster 
+Veenoord
+Vegelinsoord 
+Vierhuizen
+Vinkega 
+Visvliet
+Vlagtwedde
+Vledder
+Vledderveen
+Vledderveen
+Vlieland 
+Vredenheim
+Vries
+Vriescheloo
+Vrouwenparochie 
+Waaksens 
+Waaxens
+Wachtum
+Wagenborgen
+Wâlterswâld 
+Wânswert 
+Wapse
+Wapserveen
+Warffum
+Warfhuizen
+Warfstermolen 
+Warga 
+Warns
+Warstiens
+Wartena 
+Waskemeer 
+Wateren
+Waterhuizen
+Wedde
+Wehe-den Hoorn
+Weidum
+Weiteveen
+Westdorp
+Westerbork
+Westerbroek
+Westerein 
+Westeremden
+Westergeest 
+Westerlee
+Westernieland
+Westervelde
+Westerwijtwerd
+Westhem 
+Westhoek
+West-Terschelling
+Wetsens 
+Wetsinge
+Wezup
+Wezuperbrug
+Wier
+Wierum
+Wijckel 
+Wijnaldum 
+Wijnjewoude 
+Wijster
+Wildervank
+Wilhelminaoord
+Winde
+Winneweer
+Winschoten
+Winsum
+Winsum
+“Wirdum Gn”
+Wirdum 
+Witmarsum 
+Wittelte
+Witteveen
+Wiuwert 
+Wjelsryp 
+Woldendorp
+Wolsum
+Woltersum
+Wolvega 
+Wommels
+Wons 
+Workum 
+Woudbloem
+Woudsend 
+Wyns 
+Wytgaard 
+Yde
+Ypecolsga 
+Ysbrechtum
+Zandberg
+Zandeweer
+Zandhuizen 
+Zandpol
+Zeegse
+Zeerijp
+Zeijen
+Zeijerveen
+Zeijerveld
+Zevenhuizen
+Zijldijk
+Zorgvlied
+Zoutkamp
+Zuidbroek
+Zuidhorn
+Zuidlaarderveen
+Zuidlaren
+Zuidveld
+Zuidvelde
+Zuidwolde
+Zuidwolde
+Zurich 
+Zuurdijk
+Zwagerbosch 
+Zwartemeer
+Zweeloo
+Zweins 
+Zwiggelte
+Zwinderen
