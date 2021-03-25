@@ -47,3 +47,5 @@ All zipcodes in the Netherlands have 4 numbers.
 Wat mogelijk een goed idee is voor de toekomst, voor het verdere onderzoek is om te kijken naar de provincies invidueel dan alleen maar het verschil tussen noord en zuid, je zou dan in principe elke provincie apart kunnen doen wat nog wat accurater is dan alleen het verschil tussen noord en zuid.
 
 De plaatslijst voor zowel noord als zuid is nu ook klaar, dus nu moet ik die grote python code maken die uitzoekt of een tweet blij of niet blij is. Daarnaast moet ik dan kijken waar dat weg kan komen, ik ga eerst de plek gebruiken en dan hoop ik dat dat genoeg is.
+
+Ik denk dat het ook wel cool is dat je op het eind kunt laten zien hoeveel  procent blij is van de tweets en hoeveel procent van de tweets boos is of iets in die richting.
