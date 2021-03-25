@@ -1,595 +1,2277 @@
 's Gravenmoer
+'s-Gravenmoerse Vaart
 's-Gravenpolder
 's-Heer Abtskerke
 's-Heer Arendskerke
 's-Heer Hendrikskinderen
 's-Heerenhoek
 's-Hertogenbosch
+'t Coll
+'t Eind
+'t Haantje
+'t Heeske
+'t Herselt
+'t Hoekje
+'t Hoekske
+'t Hof
+'t Jagertje
+'t Leuken
+'t Marktje
+'t Rooth
+'t Ven (?)
+'t Vlaandertje
+'t Winkel
+'t Zand
+'t Zand
+'t Zand
 Aagtekerke
+Aalbeek
+Aaldonk
+Aalst
+Aan de Berg
+Aan de Berg
+Aan de Bergen
+Geulle aan de Maas
+Aan de Popelaar
+Aan de Rijksweg
+Aan de School
+Aan Reijans
+Aanschot
 Aardenburg
+Aarle
 Aarle-Rixtel
+Aasterberg
+Abbekinderen
+Abcoven
+Absdale
+Abshoven
+Acht
+Achter het Klooster
+Achterbosch
+Achterbosch
+Achterbroek
+Achterdijk
+Achtereind
+Achterste Brug
+Achterste Diesdonk
+Achterste Heide
+Achterste Heikant
+Achterste Hermalen
+Achterste Rith
 Achtmaal
+Afferden
 “Afferden L.”
+Aijen
+Akker
+Akkerput
 Almkerk
 Alphen
+Alphen-Oosterwijk
+Altweert
+Altweerterheide
+Alvershool
 America
 Amstenrade
 Andel
+Anna Jacobapolder
+Annendaal
+Anneville
 Arcen
+Arendnest
+Arensgenhout
 Arnemuiden
+Asbroek
+Asenray
+Asselt
 Asten
 Axel
+Baakhoven
+Baaks
+Baalhoek
 Baarland
 Baarle-Nassau
 Baarlo
+Baarschot
+Baarschot
+Baarschot
+Baarsdorp
+Baarstraat
 Babyloniënbroek
 Baexem
 Bakel
+Bakelsebrug
+Bakendorp
+Bakertand
+Bakkersdam
+Balhofstede
+Balleman
 Baneheide
 Banholt
+Bankert
+Barlaque
+Barrier
+Bath
 Bavel
 Bavel AC
+Bedaf
 Beegden
 Beek
+Beek
 Beek en Donk
+Beekheuvel
+Beekkant
+Beemdkant
+Beers
 “Beers NB”
+Beertsenhoven
 Beesel
+Behelp
+Bekelaar
+Beldert
 Belfeld
+Belgenhoek
+Belgeren
+Belvert
 Bemelen
+Bemmer
+Benedeneind
+Benthem
+Benzenrade
+Berenbroek
+Berg
+Berg
+Berg
+Berg
+Berg (?)
 Berg en Terblijt
 Bergeijk
+Bergen
 “Bergen L”
 Bergen op Zoom
+Bergenhuizen
+Bergenshuizen
 Berghem
+Berghem
+Bergsche Heide
+Berik
 Beringe
+Berkeind
+Berkeindje
+Berkelaar
 Berkel-Enschot
+Berkhoek
+Berkhoek
+Berkt
+Berkt
 Berlicum
+Besselaar
 Best
 Beugen
+Beugt
+Beukelaar
 Beutenaken
 Biervliet
 Biervliet
+Biesstraat
+Biesthoek
 Biest-Houthakker
+Biestraat
+Biezelinge
+Biezen
+Biezenheuvel
 Biezenmortel
 Biggekerke
+Bijsterveld
+Billinghuizen
+Bilt
 Bingelrade
+Binnen-Moerdijk
+Bisselt
+Bissen
 Bladel
+Blauwe Sluis
+Blauwe Sluis
+Blauwenhoek
+Blauwewijk
+Bleijenbeek
+Bleijs
+Blenkert
+Blerick
 Blitterswijck
 Bocholtz
+Bocholtzerheide
+Boddenbroek
+Boeiink
 Boekel
+Boekend
+Boerdonk
+Boerengat
+Boerenhol
+Bokhoven
+Boksheide
+Bokt
+Bolberg
+Bolberg
+Bolenberg
+Bolst
+Bommerig
+Bong
+Bong
+Boomen
+Boompjesdijk
+Boord
+Borgharen
+Borkel
 Born
+Borne
+Borneo
 Borssele
+Borteldonk
+Op den Bosch
+Bosch
+Boscheind
+Boschhoven
+Boschhoven
+Boschkens
+Boshoven
+Boshoven
+Boshoven
+Boshuizen
+Boskant
+Boslust
 Bosschenhoofd
+Bosschenhuizen
+Bosscherheide
+Bosserstraat
+Bosven
+Boterwijk
+Botshoofd
+Bouchauterhaven
+Boudewijnskerke
+Boukoul
+Boveneind
+Bovensluis
+Bovenste Huis (?)
 Boxmeer
 Boxtel
+Braakhoek
+Braambos(ch) (?)
+Brabander
+Brakel
+Brand
+Brandemolen
+Brandt
 Breda
+Breedschot
+Breehees
+Breemortel
+Brem
+Brembosch
 Breskens
+Breugel
+Breyvin
+Brigdamme
+Brijdorpe
+Broek
+Broek
+Broek
+Broek
+Broek
+(Den) Broek (?)
+Broekeind
+Broekenseind
+Broekhoven
+Broekhoven
 Broekhuizen
 Broekhuizenvorst
+Broekkant
+Broekkant
+Broekkant
+Broekkant
+Broekzijde
+Brommelen
+Brommelen
 Brouwershaven
+Bruggen
+Bruggerhuizen
 Bruinisse
+Bruisterbosch
+Brumhold
 Brunssum
 Buchten
 Budel
 Budel-Dorplein
 Budel-Schoot
 Buggenum
+Bulkemsbroek
+Bulkenaar
 Bunde
+Burgh
 Burgh-Haamstede
+Burghsluis
+Burgt
+Bus
+Bus
+Bussel
+Bussereind
+Buttinge
+Buurtje
 Cadier en Keer
 Cadzand
+Cadzand-Bad
+Calfven
+Californië
+Caluna
+Camerig
+Capelle
+Cartils
 Castelre
+Castelré
 Castenray
 Casteren
+Castert
+Catsop
 Chaam
+Chaamdijk
 Clinge
 Colijnsplaat
+Colmont
+Cottessen
+Cauwelaer (?)
+Cranendonck
+Crapoel
+Craubeek
+Crèvecoeur
+Crixhoek
 Cromvoirt
+Croy
 Cuijk
+Dal
+Daland
+Dalem
+Dam
+Daniken
+Dassemus
+De Aa
+De Baan
+De Beek
+De Berg
+De Berg
+De Berk
+De Berken
+De Biezen
+De Boberden
+De Bocht
+De Boer
+De Bolt
+De Buis
+De Bus
+De Bus
+De Dellen
+De Dood
+De Druif
+De Elft
+De Gagel
+De Groe
 De Heen
+De Hees
+De Hees
+De Heiberg
+De Heide
+De Heuvel
+De Hoef
+De Hoef
+De Hoef
+De Hoef
+De Hoef
+De Hoek
+De Hoeven
+De Hogert
+De Horck
+De Horst
+De Hut
+De Hutten
+De Kapel
+De Kempkens
+De Kievit
+De Knol
+De Kraan
+Krosselt (?)
+De Laan
+(De) Laren (?)
+De Lent
+De Logt
+De Loo
+De Loofaert
+De Looi
 De Moer
 De Mortel
+De Muis
+De Munte
+De Nachtegaal
+De Nieuwe Hoeven
+De Overval
+De Pan
+De Plaats
+De Posthoorn
+De Rand
+De Ratte
+De Rijtjes
 De Rips
+De Rotting
+De Rund
+De Schietbaan
+De Sluis
+De Steegh
+De Sterre
+(De) Val (?)
+(De ?) Vleut
+De Voorstad
+De Voort
+Voort (?)
+De Vorst
+De Vorst
+De Weerd
+De Weijer
+De Wielse Hoeven
+De Wolfsputten
+De Zak
+De Zandput
+Deelse Kampen
+Deelshurk
+Deense Hoek
+Dekeshorst
 Demen
+Den Berg
+(Den) Broek (?)
 Den Dungen
+Den Hoek
 Den Hout
+Den Opslag
 Deurne
 Deursen-Dennenburg
+Deuteren
 Dieden
+Diekendaal
+Diepenbroek
+Diependal
+Dieskant
 Diessen
+Dieteren
+Dijk
+Dijk
+Dijk
+Dijk
+Dijkerstraat
+Dijkhuisjes
+Dijkwel
 Dinteloord
+Dintelsas
+Dinther
+Dintherse Hoek
+Dishoek
+Distelberg
+Diunt
 Doenrade
 Doeveren
+Dolberg
 Domburg
+Dommelen
+Dommelsvoort
 Dongen
+Donk
+Donk
+Donk
+Donkersvoort
+Donzel
+Doonheide
+Doornhoek
+Doornhoek
+Dorshout
 Dorst
+Douvergenhout
+Draaibrug
 Dreischor
+Drie Hoefijzers
+Drie Hoefijzers
+Driehoek
+Driehoek
+Driehoek
+Driehoek
+Driehoek
+Driehuis
+Driehuizen
+Driehuizen
+Driehuizen
+Driehuizen
+Dries
+Drieschouwen
+Driewegen
 Driewegen
 Drimmelen
 Drongelen
+Druisdijk
 Drunen
+Dubbroek
+Duifhuis
+Duifhuis
+Duiksehoef
+Duivenhoek
 Duizel
+Duizend Morgen
+Dun
 Dussen
+Duurendseind
 Echt
+Echterbosch
 Eckelrade
 Eede
+Eeneind
+Eerde
 Eersel
 Eethen
+Effen
 Egchel
+Egchelheide
+Egypte
 Eijsden
+Eikberg
+Eikelenbosch
+Eikelenbosch
+Eikenheuvel
+Eiland
+Eiland
+Eiland
+Eind
+Eind
+Eind
+Eind
+Eind van Den Hout
+Einde
+Eindewege
 Eindhoven
+Eindje
 Einighausen
+Elde
 Elkenrade
+Elkerzee
 Ell
 Ellemeet
+Ellerhei
 Ellewoutsdijk
 Elsendorp
 Elshout
+Elshout
 Elsloo
+Elst
+Elsteren
+Elzet
+Emmaberg
+Emmadorp
+Empel
+Endepoel
+Eng
+Engelen
+Engwegen
 Epen
+Eperheide
 Erp
 Esbeek
 Esch
 Escharen
+Esdonk
+Esp
+Etenaken
+Etsberg
 Etten-Leur
+Etzenrade
+Euvelwegen
+Euverem
+Evenheuvel
+Everland
+Everlo
+Eversdijk
+Everse
 Evertsoord
+Ewinkel
 Eygelshoven
 Eys
+Eyserheide
 Fijnaart
+Fokkershoek
+Franse Hoef (?)
+Fromberg
+Gaete
 Galder
 Gapinge
 Gassel
 Gastel
+Gastelsveer
+Gasthuis
+Gawege
+Gebergte
+Gebroek
+Gebroek
+Geeneind
+Geersbroek
 Geersdijk
 Geertruidenberg
 Geffen
 Geijsteren
 Geldrop
+Geldtienden
 Geleen
+Geloo
+Gement
 Gemert
 Gemonde
 Genderen
+Gendijk
+Geneijgen
+Geneneind
+Gening
 Gennep
+Genoenhuis
+Genooi
+Gerheggen
+Gerwen
+Geulhem
 Geulle
+Gever
+Geverik
+Gewande
+Giersbergen
 Giessen
+Gijzel
+Gijzenrooi
 Gilze
+Ginderdoor
+Ginderdoor
 Goes
 Goirle
+Goor
+Gorpeind
 Graauw
+Gracht
+Gracht Burggraaf
+Graetheide
 Grashoek
+Graspeel
+Graszode
 Grathem
 Grave
+Grazen
 Grevenbicht
 Griendtsveen
+Griete
 Grijpskerke
+Grijzegrubben
 Groede
+Groenendijk
+Groenendijk
+Groenewoud
 Groeningen
+Groenstraat
+Groeze
 Gronsveld
+Groot Bruggen
+Groot Genhout
+Groot Haasdal (?)
+Groot Loo
+Groot-Abeele
+Groot-Bedaf
+Groote Bottel
+Groote Hoeven
+Groote Horst
+Groot-Valkenisse
+Groot-Welsden
+Grote Voort
+Grotel
 Grubbenvorst
 Gulpen
+Gun
 Guttecoven
+Haag
+Haamstede
+Haanwijk
 Haaren
 Haarsteeg
+Haart
+Haasdal (?)
 Haelen
+Haelensche Broek
 Haghorst
+Haiink
+Hal
+Halder
 Haler
+Halfeind
+Halfmijl
 Halsteren
+Halte
+Ham
+Ham
 Handel
+Hanenberg
+Hank
 Hank
 Hansweert
 Hapert
 Haps
 Haren
+Haring
+Harles
+Hasjesstraat
+Hasselt
+Hasselterheide
+Havelt
+Hazelaar
+Hazelberg
+Hazeldonk
+Hazenhurk
+Hazennest
+Hedel
 Hedikhuizen
+Heek
 Heel
+Heensche Molen
+Heereind
+Heerendonk
 Heerle
 Heerlen
+Heers
+Heerstaaien
+Heerstraat
+Heesakker
 Heesbeen
+Heesboom
 Heesch
+Heeseind
+Heeswijk
 Heeswijk-Dinther
 Heeze
+Heezerenbosch
 Hegelsom
+Hegge
+Hei
+Hei
+Hei
+Heiakker
 Heibloem
 Heide
+Heide
+Heide
+Heide
+Heide
+Heide
+Heiderschoor
+Heidveld
+Heieind
+Heieind
+Heieind
+Heiereind
+Heierhoeve
+Heihoefke
+Heihoek
+Heijbeek
 Heijen
 Heijenrath
 Heijningen
 Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikant
+Heikantse Hoeve
+Heiligeboom
+Heille
+Heimolen
+Heimolen
 Heinkenszand
+Heioord
+Hei-Oostenrijk
+Heische Wal
+Heisterbrug
+Heistraat
+Heistraat
+Heitrak
+Helbroek
 Helden
+Heldensedijk
 Helenaveen
+Helkant
+Helle
+Helle
+Hellebroek
+Hellegat
+Helleneind
+Helling
 Helmond
 Helvoirt
+Helwijk
+Hengeland
 Hengstdijk
+Hengstheuvel
 Herkenbosch
+Herkenrade
+Hermalen
 Herpen
 Herpt
+Hersel
+Hersend
+Hert
 Herten
+Hespelaar
+Het Bosch
+Het Broek
+Het Goordonk
+Het Heike
+Het Hoekske
+Het Kustlicht
+Het Laar
+Het Oosteind
+Het Oudeland
+Het Oudeland
+Het Sas
+'t Ven (?)
+Het Vonderen
+Vorst
+Het Wild
+Heugde
 Heukelom
+Heukelom
+Heult
 Heusden
 Heusden
+Heuvel
+Heuvel
+Heuvel
+Heuvelberg
+Heuvelstraat
+Heuveltje
 Heythuysen
+Hezelaar
+Hezelaar
+Hilakker
+Hild
+Hill
+Hilleshagen
 Hilvarenbeek
+Hingen
+Hintham
+Ho(o)gebiezen (?)
+Hobbelrade
 Hoedekenskerke
+Hoefkens
 Hoek
+Hoek
+Hoek
+Hoek
+Hoek
+Hoek van de Dijk
+Hoekdries
+Hoekeinde
+Hoekske
 Hoensbroek
+Hoeve
+Hoeve
 Hoeven
+Hoeven
+Hoeven
+Hoeven
+Hoeves
+Hoevestein
+Hof
+Höfke
+Hollander
+Hollandsdiep
+Holset
+Holst
 Holthees
 Holtum
+Homberg
+Hommelse Hoeven
+Hommert
+Hommert
+Hondseind
+Hondsrug
+Honthem
 Hoofdplaat
+Hoog Spul
+Hoog-Caestert
+Hoogcasteren
+Hoogcruts
+Hooge Aard
+Hooge Berkt
+Hooge Heide
 Hooge Mierde
+Hooge Wijst
 Hooge Zwaluwe
+Hoogedijk
+Hoogeind
+Hoogeind
+Hoogeind
+Hoogeind
+Hoogeind
+Hoogelande
 Hoogeloon
+Hoogen-Aarle
 Hoogerheide
+Hoogeweg
+Hooghout
+Hoogriebroek
+Hoogstraat
+Hoogstraat
+Hoogveld
+Hooidonk
+Hool
+Horick
 Horn
 Horst
+Horst
+Horzik
+Hout
+Hout
+Hout-Blerick
+Houtbroek
+Houterd
+Houtgoor
+Houthei
+Houthem
+Houthuizen
+Houtsestraat
+Hub
+Hugten
+Huij
 Huijbergen
 Huisseling
+Huisvennen
+Huize Padua
+Huls
+Hulsbeek
 Hulsberg
+Hulsdonk
 Hulsel
+Hulsen
+Hulsen
 Hulst
 Hulten
+Hultje
+Humcoven
+Hunnecum
 Hunsel
+Hurkske
+Hurpesch
+Hushoven
+Hussenberg
+Huygevoort
+IJpelaar
 IJzendijke
+IJzeren
+Illikhoven
+Imstenrade
+In de Hoeven
 Ingber
+Isabellahaven
+Itteren
 Ittervoort
 Jabeek
+Joossesweg
+Kaarschot
+Kaathoven
 Kaatsheuvel
+Kade
+Kalishoek
+Kameren
+Kamp
+Kamp
+Kampen
+Kamperhoek
 Kamperland
+Kampersche Hoek
+Kampershoek
+Kantje
+Kapeleind
+Kapelle
 Kapelle
 Kapellebrug
+Kapolder
+Kappert
+Karreveld
+Karstraat
+Kasen
+Kasteren
+Katerbosch
+Kathagen
 Kats
+Katsberg
+Kattenberg
 Kattendijke
+Katwijk
 “Katwijk NB”
+Kaumeshoek
+Kaweide
 Keent
+Keent
+Keersop
+Keizerrijk
+Keizershoek
+Keizersveer
+Keizersveer
+Keldonk
+Kelmond
+Kelpen
 Kelpen-Oler
+Kerkeind
+Kerkeind
+Kerkeind
+Kerkeinde
+Kerkhof
 Kerkrade
 Kerkwerve
+Keske
 Kessel
+Kessel
+Kesseleik
+Keunenhoek
+Keup
+Keutenberg
+Keuter
+Kievitswaard
+Kijkuit
+Kijkuit
+Kille
+Kinderbos
+Kinkhoven
+Kippereind
+Kivitsbraak
+Klaarstraat
+Kladde
+Kleeberg
+Klef
+Klein Bruggen
+Klein Genhout
+Klein Haasdal (?)
+Klein Hanssum
+Klein Loo
+Klein Mariekerke
+Klein-Bedaf
+Kleinder-Liempde
+Klein-Doenrade
+Klein-Dongen
+Kleindorp
+Kleine Bottel
+Kleine Horst
+Kleine Koolwijk
+Kleine Meers
+Kleine Voort
+Kleingenhout
+Klein-Oekel
+Klein-Oirlo
+Klein-Schoot
+Klein-Valkenisse
+Klein-Vortum
+Klein-Welsden
 Klein Zundert
+Kleverskerke
 Klimmen
 Kloetinge
 Kloetinge
+Klooster
+Kloostereind
 Kloosterzande
 Klundert
+Klutsdorp
+Knaphof
 Knegsel
+Knikkerdorp
+Knuitershoek
+Koekoek
+Koekoek
+Koevering
+Koevering
 Koewacht
+Kokkelert
+Koninginnehaven
 Koningsbosch
 Koningslust
+Kooldert
+Koolwijk
+Korn
+Korte Heide
+Korteven
 Kortgene
+Kosberg
 Koudekerke
+Koulen
+Kouwenberg
+Kraan
+Kraanmeer
+Kraanven
 Krabbendijke
+Krabbenhoek
+Kranenbroek
+Kreek
+Kreielt
+Kreijel
+Kreijl
+Kreitsberg
+Kremsel (?)
+Kreverhille
+Krolhoek
+Krommenhoeke
 Kronenberg
 Kruiningen
+Kruisberg
+Kruisdijk
+Kruisdorp
 Kruisland
+Kruispolderhaven
+Kruispunt
+Kruisstraat
+Kruisstraat
+Kruisstraat
+Kruisstraat
+Kuiksche Heide
+Kuikseind
+Kuilenrode
 Kuitaart
+Kuivezand
+Kulert
+Kunrade
+Kuttingen
+Kuundert
+Kwaalburg
 Kwadendamme
+Kwakkel
+Kwartier
+Laag Spul
+Laag-Caestert
+Laageind
+Laagheide
+Laag-Heukelom
+Laagriebroek
+Laagstraat
+Laagstraat
+Laar
+Laar
+Laar
+Laar
+Laar
+Laar
+Laar
+Laarbroek
+Lage Aard
+Lage Berkt
 Lage Mierde
+Lage Wijst
 Lage Zwaluwe
+Lagebiezen
+Lagekant
+Lagenheuvel
+l'Air Pur
+Lakei
+Lamperen
 Lamswaarde
+Land van Kleef
 Ubach over Worms
 Landhorst
+Landorp
+Landsrade
+Lang Hout
+Lange Heide
+Langenberg
 Langenboom
+Langendijk
+Langendijk
+Langereit
+Langeschouw
+Langeweegje
 Langeweg
+Langlaar
+Langstraat
+Lankes
+(De) Laren (?)
 Ledeacker
+Leemberg
+Leemhorst
 Leende
+Leenderstrijp
+Leensel
+Leeuw
+Leeuwerik
+Leg
+Legert
+Lemel
 Lemiers
+Lennisheuvel
 Lepelstraat
+Lerop
 Leunen
+Leveroijse Bergen
 Leveroy
 Lewedorp
+Libeek
+Liefkenshoek
 Liempde
 Lierop
+Lies
+Lieseind
 Lieshout
 Liessel
+Lieveld
+Lijndonk
 Limbricht
 Linden
+Lingsfort
 Linne
 Lith
 Lithoijen
+Locht
+Loeswijk
 Lomm
+Loo
+Loo
+Loo
+Loo
+Loobeek
+Looieind
+Looienhoek
+Looiwinkel
+Loon
 Loon op Zand
+Looneind
+Loons Hoekje
+Loonse Hoek
+Looperskapelle
 Loosbroek
 Lottum
+Lovendaal
+Loveren
+Loveren
+Loveren
+Luchen
+Luissel
+Luitert
+Luntershoek
+Luttelherpt
 Luyksgestel
+Maagd van Gent
+Maaidijk
+Maaijkant
+Maalbergen
+Maalbroek
+Maalstede
 Maarheeze
+Maasband
 Maasbracht
 Maasbree
 Maashees
+Maaskant
+Maaskantje
 Maastricht
 Maastricht Airport
+Maatsehei
 Macharen
 Made
+Magrette
+Malland
+Mamelis
+Maren
 Maren-Kessel
 Margraten
 Maria Hoop
+Mariadorp
+Mariaheide (?)
 Mariahout
+Maris
+Marolleput
+Mathijseind
+Mauritsfort
+Maxet
 Mechelen
+Medevoort
+Meemortel
+Meer
+Meeren
 Meerlo
+Meers
 Meerssen
+Meerven
 Meeuwen
+Megelsum
 Megen
 Meijel
+Meijldoorn
+Meijsberg
 Melderslo
 Melick
 Meliskerke
+Melleschet
+Menzel
 Merkelbeek
+Merlenberg
 Merselo
+Merum
+Mesch
 Meterik
 Mheer
+Midbuul
 Middelaar
+Middelbeers
 Middelburg
+Middelijk
+Middelrode
+Middenhof
 Mierlo
+Mildert
 Milheeze
 Mill
 Milsbeek
+Milschot
+Mingersberg
+Mingersberg
+Mispeleind
 Moerdijk
+Moeren
+Moerenburg
 Moergestel
+Moerslag
 Moerstraten
+Moesdijk
+Molembaix
+Molenbaan
+Moleneind
+Moleneind
+Moleneind
+Moleneind
+Molengat
 Molenhoek
+Molenhoek
+Molenhoek
+Molenhof
+Molenhuizen
+Molenperk
 Molenschot
+Molenstraat
+Molenstraat
+Molenveld
+Molenvliet
+Molenwijk
+Molsberg
+Monnikendijk
 Montfort
 Mook
+Moorsel
 Moorveld
+Moriaanshoofd
+Morsche Hoef
+Mortel
+Mosbulten
+Mosik
+Mosselaar
+Mosselhoek
+Most
+Mostheuvel
+Muggenberg
+Muggenhol
+Muggenhool
+Muizenhol
+Mun
+Munnekens-Vinkel
+Munnekens-Vinkel
+Munnikenheide
 Munstergeleen
+Nabbegat
+Nachtegaal
+Nagelbeek
+Nattenhoven
+Nederheide
 Nederweert
 Nederweert-Eind
+Nederweerterdijk
+Nederwetten
 Neer
+Neerbeek
+Neerbroek
+Neereind
 Neeritter
 Neerkant
 Neerlangel
 Neerloon
+Neerstraat
+Nergena
+Nerhoven
 Netersel
+Niemeskant
+Nierhoven
+Nieuw Acht
 Nieuw- en Sint Joosland
+Nieuw- en Winnerstraat
+Nieuw(-)Bergen (?)
+Nieuw-Abeele
 Nieuwdorp
+Nieuwe Dijk
+Nieuwe Molen
+Nieuwe Strumpt
+Nieuwemolen
+Nieuwemolen
+Nieuwenberg
 Nieuwendijk
+Nieuwenhagen
 Nieuwerkerk
+Nieuwerkerke (Schutje)
+Nieuwe-Vaart
+Nieuw-Gassel
+Nieuw-Haamstede
+Nieuwkerk
 Nieuwkuijk
+Nieuwland
+Nieuwlandse Molen
+Nieuw-Namen
 “Nieuw Namen”
 Nieuwstadt
 Nieuwvliet
+Nieuwvliet-Bad
 Nieuw-Vossemeer
+Nijhoven
+Nijken
+Nijnsel
+Nijswiller
+Nijvelaar
 Nispen
+Nispense Achterhoek
 Nisse
 Nistelrode
+Noenes
 Noorbeek
+Noord
+Noordeinde
 Noordgouwe
 Noordhoek
+Noordhoek
+Noordkant
+Noordschans
+Noordstraat
 Noordwelle
+Notendaal
+Notsel
 Nuenen
+Nuijeneind
 Nuland
+Nummer Eén
 Nunhem
 Nuth
 Obbicht
 Odiliapeel
 Oeffelt
+Oeijenbraak
+Oekel
+Oensel
+Oerle
+Oetelaar
+Oevereind
 Ohé en Laak
+Oijen
 Oijen
 Oirlo
 Oirsbeek
 Oirschot
 Oisterwijk
+Oisterwijkse Hoeven
+Olen
+Olen
+Oler
+Olland
 Ommel
+Onder de Molen
+Onder Eindt
+Onsenoort
+Ooijen
+Ool
+Oostappen
+Oostbroek
 Oostburg
+Oostburgsche Brug
 Oostdijk
 Oosteind
+Oosteind
+Oostelbeers
+Oosterens
 Oosterhout
+Oosterik
 Oosterland
 Oostkapelle
+Oostlaar
+Oost-Maarland
 Oostrum
 Oost-Souburg
 Oost West en Middelbeers
+Op de Belt
+Op de Bies
+Op de Bos
+Op de Hoven
+Op den Bosch
+Op den Hering
+Ophoven
+Ophoven
 Oploo
+Opwetten
+Oranjeoord
+Osen
 Ospel
+Ospeldijk
 Oss
 Ossendrecht
 Ossenisse
+Ostaaijen
+Osterbos
+Othene
+Otterdijk
 Ottersum
 Oud Gastel
+Oud Kerkhof
+Oud Lemiers
+Oud-Drimmelen
+Oude Kerk
+Oude Molen
+Oude Polder
+Oude Stee
+Oude Stoof
+Oude Strumpt
+Oude Waranda
+Oudedorp
+Oudeland
 Oudelande
 Oudemolen
+Oud-Empel
 Oudenbosch
+Oudendijk
+Oudenmolen
 Oudheusden
+Oud-Roosteren
+Oud-Sabbinge
+Oud-Valkenburg
 Oud-Vossemeer
 Ouwerkerk
+Oventje
+Overa
+Overakker
+Overberg
+Overbroek
+Overbrug
+Overeys
+Overgeul
+Overhaelen
+Overheek
 Overlangel
 Overloon
+Overschot
 Overslag
 Ovezande
+Paal
+Paarlo
+Pandelaarse Kampen
+Pandgat
+Panheel
+Pannenschop
 Panningen
 Papenhoven
+Papenvoort
+Papenvoort
+Park
+Partij
+Passluis
+Patrijzenhoek
+Pauluspolder
+Peeldijk
+Peelkant
+Peelse Huis (?)
+Peelstraat
+Peelstraat
+Peerenboom
+Peij
+Pelikaan
+Pelsendijk
+Pepinusbrug
+Pesaken
 Philippine
+Piepert
+Pitteperk
+Plaat
+Plaatsluis
+Plakkebord
+Plankendorp
+Planketent
+Plantage Centrum
 Plasmolen
+Platveld
+Plein
+Poeldonk
+Pol
+Polsdonken
+Ponte
+Ponte Avancé
+Poonhaven
 Poortvliet
+Poppendamme
 Posterholt
+Posthoorn
+Prickart
 Prinsenbeek
+Putbroek
 Puth
+Putselaar
 Putte
+Pyramide
+Quirijnstok
+Raaieind
+Raakeind
+Raam
+Raamberg
 Raamsdonk
 Raamsdonksveer
+Raar
+Rakens
+Rakt
 Ransdaal
+Raren
+Ravensgat
 Ravenstein
 Reek
 Reijmerstok
+Ren
 Renesse
+Retersbeek
+Reth
 Retranchement
 Reusel
+Reuth
+Reutje
 Reuver
+Reuzenhoek
 Riel
+Riel
+Rietbroek
+Riethorst
 Riethoven
+Rietven
+Rietven
+Rijckholt
 Rijen
+Rijkebuurt
+Rijkel
+Rijkerbeek
 Rijkevoort
 Rijkevoort-De Walsert
+Rijpelberg
 Rijsbergen
+Rijswijk
 “Rijswijk (NB)”
+Rijt
 Rilland
+Rimburg
+Rimpelt
+Rinkesfort
+Rinkveld
+Rith
 Ritthem
+Rode Sluis
+Roelshoek
 Roermond
+Roeven
 Roggel
+Roggelsedijk
+Rolaf
+Roligt
+Rondveld
+Roodenhoek
+Roodewijk
+Roond
+Roosberg
 Roosendaal
 Roosteren
+Rooth
+Roskam
 Rosmalen
+Rothem
+Rothenbach
+Rott
+Roverberg
 Rucphen
+Rugdijk
+Ruimel
+Ruischendegat
+Rukven
+Rul
+Rullen
+Rusven
 Sambeek
+Santfort
 Sas van Gent
+Sasput
+Schaapsbrug
+Schadewijk
+Schadijk
+Schadron
+Schaesberg
+Schafelt
+Schafferden
+Schaft
 Schaijk
+Schaluinen
+Schandelo
+Schans
+Schans
+Schans
+Schans
+Schapenbout
+Schapershoek
 Scharendijke
+Scheepstal
+Scheide
+Scheldevaartshoek
+Schellach
+Schelm
+Scherpbier
+Scherpenering
 Scherpenisse
 Scheulder
+Schey
+Schietecoven
 Schijf
 Schijndel
+Schilberg
+Schilberg
+Schilberg
+Schillersheide
 Schimmert
 Schin op Geul
 Schinnen
 Schinveld
+Schipperskerk
+Schoelieberg
+Schoonbron
 Schoondijke
+Schoondorp
+Schoor
+Schoor
+Schoor
+Schoordijk
+Schoorstraat
+Schoorveld
+Schoot
 Schore
+Schorebrug
+Schotsheuvel
+Schouw
+Schuddebeurs
+Schuddebeurs
+Schurenberg
+Schutsboom
+Schweiberg
+Sengelsbroek
 Serooskerke
 Serooskerke
+Seters
 Sevenum
+Sibbe
 Siebengewald
 Simpelveld
+Sinoutskerke
+Sinselbeek
 Sint Agatha
 Sint-Annaland
+Sint Anna ter Muiden
 Sint Anthonis
+Sint Antoniusbank
 Sint Geertruid
 Sint Hubert
+Sint Janskerke
 Sint Jansteen
 Sint Joost
 Sint Kruis
+Sint Laurens
 Sint Odiliënberg
+Sint-Annaland
 Sint-Maartensdijk
 Sint-Michielsgestel
 Sint-Oedenrode
 Sint-Philipsland
 Sirjansland
 Sittard
+Slabroek
 Sleeuwijk
+Slek
 Slenaken
+Sliffert
+Slijkplaat
+Slikkenburg
+Slikkenburg
+Sloot
 Sluis
+Sluis
+Sluis
+Sluis 13
+Sluis De Piet
 Sluiskil
 Smakt
+Smal
+Smedekensbrugge
+Smele
+Smidstraat
+Sneidershoek
+Snepseind
+Snijdersberg
+Snijders-Chaam
 Soerendonk
+Soeterbeek
 Someren
+Someren-Eind
+Someren-Heide
+Son
 Son en Breugel
+Sonniuswijk
+Spaanrijt
+Spaansehoek
+Spaanshuisken
 Spaubeek
+Spekklef
+Spekt
+Speurgt
+Spiesberg
+Spijk
+Spik
+Spinolaberg
+Spoordonk
+Sprang
 Sprang-Capelle
+Sprangsevaart
 Sprundel
 Spui
+Spurkt
 St. Willebrord
+Stad van Gerwen
+Stadse Dijk
 Stampersgat
 Standdaarbuiten
+Startwijk
+Statenboom
+Statendam
+Stationsbuurt
 Stavenisse
+Steeg
+Steelhoven
 Steenbergen
+Steenenkruis
+Steenhoven
+Steenoven
+Steenoven
+Steenovens
+Steenpaal
 Steensel
+Stegen
 Stein
+Stenenheul
 Sterksel
+Steurgat
 Stevensbeek
 Stevensweert
+Stevert
 Steyl
+Stipdonk
+Stiphout
+Stokhem
+Stokkelen
+Stokske
+Stokt
+Stommeveld
+Stoof
+Stoppeldijkveer
+Stox
+Straat
+Strabrecht
 Stramproy
+Straten
+Strateris
+Strepen
 Strijbeek
+Strijenham
+Strijp
+Strikberg
+Stroodorp
+Stroodorpe
+Strooiendorp
+Strooienstad
+Stroopuit
+Strubben
+Strucht
+Stuivezand
+Stuivezand
 Susteren
 Swalmen
+Swartbroek
 Sweikhuizen
+Swier
 Swolgen
+Tasdijk
 Teeffelen
 Tegelen
+Ten Vorsel
+Ter Aalst
+Terblijt (?)
+Tereyken
+Terhagen
 Terheijden
+Terhofstede
 Terhole
+Terhorst
+Terlinden
+Termaar
+Termaar
+Termoors
 Terneuzen
+Terover
+Terpoorten
+Terstraten
+Tervaten
+Tervoorst
+Tervoort
+Terziet
 Teteringen
+Theetuin
 Tholen
 Thorn
+Thull
+Thuserhof
+Tielse Hoeve
 Tienray
+Tiggelt
+Tiggeltscheberg
 Tilburg
+Timmereind
+Tommel
+Tongeren
+Tongerlo
+Tongerlo
+Tonnekreek
+Toom
+Toterfout
+Toven
+Tragel
+Tregelaar
+Trent
+Trimpert
+Trintelen
+Tuindorp
+Tungelroy
+Turkeye (?)
+Tusschen de Bruggen
+Tuuthees
+Ubach over Worms
+Ubachsberg
+Ubroek
 Uden
 Udenhout
+Uffelsen
 Uitwijk
 Ulestraten
+Ulfterhoek
 Ulicoten
+Ullingen
+Ulvend
 Ulvenhout
 Ulvenhout AC
+Uppel
+Urkhoven
 Urmond
 Vaals
+Vaareind
+Vaarle
+Vaars(ch)e Hoef (?)
+Vaart
+Vaartwijk
+Vaesrade
+(De) Val (?)
+Valeiskreek
 Valkenburg
 Valkenswaard
+Vebenabos
 Veen
 Veere
 Veghel
+Veldbraak
 Velden
 Veldhoven
+Veld-Oostenrijk
+Veldschuur
+Veldzicht
+Veldzicht
 Velp
+'t Ven (?)
+Ven
+Ven
+Venbergen
+Veneind
 Venhorst
 Venlo
+Venne
 Venray
+Venweg
 Ven-Zelderheide
+Vergelt
+Verhoven
+Verloren Hoek
+Verlorenhoek
+Vernhout
 Vessem
+Vestjenshoek
+Vetterik
 Veulen
+Vianen
 “Vianen NB”
+Viel
+Vierbannen
 Vierlingsbeek
+Vieruitersten
+Vijcie
+Vijfhoek
+Vijfhoek
+Vijfhuizen
+Vijfhuizen
+Vijfhuizen
 Vijlen
+Vilgert
+Vilt
+Vink
 Vinkel
 Vinkel
+Vinkenberg
+Vinkenbroek
+Vinkepas
+Visberg
+Visdonk
+Visser(s)weert
+Vlaas
+Vlagberg
+Vlas
+Vleet
+Vlengendaal
+(De ?) Vleut
+Vliegert
 Vlierden
 Vlijmen
 Vlissingen
 Vlodrop
+Vloeieind
+Vloeieind
+Vloet
+Vlootkant
+Voederheil
 Voerendaal
+Vogelfort
 Vogelwaarde
+Völckerdorp
 Volkel
+Voordeldonk
+Voordijk
+Vooreind
+Voorst
+Voorste Beersdonk
+Voorste Brug
+Voorste Diesdonk
+Voorste Heikant
+Voorsterveld
+Voort
+Voort
+Voorteind
+Voortje
 Vorstenbosch
 Vortum-Mullem
+Vosberg
+Voske
+Vosselen
+Vossenberg
+Vossenberg
+Voulwames
+Vrachelen
 Vredepeel
+Vreewijk
+Vrij
+Vrijhoeve
+Vrilkhoven
+Vroelen
+Vroenhout
 Vrouwenpolder
+Vuchtschoot
 Vught
+Vuilpan
+Waalbroek
 Waalre
 Waalwijk
+Waanskinderen
 Waarde
 Waardhuizen
+Waatskamp
 Wagenberg
+Wahlwiller
+Waije
 Walem
+Walik
+Walsert
 Walsoorden
+Wamberg
 Wanroij
 Wanssum
 Waspik
+Waspik-Zuid
+Waterkant
 Waterlandkerkje
+Waterop
+Waterstraat
+Waterval
+Weebosch
+Weeg
+Weerd
 Weert
+Weert
+Weilenseind
+Weimeren
+Welberg
+Well
 “Well L”
 Wellerlooi
 Wemeldinge
+Werendijke
 Werkendam
 Wernhout
+Wernhoutsburg
+Werveld
+Wesch
 Wessem
+Westbroek
 Westdorpe
+Westelbeers
+Westenschouwen
 Westerbeek
+Westerwijk
 Westkapelle
+Westkerke
+Westrik
+West-Souburg
+Weustenrade
+Weverslo
+Wielder
+Wieler
 Wijk en Aalburg
 Wijlre
 Wijnandsrade
 Wilbertoord
+Wildert
 Wilhelminadorp
+Willebrordushoek
 Willemstad
 Windraak
+Winkel
+Winkel
+Winkelstraat
 Wintelre
+Winthagen
+Wisbroek
+Wissekerke
 Wissenkerke
+Witdonk
+Withuis
+Witrijt
 Wittem
 Woensdrecht
+Wolfhaag
+Wolfhagen
+Wolfsbosch
+Wolfshoek
+Wolfshoek
+Wolfshuis
+Wolfswinkel
 Wolphaartsdijk
+Woud
 Woudrichem
 Wouw
+Wouwse Hil
 Wouwse Plantage
+Wulpenbek
 Yerseke
+Yersekendam
 Ysselsteyn
 Zaamslag
+Zaamslagveer
+Zaarvlaas
+Zand
+Zandberg
+Zandberg
+Zandberg
+Zandberg
+Zanddijk
+Zandeind
+Zandfort
+Zandhoek
+Zandhoek
+Zandkant
+Zandkant
+Zandoerle
+Zandplaat
+Zandstraat
+Zandwijk
+Zeedorp
+Zeegat
 Zeeland
+Zeelberg
+Zeelberg
 Zegge
+Zelder
+Zelen
+Zelt
+Zevenbergen
 Zevenbergen
 Zevenbergschen Hoek
 Zevenbergschen Hoek
+Zevenhuis
+Zevenhuizen
+Zevenhuizen
+Zevenhutten
 Zierikzee
+Zijp
+Zijtaart
+Zittard
+Zittard
+Zoggel
+Zomerven
+Zondveld
 Zonnemaire
+Zoomvliet
 Zoutelande
+Zuid-Carolina
 Zuiddorpe
+Zuidgeest
 Zuidzande
 Zundert
+Zwaanenheike
+Zwarte Ruiter
+Zwartenberg
+Zwijnsbergen
+Zwingelspaan

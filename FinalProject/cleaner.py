@@ -69,14 +69,24 @@ def devide_North_South(textfile):
     return(North, South)
 
 def clean_line(North_or_South):
+    # This function gets rid of the zipcode at the front of sentence if there is any
     revisioned_North_or_South = []
     for place in North_or_South:
         if re.match('^[0-9]*$', place[0]):
             revisioned_North_or_South.append(place[5:])
-    return revisioned_North_or_South
-                
+        else:
+            revisioned_North_or_South.append(place)   
+    return revisioned_North_or_South           
                 
 def only_place_name(n_or_s):
+
+    # every line has 2 ways to start:
+    # placename tab rest of the sentence
+    # or 
+    # Frisian placename space slash
+    
+    # This function makes sure that you only get the placename and not the rest of the sentence
+    
     only_place_list = []
     for place in n_or_s:
         if '/' in place:
@@ -90,6 +100,7 @@ def only_place_name(n_or_s):
                    
 
 def main():
+
     textfile = get_input()
     North, South = devide_North_South(textfile)
     
@@ -98,11 +109,9 @@ def main():
 
     only_places_North = only_place_name(cleaned_North)
     only_places_South = only_place_name(cleaned_South)
-    
         
     write_to_North(only_places_North)
     write_to_South(only_places_South)
-
     
 if __name__ == "__main__":
     main()
