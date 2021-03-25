@@ -53,3 +53,19 @@ Ik denk dat het ook wel cool is dat je op het eind kunt laten zien hoeveel  proc
 How Netherlands as a language works is if something is possitive that immediatly rules out the negative except if you place one of those 4 "niet" words in front of it.
 
 Bad words lijst aangepast.
+
+Nu moet je dus eerst de tweets hebben uit het noorden en het zuiden, nou dat is prima hoe ik zie dat het werkt is als volgt je hebt de tweet dan heb je en tab en daarna heb je dus die plek als die er mogelijk is, als er niks achter staat dan is dat jammer maar ja helaas. Wat ook kan zijn dat daar coordinaten staan maar daar ga ik niks mee doen dus eigenlijk wat er moet gebeuren is het volgende.
+
+Tekst staat hier \t (tab) plaats
+
+Dan moet je kijken is er een deel (of de complete naam) van die plaats die match met een plaatst in de set. (dit is het lastigste).
+Is dit waar dan neem je index 0 en 1 van die zin.
+Daarna ga je kijken of er een vrolijk of niet vrolijk woord instaat
+Dan ga je met die regels die je bedacht hebt ga je kijken bij welke van de 2 die hoort of dat ie bij geen van 2 behoort,
+weet je dan weer die bij hoort dan tel je dat bij die counter op.
+
+
+https://www.geeksforgeeks.org/python-get-all-substrings-of-given-string/
+
+
+
