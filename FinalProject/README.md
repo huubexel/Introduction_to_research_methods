@@ -49,3 +49,5 @@ Wat mogelijk een goed idee is voor de toekomst, voor het verdere onderzoek is om
 De plaatslijst voor zowel noord als zuid is nu ook klaar, dus nu moet ik die grote python code maken die uitzoekt of een tweet blij of niet blij is. Daarnaast moet ik dan kijken waar dat weg kan komen, ik ga eerst de plek gebruiken en dan hoop ik dat dat genoeg is.
 
 Ik denk dat het ook wel cool is dat je op het eind kunt laten zien hoeveel  procent blij is van de tweets en hoeveel procent van de tweets boos is of iets in die richting.
+
+How Netherlands as a language works is if something is possitive that immediatly rules out the negative except if you place one of those 4 "niet" words in front of it.
