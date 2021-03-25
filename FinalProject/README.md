@@ -51,3 +51,5 @@ De plaatslijst voor zowel noord als zuid is nu ook klaar, dus nu moet ik die gro
 Ik denk dat het ook wel cool is dat je op het eind kunt laten zien hoeveel  procent blij is van de tweets en hoeveel procent van de tweets boos is of iets in die richting.
 
 How Netherlands as a language works is if something is possitive that immediatly rules out the negative except if you place one of those 4 "niet" words in front of it.
+
+Bad words lijst aangepast.
