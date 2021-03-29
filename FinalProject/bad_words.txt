@@ -404,6 +404,7 @@ treur
 vervolgen
 vervolgd
 vervolging
+niet
 nietig
 verrotte
 verrot
