@@ -61,8 +61,9 @@ weet je dan weer die bij hoort dan tel je dat bij die counter op.
 
 https://www.geeksforgeeks.org/python-get-all-substrings-of-given-string/
 
+Results:
+The total amount of good tweets that were tweeted in the first 4 months of 2018 in the North of the netherlands is: 225378
+The total amount of bad tweets that were tweeted in the first 4 months of 2018 in the North of the netherlands is: 264243
+The total amount of good tweets that were tweeted in the first 4 months of 2018 in the South of the netherlands is: 566790
+The total amount of bad tweets that were tweeted in the first 4 months of 2018 in the South of the netherlands is: 608427
 
-# het enig wat je kunt doen is kijken of er een deel van dat woord in het totaal zit van index [1]
-# dus wat je dan ook moet doen is elke mogelijkheid daarvoor kijken of die in 1 van die 2 bestanden met plaatsen zit 
-# en is dat het geval dan moet diezelfde tweet ook gekeken worden of die positief of negatief is en is dat het geval 
-# dan krijgt of noord of zuid er 1 punt bij voor of vrolijk of niet vrolijk.
