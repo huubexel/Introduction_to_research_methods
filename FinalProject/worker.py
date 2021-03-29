@@ -100,28 +100,42 @@ def tweet_tokenizer(tweets):
     return tokenized_tweets
 
 def check_emotion(tweets, bad_words, good_words):
+# This function checks if there are any good or bad words in the tweets.
+# If there are as many good words as bad words in one tweet than it is not considered
+# either a good or bad tweet. If there are for example two good words and one bad word
+# than the tweet is considered good cause there are more good words in the tweet than bad words.
+
+    # These two count the total good tweets and bad tweets
     good_tweets = 0
     bad_tweets = 0
+    
     for tweet in tweets:
-        positive_words = 0
-        negative_words = 0
+        positive_words = 0	# positive word counter per tweet
+        negative_words = 0 	# negative word counter per tweet
+        
         for word in tweet:
             if word in good_words:
-                positive_words +=1
+                positive_words +=1      	# if the word is in the positive list than its considered a positive word
             elif word in bad_words:
-                negative_words +=1      
-        if positive_words > negative_words:
+                negative_words +=1		# if the word is in the negative list than its considered a negative word
+                      
+        # If there are more positive words in a tweet than negative words than the tweet is considered a positive tweet              
+        if positive_words > negative_words: 		
             good_tweets +=1
+            
+        # If there are more negative words in a tweet than positive words than the tweet is considered a negative tweet    
         elif negative_words > positive_words:
             bad_tweets +=1
+    
+    # returns how many good and how many bad tweets        
     return (good_tweets, bad_tweets)
     
 
 def main():
   
+    # these four are the total counters, so they count the numbers that we want to know in the end.
     total_good_tweets_north = 0
     total_bad_tweets_north = 0
-    
     total_good_tweets_south = 0
     total_bad_tweets_south = 0
     
@@ -134,26 +148,37 @@ def main():
     # all the file paths needed are made here
     file_paths = file_path_handler()
 
-    for i in range(january_days + february_days + march_days + april_days):
+    # for every day of the first four months of 2018 do the following:
+    for i in range(31 + 28 + 31 + 30):
+    
+        # checks if the tweets come out of the north or south of the Netherlands
+        # (or from a different place but those are not saved in any way) and saves that in seperate variables
         north_tweets, south_tweets = check_place(north_places_set, south_places_set, file_paths[i])
     
+        # tokenizes tweets
         north_tokenized = tweet_tokenizer(north_tweets)
         south_tokenized = tweet_tokenizer(south_tweets)
     
+        # checks tweets in the north if they are good or bad (or neither, but those are not saved in any way)
+        # and saves those amounts in seperate variables
         good_tweets_north_counted, bad_tweets_north_counted = check_emotion(north_tokenized, bad_words_set, good_words_set)
 
+        # adds the total amount of good and bad tweets from the north to the total variables
         total_good_tweets_north = total_good_tweets_north + good_tweets_north_counted
         total_bad_tweets_north = total_bad_tweets_north + bad_tweets_north_counted
 
+        # checks tweets in the south if they are good or bad (or neither, but those are not saved in any way)
+        # and saves those amounts in seperate variables
         good_tweets_south_counted, bad_tweets_south_counted = check_emotion(south_tokenized, bad_words_set, good_words_set)
                 
+        # adds the total amount of good and bad tweets from the south to the total variables        
         total_good_tweets_south = total_good_tweets_south + good_tweets_south_counted
         total_bad_tweets_south = total_bad_tweets_south + bad_tweets_south_counted
         
-    print(total_good_tweets_north)
-    print(total_bad_tweets_north)
-    print(total_good_tweets_south)
-    print(total_bad_tweets_south)
+    print("The total amount of good tweets that were tweeted in the first 4 months of 2018 in the North of the netherlands is: {0}".format(total_good_tweets_north))
+    print("The total amount of bad tweets that were tweeted in the first 4 months of 2018 in the North of the netherlands is: {0}".format(total_bad_tweets_north))
+    print("The total amount of good tweets that were tweeted in the first 4 months of 2018 in the South of the netherlands is: {0}".format(total_good_tweets_south))
+    print("The total amount of bad tweets that were tweeted in the first 4 months of 2018 in the South of the netherlands is: {0}".format(total_bad_tweets_south))
 
 
 if __name__ == "__main__":
