@@ -1,3 +1,5 @@
+Please read this readme before using anything from the FinalProject directory
+
 My system version and other things that need to be put down here:
 Distributor ID:	Ubuntu
 Description:	Ubuntu 20.04.2 LTS
