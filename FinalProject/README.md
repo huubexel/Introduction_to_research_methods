@@ -28,6 +28,13 @@ zcat /net/corpora/twitter2/Tweets/2018/03/20180309:*.out.gz | /net/corpora/twitt
 And here is another one
 zcat /net/corpora/twitter2/Tweets/2018/02/20180211:*.out.gz | /net/corpora/twitter2/tools/tweet2tab words user.location coordinates > ~/tweets_feb_11.txt
 
+After you have download a file you have to exit karora first, you can do this by typing exit in the terminal.
+
+If you are now in the right directory on your computer again type in scp s3792412@karora.let.rug.nl:tweets_mar_9.txt
+To get for example everything from march the 9th.
+You do have to fill in your username and password again.
+Do this after day or it will be easy to lose track of what you have done.
+
 If you have downloaded every single one make sure that every file is in the directory the way it is in my github dipository
 
 Git LFS needs to be installed
